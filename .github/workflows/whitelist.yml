@@ -1,0 +1,32 @@
+name: Plugin List Updater
+
+on:
+  workflow_dispatch: []
+  push:
+    branches: [ main ]
+    paths: 
+    - 'Plugins/**'
+  pull_request:
+    branches: [ main ]
+    paths: 
+    - 'Plugins/**'
+  
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+    - name: Create Archive
+      uses: thedoctor0/zip-release@master
+      with:
+        filename: 'plugins.zip'
+        path: 'Plugins'
+    - name: Hash Archive
+      run: sha1sum plugins.zip > plugins.sha1
+    - name: Push Archive
+      uses: EndBug/add-and-commit@v7
+      with:
+        message: 'Plugin list updated.'
+        add: 'plugins.zip plugins.sha1'
