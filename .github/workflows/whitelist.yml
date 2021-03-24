@@ -22,7 +22,7 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         filename: 'plugins.zip'
-        path: 'Plugins'
+        directory: 'Plugins'
     - name: Hash Archive
       run: sha1sum plugins.zip > plugins.sha1
     - name: Push Archive
