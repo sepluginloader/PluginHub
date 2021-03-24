@@ -23,10 +23,12 @@ jobs:
       with:
         filename: 'plugins.zip'
         directory: 'Plugins'
+    - name: Move Archive
+      run: 'cp -f Plugins/plugins.zip plugins.zip'
     - name: Hash Archive
-      run: sha1sum plugins.zip > plugins.sha1
+      run: 'sha1sum plugins.zip > plugins.sha1'
     - name: Push Archive
       uses: EndBug/add-and-commit@v7
       with:
         message: 'Plugin list updated.'
-        add: '["plugins.zip", "plugins.sha1"]'
+        add: 'plugins.zip plugins.sha1'
