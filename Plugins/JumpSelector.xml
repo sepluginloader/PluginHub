@@ -2,4 +2,7 @@
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="WorkshopPlugin">
   <Id>2414150672</Id>
   <FriendlyName>JumpSelector</FriendlyName>
+  <AllowedHashes>
+    <string>a</string>
+  </AllowedHashes>
 </PluginData>
