@@ -2,5 +2,5 @@
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>austinvaness/ToolSwitcherPlugin</Id>
   <FriendlyName>Tool Switcher</FriendlyName>
-  <Commit>e698ffe422f17c0e7cce13386c575d5c0e16c080</Commit>
+  <Commit>ba967d5a242d285140551b8dddc83fd04a222002</Commit>
 </PluginData>
