@@ -2,7 +2,7 @@
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>viktor-ferenczi/multigrid-projector</Id>
   <FriendlyName>Multigrid Projector</FriendlyName>
-  <Commit>0deb7f50833e3e7800f3b303be02666378943957</Commit>
+  <Commit>3e1026fe902967eb4ecfd31e6fcdca4b94d7efd1</Commit>
   <SourceDirectories>
     <Directory>MultigridProjector</Directory>
     <Directory>MultigridProjectorClient</Directory>
