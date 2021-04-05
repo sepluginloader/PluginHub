@@ -7,4 +7,5 @@
     <Directory>MultigridProjector</Directory>
     <Directory>MultigridProjectorClient</Directory>
   </SourceDirectories>
+  <Hidden>true</Hidden>
 </PluginData>
