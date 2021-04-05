@@ -3,4 +3,5 @@
   <Id>austinvaness/ToolSwitcherPlugin</Id>
   <FriendlyName>Tool Switcher</FriendlyName>
   <Commit>eeca2869224bb99a34542c5e40b5ac6912b08cbc</Commit>
+  <Hidden>true</Hidden>
 </PluginData>
