@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>austinvaness/ToolSwitcherPlugin</Id>
+  <GroupId>ToolSwitcher</GroupId>
   <FriendlyName>Tool Switcher</FriendlyName>
   <Commit>eeca2869224bb99a34542c5e40b5ac6912b08cbc</Commit>
 </PluginData>
