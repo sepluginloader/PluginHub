@@ -5,6 +5,9 @@
   <!-- Place the steam id of your workshop item here. -->
   <Id>2292390607</Id>
   
+  <!-- Optional tag that specifies the group this plugin belongs to. Only one plugin from a given group can be enabled. -->
+  <GroupId>ToolSwitcher</GroupId>
+  
   <!-- The name of your plugin that will appear in the list. -->
   <FriendlyName>Tool Switcher</FriendlyName>
   
