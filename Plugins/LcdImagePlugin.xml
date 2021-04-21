@@ -2,6 +2,6 @@
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>austinvaness/LcdImagePlugin</Id>
   <FriendlyName>Image to LCD [BETA]</FriendlyName>
-  <Commit>434d51b560454aab1de5ced8f4ca65d876d1444b</Commit>
+  <Commit>cfef3db9fb0118b3c298ea9460ef15630802476b</Commit>
   <Hidden>true</Hidden>
 </PluginData>
