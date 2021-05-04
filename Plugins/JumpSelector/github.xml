@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Allen-Wrench/JumpSelector</Id>
+  <GroupId>JumpSelector</GroupId>
+  <FriendlyName>Jump Selector</FriendlyName>
+  <Commit>972199e46ceaf9534b42ca54d82d7ee7249c3087</Commit>
+  <Hidden>false</Hidden>
+</PluginData>
