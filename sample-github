@@ -18,6 +18,6 @@
     <Directory>Directory 2</Directory>
   </SourceDirectories> -->
   
-  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box. -->
-  <Hidden>false</Hidden>
+  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box.
+  <Hidden>true</Hidden> -->
 </PluginData>
