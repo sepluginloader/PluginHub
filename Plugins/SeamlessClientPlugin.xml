@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <!-- Place your github repository name here. One repository can only store one plugin. This one is from https://github.com/austinvaness/ToolSwitcherPlugin -->
+  <Id>Casimir255/SeamlessClientPlugin</Id>
+  
+  <!-- Optional tag that specifies the group this plugin belongs to. Only one plugin from a given group can be enabled. -->
+  <GroupId></GroupId>
+  
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Seamless Client Plugin</FriendlyName>
+  
+  <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
+  <Commit>efc58e05dde7d4304516b6b6a606253bf3c151ba</Commit>
+  
+  <!-- Optional list of directories to take the cs files from. Use this if your repository has more than one project in it. (It is not needed for Tool Switcher)
+  <SourceDirectories>
+    <Directory>Folder/Directory1</Directory>
+    <Directory>Directory 2</Directory>
+  </SourceDirectories> -->
+  
+  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box.
+  <Hidden>true</Hidden> -->
+</PluginData>
