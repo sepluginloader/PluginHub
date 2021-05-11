@@ -10,7 +10,7 @@
   <FriendlyName>Seamless Client Plugin</FriendlyName>
   
   <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
-  <Commit>efc58e05dde7d4304516b6b6a606253bf3c151ba</Commit>
+  <Commit>e9cac15a3ae452d491c94ed6d1166e4bd7e17f64</Commit>
   
   <!-- Optional list of directories to take the cs files from. Use this if your repository has more than one project in it. (It is not needed for Tool Switcher)
   <SourceDirectories>
