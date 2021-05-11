@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Casimir255/SeamlessClientPlugin</Id>
+  <FriendlyName>Seamless Client Plugin</FriendlyName>
+  <Commit>e9cac15a3ae452d491c94ed6d1166e4bd7e17f64</Commit>
+</PluginData>
