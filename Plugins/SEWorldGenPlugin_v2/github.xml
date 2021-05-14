@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="WorkshopPlugin">
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>thorwin99/SEWorldGenPlugin</Id>
   <FriendlyName>SEWorldGenPlugin V2</FriendlyName>
   <GroupId>SEWorldGenPlugin</GroupId>
