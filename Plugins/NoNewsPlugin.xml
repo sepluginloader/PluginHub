@@ -1,23 +1,7 @@
 <?xml version="1.0"?>
-<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
-  <!-- Place your github repository name here. One repository can only store one plugin. This one is from https://github.com/austinvaness/ToolSwitcherPlugin -->
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
   <Id>WesternGamer/No-News-Plugin</Id>
-  
-  <!-- Optional tag that specifies the group this plugin belongs to. Only one plugin from a given group can be enabled. -->
-  <GroupId>NoNewsPlugin</GroupId>
-  
-  <!-- The name of your plugin that will appear in the list. -->
-  <FriendlyName>No News Plugin</FriendlyName>
-  
-  <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
-  <Commit>0a287bb6e139a0e1fd732b6b1d93be1b6b0e22d7</Commit>
-  
-  <!-- Optional list of directories to take the cs files from. Use this if your repository has more than one project in it. (It is not needed for Tool Switcher)
-  <SourceDirectories>
-    <Directory>Folder/Directory1</Directory>
-    <Directory>Directory 2</Directory>
-  </SourceDirectories> -->
-  
-  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box.
-  <Hidden>true</Hidden> -->
+  <GroupId>NoNewsPlugin</GroupId>  
+  <FriendlyName>No News Plugin</FriendlyName>   
+  <Commit>b9aec158029e6e709741cf0beafdd696cde4fedf</Commit> 
 </PluginData>
