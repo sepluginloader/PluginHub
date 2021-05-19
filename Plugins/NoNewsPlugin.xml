@@ -3,5 +3,6 @@
   <Id>WesternGamer/No-News-Plugin</Id>
   <GroupId>NoNewsPlugin</GroupId>  
   <FriendlyName>No News Plugin</FriendlyName>   
-  <Commit>b9aec158029e6e709741cf0beafdd696cde4fedf</Commit> 
+  <Tooltip>This plugin removes the News section and the DLC Section from the main menu.</Tooltip>
+  <Commit>c2a7dc802b9e610522a3c2757725523e9298977a</Commit> 
 </PluginData>
