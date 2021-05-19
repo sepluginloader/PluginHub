@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
+  <Id>WesternGamer/No-News-Plugin</Id>
+  <GroupId>NoNewsPlugin</GroupId>  
+  <FriendlyName>No News Plugin</FriendlyName>   
+  <Commit>b9aec158029e6e709741cf0beafdd696cde4fedf</Commit> 
+</PluginData>
