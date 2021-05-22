@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
+  <Id>WesternGamer/No-News-Plugin</Id>
+  <GroupId>NoNewsPlugin</GroupId>  
+  <FriendlyName>No News Plugin</FriendlyName>   
+  <Tooltip>This plugin removes the News section and the DLC Section from the main menu.</Tooltip>
+  <Commit>c2a7dc802b9e610522a3c2757725523e9298977a</Commit> 
+</PluginData>
