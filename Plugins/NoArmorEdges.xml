@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
+  <Id>austinvaness/NoArmorEdges</Id>
+  <FriendlyName>No Armor Edges</FriendlyName>   
+  <Tooltip>Removes all armor edges.</Tooltip>
+  <Commit>914b7f40d3ec0f9cdaee965dcc4103f0e24d57c5</Commit> 
+</PluginData>
