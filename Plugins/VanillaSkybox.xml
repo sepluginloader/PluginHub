@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
+  <Id>austinvaness/VanillaSkybox</Id>
+  <FriendlyName>Vanilla Skybox</FriendlyName>   
+  <Tooltip>Forces the skybox to be the vanilla skybox.</Tooltip>
+  <Commit>d449d83155bc381436f0107248b8125b8f7cba0f</Commit> 
+</PluginData>
