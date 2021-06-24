@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>austinvaness/BlockPicker</Id>
+  <GroupId>BlockPicker</GroupId>
+  <FriendlyName>Block Picker</FriendlyName>
+  <Tooltip>Allows you to pick the target block using Ctrl+G.</Tooltip>
+  <Commit>b67550a21a82b8cd67c0bd448277d0a113407a6a</Commit>
+</PluginData>
