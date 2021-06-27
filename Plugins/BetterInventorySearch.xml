@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
+  <Id>austinvaness/BetterInventorySearch</Id>
+  <FriendlyName>Better Inventory Search</FriendlyName>   
+  <Tooltip>Highlights the item you searched for in the inventory.</Tooltip>
+  <Commit>dde7d2f2b5385a3eea22fbceff370783830e622f</Commit> 
+</PluginData>
