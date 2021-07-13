@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
-  <Id>austinvaness/ToolSwitcherPlugin</Id>
+  <Id>WesternGamer/InGameExit</Id>
   <GroupId>InGameExit</GroupId>
   <FriendlyName>In Game Exit</FriendlyName>
   <Tooltip>Allows you to exit the game directly from the pause menu.</Tooltip>
