@@ -4,5 +4,5 @@
   <GroupId>InGameExit</GroupId>
   <FriendlyName>In Game Exit</FriendlyName>
   <Tooltip>Allows you to exit the game directly from the pause menu.</Tooltip>
-  <Commit>eeca2869224bb99a34542c5e40b5ac6912b08cbc</Commit>
+  <Commit>82629633783b175399bf7a243bf03653a6ceef03</Commit>
 </PluginData>
