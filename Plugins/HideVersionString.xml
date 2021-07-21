@@ -4,5 +4,5 @@
   <GroupId>HideVersionString</GroupId> 
   <FriendlyName>Hide Version String</FriendlyName>
   <Tooltip>Makes the Main Menu cleaner by hiding the the version string.</Tooltip>
-  <Commit>647bee4bfc52436fbcbd29a05725b11aeeb34042</Commit>
+  <Commit>f9813ccc474c07a69d57d0b47463d152a5348b22</Commit>
 </PluginData>
