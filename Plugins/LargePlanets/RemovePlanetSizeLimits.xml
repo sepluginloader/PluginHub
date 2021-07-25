@@ -3,5 +3,6 @@
   <Id>2029854486</Id>
   <GroupId>LargePlanets</GroupId>
   <FriendlyName>RemovePlanetSizeLimits</FriendlyName>
+  <Author>Xo</Author>
   <Hidden>true</Hidden>
 </PluginData>

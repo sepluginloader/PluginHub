@@ -3,6 +3,7 @@
   <Id>Allen-Wrench/JumpSelector</Id>
   <GroupId>JumpSelector</GroupId>
   <FriendlyName>Jump Selector</FriendlyName>
+  <Author>dude</Author>
   <Commit>972199e46ceaf9534b42ca54d82d7ee7249c3087</Commit>
   <Hidden>false</Hidden>
 </PluginData>
