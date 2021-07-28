@@ -2,6 +2,7 @@
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>austinvaness/LcdImagePlugin</Id>
   <FriendlyName>Image to LCD</FriendlyName>
+  <Author>avaness</Author>
   <Tooltip>Adds a button to the LCD that converts an image to characters.</Tooltip>
-  <Commit>f8f83c34f2eb7ea987b1b1559cea6cf5a5b03d18</Commit>
+  <Commit>ea4a1dbe5198a578191dd67de46df9f3d1b41593</Commit>
 </PluginData>

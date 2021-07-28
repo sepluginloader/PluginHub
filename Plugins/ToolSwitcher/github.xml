@@ -3,6 +3,7 @@
   <Id>austinvaness/ToolSwitcherPlugin</Id>
   <GroupId>ToolSwitcher</GroupId>
   <FriendlyName>Tool Switcher</FriendlyName>
+  <Author>avaness</Author>
   <Tooltip>Allows scrolling between welder, grinder, and drill.</Tooltip>
   <Commit>eeca2869224bb99a34542c5e40b5ac6912b08cbc</Commit>
 </PluginData>

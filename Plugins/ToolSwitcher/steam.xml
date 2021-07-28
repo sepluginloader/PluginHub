@@ -3,5 +3,6 @@
   <Id>2292390607</Id>
   <GroupId>ToolSwitcher</GroupId>
   <FriendlyName>Tool Switcher [Obsolete]</FriendlyName>
+  <Author>avaness</Author>
   <Hidden>true</Hidden>
 </PluginData>

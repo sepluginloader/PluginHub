@@ -2,6 +2,7 @@
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>thorwin99/SEWorldGenPlugin</Id>
   <FriendlyName>SEWorldGenPlugin V2</FriendlyName>
+  <Author>thorwin99</Author>
   <GroupId>SEWorldGenPlugin</GroupId>
   <Commit>d2f91baf150018e2e33b8d4222c4ee0e5ea8104c</Commit>
 </PluginData>

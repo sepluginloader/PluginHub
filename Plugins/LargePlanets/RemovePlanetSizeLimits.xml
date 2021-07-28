@@ -1,5 +1,8 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="SEPMPlugin">
-  <Id>2004495632</Id>
-  <FriendlyName>Block Picker</FriendlyName>
+  <Id>2029854486</Id>
+  <GroupId>LargePlanets</GroupId>
+  <FriendlyName>RemovePlanetSizeLimits</FriendlyName>
+  <Author>Xo</Author>
+  <Hidden>true</Hidden>
 </PluginData>

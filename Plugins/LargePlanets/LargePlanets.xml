@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>KlimeSE/LargePlanets</Id>
+  <GroupId>LargePlanets</GroupId>
+  <FriendlyName>Large Planets</FriendlyName>
+  <Author>Klime</Author>
+  <Tooltip>Allows the creation of large planets up to 2500km diameter</Tooltip>
+  <Commit>edc27463b1e4638277aa848d16d4020e24b88672</Commit>
+</PluginData>

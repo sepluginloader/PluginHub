@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
+  <Id>austinvaness/DisableAnalytics</Id>
+  <FriendlyName>Disable Analytics</FriendlyName>
+  <Author>avaness</Author>
+  <Tooltip>Disables tracking and analytics by EOS.</Tooltip>
+  <Commit>a3aab21e3aa4bd81e97e6aee0016beaeff1e8585</Commit> 
+</PluginData>

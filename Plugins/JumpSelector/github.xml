@@ -3,6 +3,8 @@
   <Id>Allen-Wrench/JumpSelector</Id>
   <GroupId>JumpSelector</GroupId>
   <FriendlyName>Jump Selector</FriendlyName>
-  <Commit>972199e46ceaf9534b42ca54d82d7ee7249c3087</Commit>
+  <Author>dude</Author>
+  <Tooltip>Toolbar action for Jump Drives to easily set up your jumps.</Tooltip>
+  <Commit>f1515f757eccba83ff0c23faa92d7613efb20f7c</Commit>
   <Hidden>false</Hidden>
 </PluginData>
