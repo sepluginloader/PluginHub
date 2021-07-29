@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="WorkshopPlugin">
-  <Id>2425805190</Id>
-  <FriendlyName>MorePPSettings</FriendlyName>
+  <Id>2432659774</Id>
+  <GroupId>Scrollable FOV</GroupId>
+  <FriendlyName>ScrollableFOV [Obsolete]</FriendlyName>
   <Author>Math0424</Author>
+  <Hidden>true</Hidden>
 </PluginData>
