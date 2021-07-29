@@ -4,4 +4,5 @@
   <GroupId>MorePPSettings</GroupId>
   <FriendlyName>MorePPSettings [Obsolete]</FriendlyName>
   <Author>Math0424</Author>
+  <Hidden>true</Hidden>
 </PluginData>
