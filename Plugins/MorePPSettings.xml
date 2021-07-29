@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
-  <Id>Math0424/MorePPSettings</Id>
-  <GroupId>MorePPSettings</GroupId>
-  <FriendlyName>More PP Settings</FriendlyName>
-  <Author>Math0424</Author>
-  <Tooltip>Change post processings settings.</Tooltip>
-  <Commit>5b3eef2c5e0a25945d79a0a9f21470c60a1cba59</Commit>
-</PluginData>
