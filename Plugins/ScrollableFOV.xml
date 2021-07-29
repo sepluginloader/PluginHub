@@ -1,6 +1,9 @@
 <?xml version="1.0"?>
-<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="WorkshopPlugin">
-  <Id>2432659774</Id>
-  <FriendlyName>ScrollableFOV</FriendlyName>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Math0424/ScrollableFOV</Id>
+  <GroupId>Scrollable FOV</GroupId>
+  <FriendlyName>Scrollable FOV</FriendlyName>
   <Author>Math0424</Author>
+  <Tooltip>Scroll FOV with your mousewheel.</Tooltip>
+  <Commit>9e4ba7247f48542060885f3d13765ad72a94359d</Commit>
 </PluginData>
