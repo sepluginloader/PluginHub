@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>wolfe-labs/SE-AnalogThrottlePlugin</Id>
+  <GroupId>AnalogThrottle</GroupId>
+  <FriendlyName>WL Analog Script Input and Throttle</FriendlyName>
+  <Author>Wolfe</Author>
+  <Tooltip>Allows in-game scripts to access data from connected controllers such as gamepads, joysticks and HOTAS devices.</Tooltip>
+  <Commit>cc3205335c48478d5b40b353852ef2ca39c6589d</Commit>
+</PluginData>
