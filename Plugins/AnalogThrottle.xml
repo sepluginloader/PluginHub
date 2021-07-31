@@ -5,5 +5,5 @@
   <FriendlyName>WL Analog Script Input and Throttle</FriendlyName>
   <Author>Wolfe</Author>
   <Tooltip>Allows in-game scripts to access data from connected controllers such as gamepads, joysticks and HOTAS devices.</Tooltip>
-  <Commit>d2c2fb40a5d1bd9f931a47a835aa0c31d11b9661</Commit>
+  <Commit>307021e7969873bddc1e268ca75ecdbbfc80cfe0</Commit>
 </PluginData>
