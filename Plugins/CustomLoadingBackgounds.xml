@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>WesternGamer/CustomLoadingBackgrounds</Id>
+  <GroupId>CustomLoadingBackgrounds</GroupId>
+  <FriendlyName>Custom Loading Backgrounds</FriendlyName>
+  <Author>WesternGamer</Author>
+  <Tooltip>A plugin that allows you to customize the background images on the loading screens.</Tooltip>
+  <Commit>aeb62b3598d802c0b848cfa5a781ed27dd764cf3</Commit>
+</PluginData>
