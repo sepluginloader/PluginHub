@@ -3,6 +3,6 @@
   <Id>Math0424/SERichPresence</Id>
   <FriendlyName>Discord Rich Presence</FriendlyName>
   <Author>Math0424</Author>
-  <Tooltip>Enables Discord Rich Presence for Space Engineers.</Tooltip>
-  <Commit>f1ef85245d5735b741b75bc7a8df2942765f98f8</Commit>
+  <Tooltip>Enables Discord rich presence for Space Engineers.</Tooltip>
+  <Commit>eda176f435ed619876696f515c628d92f9e44235</Commit>
 </PluginData>
