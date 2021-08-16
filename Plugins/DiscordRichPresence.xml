@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Math0424/SERichPresence</Id>
+  <FriendlyName>Discord Rich Presence</FriendlyName>
+  <Author>Math0424</Author>
+  <Tooltip>Enables Discord Rich Presence for Space Engineers.</Tooltip>
+  <Commit>db73263564b9c80d066bdb69ba3fdeae762aec06</Commit>
+</PluginData>
