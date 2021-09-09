@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>austinvaness/CameraLCD</Id>
+  <FriendlyName>Camera LCD [WIP]</FriendlyName>
+  <Author>avaness</Author>
+  <Tooltip>Allows a camera to be displayed on an LCD screen.</Tooltip>
+  <Commit>dcea2e8c45b7d6443d7ffe3d51a6668d62e7c9c7</Commit>
+  <Hidden>true</Hidden>
+</PluginData>
