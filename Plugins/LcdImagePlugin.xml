@@ -4,5 +4,5 @@
   <FriendlyName>Image to LCD</FriendlyName>
   <Author>avaness</Author>
   <Tooltip>Adds a button to the LCD that converts an image to characters.</Tooltip>
-  <Commit>ea4a1dbe5198a578191dd67de46df9f3d1b41593</Commit>
+  <Commit>239bbff92f7dd4a7c842ad210d562e82ec9d9bfd</Commit>
 </PluginData>

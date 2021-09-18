@@ -4,6 +4,6 @@
   <GroupId>Scrollable FOV</GroupId>
   <FriendlyName>Scrollable FOV</FriendlyName>
   <Author>Math0424</Author>
-  <Tooltip>Scroll FOV with your mousewheel.</Tooltip>
-  <Commit>9e4ba7247f48542060885f3d13765ad72a94359d</Commit>
+  <Tooltip>Scroll FOV with your mousewheel (while holding caps).</Tooltip>
+  <Commit>fa2e57b7d59d4184200d32acf31b39babc073f60</Commit>
 </PluginData>
