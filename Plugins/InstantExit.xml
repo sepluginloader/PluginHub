@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>WesternGamer/InstantExit</Id>
+  <GroupId>InstantExit</GroupId>
+  <FriendlyName>Instant Exit</FriendlyName>
+  <Author>WesternGamer</Author>
+  <Tooltip>A plugin to help you debug/develop Space Engineers plugins without the hassle of teminating the Space Engineers process every time you build the plugin.</Tooltip>
+  <Commit>dd9fd4c866266352d168e2f787bcaba0eb6af823</Commit>
+  <Hidden>true</Hidden>
+</PluginData>
