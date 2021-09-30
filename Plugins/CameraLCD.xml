@@ -4,6 +4,5 @@
   <FriendlyName>Camera LCD [WIP]</FriendlyName>
   <Author>avaness</Author>
   <Tooltip>Allows a camera to be displayed on an LCD screen.</Tooltip>
-  <Commit>69e2b93dde25f03c2483e79ee1b4693f28b04290</Commit>
-  <Hidden>true</Hidden>
+  <Commit>211b09e34691c94d722bab3a09ccb861813e364a</Commit>
 </PluginData>
