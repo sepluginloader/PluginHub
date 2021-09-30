@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Corben-SpacedOut/SEHeadTracking</Id>
+  <FriendlyName>Head Tracking</FriendlyName>
+  <Author>Corben</Author>
+  <Tooltip>Enabled head tracking using the freetrack protocol.</Tooltip>
+  <Commit>7911de1ca66cd70950c61534bff933ae225a5a14</Commit>
+  <SourceDirectories>
+    <Directory>HeadTrackingPlugin</Directory>
+  </SourceDirectories> -->
+</PluginData>
