@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
+  <Id>Allen-Wrench/NoForcedCameraZoom</Id>
+  <FriendlyName>No Forced Camera Zoom</FriendlyName>
+  <Author>dude</Author>
+  <Tooltip>Disables forced 3rd person camera zooming</Tooltip>
+  <Commit>9780eb38a0a857c55771c1e8e660e75eefcc89a9</Commit> 
+</PluginData>
