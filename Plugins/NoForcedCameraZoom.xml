@@ -3,6 +3,6 @@
   <Id>Allen-Wrench/NoForcedCameraZoom</Id>
   <FriendlyName>No Forced Camera Zoom</FriendlyName>
   <Author>dude</Author>
-  <Tooltip>Disables forced 3rd person camera zooming</Tooltip>
-  <Commit>5b89f0ea87ce614c9362075c7bb22d2e767a8db7</Commit> 
+  <Tooltip>Removes annoying 3rd person camera zooming limitations</Tooltip>
+  <Commit>5d28dae1789e02a4e4ba922942b7f4f2b9468305</Commit> 
 </PluginData>
