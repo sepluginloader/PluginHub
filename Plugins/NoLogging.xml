@@ -5,5 +5,5 @@
   <FriendlyName>No Logging</FriendlyName>
   <Author>WesternGamer</Author>
   <Tooltip>Disables logging to improve performance. It does not disable logging entirely like errors/exceptions and certain urgent warnings</Tooltip>
-  <Commit>8cc4bec2b0b53e2106273a20633fd413d0af4f5a</Commit>
+  <Commit>3e1845cc7e1f762b182aafb973fcc3d2dda1bd19</Commit>
 </PluginData>
