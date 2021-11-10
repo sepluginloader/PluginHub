@@ -4,6 +4,6 @@
   <GroupId>NoLogging</GroupId>
   <FriendlyName>No Logging</FriendlyName>
   <Author>WesternGamer</Author>
-  <Tooltip>Disables logging to improve performance. It does not disable logging entirely like errors/exeptions and certain urgent warnings</Tooltip>
+  <Tooltip>Disables logging to improve performance. It does not disable logging entirely like errors/exceptions and certain urgent warnings</Tooltip>
   <Commit>8cc4bec2b0b53e2106273a20633fd413d0af4f5a</Commit>
 </PluginData>
