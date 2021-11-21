@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+
+  <!-- Place the steam id of your workshop item here. -->
+  <Id>2211605465</Id>
+  
+  <!-- Optional tag that specifies the group this plugin belongs to. Only one plugin from a given group can be enabled. -->
+  <GroupId>ToolSwitcher</GroupId>
+  
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Tool Switcher (Mod)</FriendlyName>
+  
+  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box. -->
+  <Hidden>false</Hidden>
+</PluginData>
