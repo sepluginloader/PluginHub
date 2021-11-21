@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>801185519</Id>
+  <FriendlyName>Colorful Icons</FriendlyName>
+  <Author>typekcz</Author>
+  <Tooltip>Adds color to the ingame icons.</Tooltip>
+</PluginData>
