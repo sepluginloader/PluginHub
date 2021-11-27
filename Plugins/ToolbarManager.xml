@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>viktor-ferenczi/toolbar-manager</Id>
+  <GroupId>viktor-ferenczi/toolbar-manager</GroupId>
+  <FriendlyName>Toolbar Manager</FriendlyName>
+  <Author>Viktor</Author>
+  <Commit>683885829a472280d1cb75e49a1ba68ebf73b2d3</Commit>
+  <SourceDirectories>
+    <Directory>ToolbarManager</Directory>
+  </SourceDirectories>
+</PluginData>
