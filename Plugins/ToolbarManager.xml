@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/toolbar-manager</GroupId>
   <FriendlyName>Toolbar Manager</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>683885829a472280d1cb75e49a1ba68ebf73b2d3</Commit>
+  <Commit>e2d49d5a23f9c61a766114975dbccf51bb55278e</Commit>
   <SourceDirectories>
     <Directory>ToolbarManager</Directory>
   </SourceDirectories>
