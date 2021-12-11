@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
-  <Id>austinvaness/FPSCounter</Id>
+  <Id>WesternGamer/FPSCounter</Id>
   <GroupId>FPSCounter</GroupId>
   <FriendlyName>FPS Counter</FriendlyName>
   <Author>WesternGamer</Author>
