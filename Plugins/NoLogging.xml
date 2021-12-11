@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>WesternGamer/NoLogging</Id>
+  <GroupId>NoLogging</GroupId>
+  <FriendlyName>No Logging</FriendlyName>
+  <Author>WesternGamer</Author>
+  <Tooltip>Disables logging to improve performance. It does not disable logging entirely like errors/exceptions and certain urgent warnings</Tooltip>
+  <Commit>8cc4bec2b0b53e2106273a20633fd413d0af4f5a</Commit>
+</PluginData>

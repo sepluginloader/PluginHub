@@ -1,15 +1,13 @@
 <?xml version="1.0"?>
-<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="WorkshopPlugin">
-  <!-- Workshop plugins are no longer recommended! Use a github plugin instead and advertise it using alternate means. -->
-
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
   <!-- Place the steam id of your workshop item here. -->
-  <Id>2292390607</Id>
+  <Id>2211605465</Id>
   
   <!-- Optional tag that specifies the group this plugin belongs to. Only one plugin from a given group can be enabled. -->
   <GroupId>ToolSwitcher</GroupId>
   
   <!-- The name of your plugin that will appear in the list. -->
-  <FriendlyName>Tool Switcher</FriendlyName>
+  <FriendlyName>Tool Switcher (Mod)</FriendlyName>
 
   <!-- The author name that you want to appear in the list. -->
   <Author>avaness</Author>

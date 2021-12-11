@@ -4,7 +4,7 @@
   <FriendlyName>Head Tracking</FriendlyName>
   <Author>Corben</Author>
   <Tooltip>Enable head tracking using the freetrack protocol.</Tooltip>
-  <Commit>7911de1ca66cd70950c61534bff933ae225a5a14</Commit>
+  <Commit>69a67baa21fc55b55f35fca60ea72b25ee05504e</Commit>
   <SourceDirectories>
     <Directory>HeadTrackingPlugin</Directory>
   </SourceDirectories>
