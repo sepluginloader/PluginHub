@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>austinvaness/FPSCounter</Id>
+  <GroupId>FPSCounter</GroupId>
+  <FriendlyName>FPS Counter</FriendlyName>
+  <Author>WesternGamer</Author>
+  <Tooltip>FPS Counter for Space Engineers.</Tooltip>
+  <Commit>f26c3ab41d7c2154470a27c86433477ca1317133</Commit>
+</PluginData>
