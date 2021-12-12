@@ -4,5 +4,5 @@
   <FriendlyName>MES Weapon Blacklist GUI</FriendlyName>
   <Author>Laaven</Author>
   <Tooltip>GUI in G menu for blacklisting weapons from MES npc weapon randomizer</Tooltip>
-  <Commit>246ec0f8140bb0d189d5b8ba1cabea2ce57249fa</Commit>
+  <Commit>18f047b95bd5f4d348a146686f0fa4d6c759cf39</Commit>
 </PluginData>
