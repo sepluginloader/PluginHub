@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Laavenx/MESWeaponBlacklistGui</Id>
+  <FriendlyName>MES Weapon Blacklist GUI</FriendlyName>
+  <Author>Laaven</Author>
+  <Tooltip>GUI in G menu for blacklisting weapons from MES npc weapon randomizer</Tooltip>
+  <Commit>18f047b95bd5f4d348a146686f0fa4d6c759cf39</Commit>
+</PluginData>
