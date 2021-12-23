@@ -4,4 +4,7 @@
   <FriendlyName>HUD Compass</FriendlyName>
   <Author>Zelious</Author>
   <Tooltip>Adds a compass to the HUD. *Requires Text HUD API!*</Tooltip>
+  <DependencyIds>
+    <Id>758597413</Id>
+  </DependencyIds>
 </PluginData>
