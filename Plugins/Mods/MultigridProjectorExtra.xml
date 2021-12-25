@@ -14,6 +14,7 @@
   
   <!-- Optional tag that adds a tooltip to the plugin in-game. -->
   <Tooltip>Extra functionality and convenience features for the vanilla projector block: Intuitive manual alignment of the projector. </Tooltip>
+  <Description>Allows intuitive alignment of loaded projections using the usual movement and rotation keys. Adds button to load a self-repair projection of the projector's own grid. Compatible with the Multigrid Projector, but it does not require the plugin. Works with online multiplayer games without the need for a server plugin. Support is via the SE Mods Discord: https://discord.gg/PYPFPGf3Ca</Description>
   
   <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box. -->
   <Hidden>false</Hidden>
