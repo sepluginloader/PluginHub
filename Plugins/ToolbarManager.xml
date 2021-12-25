@@ -9,5 +9,13 @@
     <Directory>ToolbarManager</Directory>
   </SourceDirectories>
   <Tooltip>Allows saving and loading of character and block toolbars.</Tooltip>
-  <Description>Allows saving and loading of character and block toolbars. Speed up your build by using a familiar toolbar layout, copy cockpits into remote control blocks and more. Allows copying toolbars between ships and games, identifies blocks by name (like named groups). Stores your toolbars locally, works with online multiplayer. Support is via the SE Mods Discord: https://discord.gg/PYPFPGf3Ca</Description>
+  <Description>Allows saving and loading of character and block toolbars. 
+Speed up your build by using a familiar toolbar layout, copy cockpits into remote control blocks and more. 
+
+Allows copying toolbars between ships and games, identifies blocks by name (like named groups). 
+
+Stores your toolbars locally, works with online multiplayer. 
+
+Support, FAQ and list of known issues are on the SE Mods Discord. Invite link is on the plugin's page, please click on Plugin Info below to open it.
+  </Description>
 </PluginData>
