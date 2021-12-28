@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
+  <Id>Allen-Wrench/PCUDisplay</Id>
+  <FriendlyName>PCU display</FriendlyName>
+  <Author>dude</Author>
+  <Tooltip>Persistent PCU display on your HUD.</Tooltip>
+  <Description>Toggleable, always on screen readout of your current ships PCU, including connected grids. 
+    Created for use on servers that utilize the 'Top Grid' mechanic to help you keep your pcu in check.
+    
+    Toggle the display on/off using 'Ctrl + NumPad0' while sitting in a ship. The display will continue to show that ships PCU, along with anything that it is connected to until you disable the display.
+    You can change the position of the display by holding down 'Shift + Alt + Mouse Right Click' and moving the mouse.
+    
+    Upon first activation a dialog will let you input a value to use as the upper limit, all this does designate when to change the color of the display from green to red.
+    Settings are saved in your %AppData%/SpaceEngineers/Storage/PCUDisplay folder, where you can also change the keybind (default NumPad0).
+    
+    Note: If you merge a ship that you are currently displaying PCU for, the counter will not update until you disable and re-enable it.
+  </Description>
+  <Commit>7e4872f609a9f8d64d69cb5b8d862019e94a96b6</Commit> 
+</PluginData>
