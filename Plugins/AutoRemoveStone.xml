@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
+  <Id>Allen-Wrench/AutoRemoveStone</Id>
+  <FriendlyName>Automatic Stone Removal</FriendlyName>
+  <Author>dude</Author>
+  <Tooltip>Automatically removes stone from your ship.</Tooltip>
+  <Description>When enabled, stone will automatically be deleted from your ships cargo.
+    Enable by either using the button at the bottom of a ship drills terminal page, or by adding the toggle action to your toolbar.
+    Function will stay on until you toggle it back off, or release control of your ship.
+  </Description>
+  <Commit>6418667bfb2dba6eccf295f579d04c0f0f2a4ecc</Commit> 
+</PluginData>
