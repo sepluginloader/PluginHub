@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>1136188499</Id>
+  <FriendlyName>Space Just Got Real</FriendlyName>
+  <Author>Dr. Novikov</Author>
+  <Tooltip>A more realistic skybox</Tooltip>
+</PluginData>

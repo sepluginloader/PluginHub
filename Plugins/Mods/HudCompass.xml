@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>1469072169</Id>
+  <FriendlyName>HUD Compass</FriendlyName>
+  <Author>Zelious</Author>
+  <Tooltip>Adds a compass to the HUD. *Requires Text HUD API!*</Tooltip>
+  <DependencyIds>
+    <Id>758597413</Id>
+  </DependencyIds>
+</PluginData>

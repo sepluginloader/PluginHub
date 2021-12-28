@@ -14,6 +14,9 @@
   
   <!-- Optional tag that adds a tooltip to the plugin in-game. -->
   <Tooltip>Allows scrolling between welder, grinder, and drill.</Tooltip>
+
+  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+  <Description>This plugin is a simplified version of the Tool Switcher mod. It allows you to scroll between the welder, grinder, and drill. There is no configuration yet, so these tools will always be grouped together while the plugin is enabled. The benefits of this plugin over the mod are that you can use any toolbar page, and it will work on any multiplayer server.</Description>
   
   <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
   <Commit>eeca2869224bb99a34542c5e40b5ac6912b08cbc</Commit>

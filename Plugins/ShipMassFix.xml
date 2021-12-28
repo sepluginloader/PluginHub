@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
+  <Id>rtdian/ShipMassFix</Id>
+  <FriendlyName>Ship Mass Fix</FriendlyName>
+  <Author>rtdian</Author>
+  <Tooltip>Fixes negative mass when it larger than 2.14b.</Tooltip>
+  <Commit>910e553df6eda33eb8691dc25de4d58e23d204a1</Commit>
+</PluginData>
