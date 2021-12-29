@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>670718659</Id>
+  <GroupId>MilkyWay</GroupId>
+  <FriendlyName>Milky Way Skybox (insane resolution)</FriendlyName>
+  <Author>Darth Biomech</Author>
+  <Tooltip>Milky Way skybox, based on true photos of space.</Tooltip>
+</PluginData>
