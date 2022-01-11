@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>austinvaness/UnlimitedScriptLength</Id>
+  <FriendlyName>Unlimited Script Length</FriendlyName>
+  <Author>avaness</Author>
+  <Tooltip>Removes the programmable block script length limit.</Tooltip>
+  <Commit>c8d74ba77112a76d468b4d03f60ac44342868b48</Commit>
+  <Description>This plugin removes the programmable block script length limit. This does not work in multiplayer.</Description>
+</PluginData>
