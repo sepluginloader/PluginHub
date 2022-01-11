@@ -5,4 +5,5 @@
   <FriendlyName>Milky Way Skybox</FriendlyName>
   <Author>Darth Biomech</Author>
   <Tooltip>Milky Way skybox, based on true photos of space.</Tooltip>
+  <Hidden>true</Hidden>
 </PluginData>
