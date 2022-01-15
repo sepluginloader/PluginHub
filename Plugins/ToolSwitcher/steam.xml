@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="WorkshopPlugin">
-  <Id>2292390607</Id>
-  <GroupId>ToolSwitcher</GroupId>
-  <FriendlyName>Tool Switcher [Obsolete]</FriendlyName>
-  <Author>avaness</Author>
-  <Hidden>true</Hidden>
-</PluginData>
