@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2626059962</Id>
+  <GroupId>HudModern</GroupId>
+  <FriendlyName>HUD - Modern and Fancy</FriendlyName>
+  <Author>Adriano</Author>
+  <Tooltip>A modern and fancy new HUD designed for easy use.</Tooltip>
+</PluginData>
