@@ -6,4 +6,7 @@
   <Author>WesternGamer</Author>
   <Tooltip>A plugin that allows you to customize the background on the loading screen and main menu.</Tooltip>
   <Commit>29eb72b0df12dbac4f70281741fbda324bf265e4</Commit>
+<SourceDirectories>
+    <Directory>ClientPlugin</Directory>
+  </SourceDirectories>
 </PluginData>
