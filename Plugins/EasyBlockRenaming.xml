@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2077166496</Id>
+  <GroupId>EasyBlockRenaming</GroupId>
+  <FriendlyName>Easy Block Renaming</FriendlyName>
+  <Author>Meridius_IX / Lucas</Author>
+  <Tooltip>Adds controls to nearly all block types that allows you to easily rename multiple blocks at once.</Tooltip>
+  <Description>Adds controls to nearly all block types that allows you to easily rename multiple blocks at once.
+- Multiple Block Renaming: Simply select all the blocks you want to rename, enter the new name they should receive in the "New Naming" field, and then press the "Replace Name" button.
+- Prefix and Suffix Names: The prefix and suffix options allow you to add the text in the "New Naming" field to the existing block names. "Prefix Name" will add the text to the beginning of the block name, while "Suffix Name" will add the text to the end of the block name.
+- Reset Name: The "Reset Name" button will reset the name of selected blocks back to their default names (the name they receive when you initially build the block). Please note it does not suffix the block with numbers. This can be useful if some degenerate NPC drone decides to hack your terminal control menu and scramble all the names of your blocks. I'm sure there are other uses for it as well ;)
+  </Description>
+</PluginData>
