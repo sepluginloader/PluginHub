@@ -16,3 +16,4 @@ Check your Assembler queue. The projection components should now be loaded!
 Add Missing Parts From Inventory:
 If you do not want to add the full queue of components to the assembler queue, you can press the 'Send Missing Parts' button to add just the parts you do not already have in inventory. Example: Projection requires 1000 steel plates, and there are 200 in inventory - only 800 will be queued in assembler.
   </Description>
+</PluginData>
