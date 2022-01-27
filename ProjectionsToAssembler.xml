@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>1289485324</Id>
+  <GroupId>ProjectionsToAssembler</GroupId>
+  <FriendlyName>Projections To Assembler</FriendlyName>
+  <Author>Meridius_IX / Lucas</Author>
+  <Tooltip>This mod adds a button to the projector block that will queue the needed components for the currently projected grid in your assembler.</Tooltip>
+  <Description>This mod adds a button to the projector block that will queue the needed components for the currently projected grid in your assembler.
+How To Use:
+Ensure your Projector Block and Assembler Blocks are Enabled / Turned On
+Assembler cannot be set to 'Disassemble'. It can optionally be set to 'Cooperative Mode'.
+Load your grid into the Projector Block.
+At the bottom of the Projector Block options, select the assembler you want to use from the Listbox.
+At the bottom of the Projector Block options, press the button labled 'Send To Assembler'.
+Check your Assembler queue. The projection components should now be loaded!
+Add Missing Parts From Inventory:
+If you do not want to add the full queue of components to the assembler queue, you can press the 'Send Missing Parts' button to add just the parts you do not already have in inventory. Example: Projection requires 1000 steel plates, and there are 200 in inventory - only 800 will be queued in assembler.
+  </Description>
