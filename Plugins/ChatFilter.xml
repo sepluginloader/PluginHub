@@ -8,5 +8,5 @@
   /mute [player name] - blocks chat messages from a player.
   /unmute [player name] - unblocks players messages.
   /cfconfig - open configuration window to set visibility for a specific chat channel.</Description>
-  <Commit>9b61dc2f4eb11b1f4f26941639b58dd176f00cb7</Commit> 
+  <Commit>8e2b928f3539b6ae2d685175298a8af2594a79a4</Commit> 
 </PluginData>
