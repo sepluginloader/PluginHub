@@ -15,5 +15,6 @@ At the bottom of the Projector Block options, press the button labled 'Send To A
 Check your Assembler queue. The projection components should now be loaded!
 Add Missing Parts From Inventory:
 If you do not want to add the full queue of components to the assembler queue, you can press the 'Send Missing Parts' button to add just the parts you do not already have in inventory. Example: Projection requires 1000 steel plates, and there are 200 in inventory - only 800 will be queued in assembler.
-  </Description>
+
+Known issue: You will not be able to use button panels, scripts, or timers to assemble parts for a projection on servers.</Description>
 </PluginData>
