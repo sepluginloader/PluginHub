@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>1805199276</Id>
+  <FriendlyName>Easy Control Button Access</FriendlyName>
+  <Author>Meridius_IX / Lucas</Author>
+  <Description>Ever find yourself in a combat situation and scrambling in the terminal to take control of either a Remote Control or Turret? The goal of this mod is to make that scramble a little less stressful. This mod takes the Control button for the Remote Control and Turret blocks and moves it to the top of the terminal. No more scrolling!
+
+This mod may have been inspired by my own frustrations with the vanilla button placement</Description>
+</PluginData>
