@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
+  <Id>Allen-Wrench/ChatFilter</Id>
+  <FriendlyName>Chat Filter</FriendlyName>
+  <Author>dude</Author>
+  <Tooltip>Decide what kinds of chat messages you want to see.</Tooltip>
+  <Description>Block chat messsages from specific players or hide chat messages by type (global/faction/whisper). 
+  /mute [player name] - blocks chat messages from a player.
+  /unmute [player name] - unblocks players messages.
+  /cfconfig - open configuration window to set visibility for a specific chat channel.</Description>
+  <Commit>8e2b928f3539b6ae2d685175298a8af2594a79a4</Commit> 
+</PluginData>
