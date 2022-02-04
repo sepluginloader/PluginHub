@@ -4,7 +4,13 @@
   <GroupId>JumpSelector</GroupId>
   <FriendlyName>Jump Selector</FriendlyName>
   <Author>dude</Author>
-  <Tooltip>Toolbar action for Jump Drives to easily set up your jumps.</Tooltip>
-  <Commit>3c70417d2b16381fbef1f59def0d1d5d5b3bec15</Commit>
+  <Tooltip>The better way to use your jump drives.</Tooltip>
+  <Description>Adds a new toolbar action for your jump drives: Jump Select.
+  This amazing little window lets you input a specific distance you want to blind jump, or select one of your GPS locations to jump to *from a sorted list*.
+  You can also see the current maximum distance your ship can jump, just below the input box for the blind jump.
+  It also displays the status of all of your jump drives along the top of the window, and tells you what percentage they are charged if not full. You can click on those buttons to turn the jump drive on or off.
+  Right clicking on any button will turn all of your jump drives on (as long as they are not broken).
+  </Description>
+  <Commit>891fe34822418876e9fdc9ae1f24dad8431bfc87</Commit>
   <Hidden>false</Hidden>
 </PluginData>
