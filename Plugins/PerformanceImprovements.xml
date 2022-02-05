@@ -10,10 +10,12 @@
     <Directory>ClientPlugin</Directory>
   </SourceDirectories>
   <Tooltip>Various performance improvements to let the game run smoother.</Tooltip>
-  <Description>Please see the GitHub page for the features and technical details.
+  <Description>Please see the GitHub page for the features, technical details and the Keen bug tickets to vote on.
   
 This plugin is available for Torch and Dedicated Server as well.
 
 For support join the SE Mods Discord: https://discord.gg/PYPFPGf3Ca
+
+Thank you for supporting my work.
   </Description>
 </PluginData>
