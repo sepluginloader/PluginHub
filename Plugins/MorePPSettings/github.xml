@@ -5,5 +5,6 @@
   <FriendlyName>More PP Settings</FriendlyName>
   <Author>Math0424</Author>
   <Tooltip>Change post processings settings.</Tooltip>
-  <Commit>5b3eef2c5e0a25945d79a0a9f21470c60a1cba59</Commit>
+  <Commit>8723090aa7d87246566d865b83d7bd34bb6f0ba7</Commit>
+  <Description>Adds the ability to change lots of post processing settings.</Description>
 </PluginData>
