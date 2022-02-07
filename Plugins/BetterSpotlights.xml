@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2581520240</Id>
+  <GroupId>BetterSpotlights</GroupId>
+  <FriendlyName>Better Spotlights</FriendlyName>
+  <Author>Thorn Blackwell</Author>
+  <Tooltip>This mod makes a number of improvements on spotlights, based on what exists in reality.</Tooltip>
+  <Description>The hazy cone effect is removed, and the light produced is cast farther than vanilla spotlights. In reality, the cone of light haze is an effect only seen in dense atmospheres, and its appearance is also a sign of why the light is limited in range. Most of the environments a space engineer will find themselves in won't do either. In space, or on the Moon, Mars, or Europa, there is little or no atmosphere to scatter or limit light. So, on half of the planets/moons, and all of space in this game there is no reason to simulate that which would not exist.
+The lines in the light cast have been removed, because experiments with light show that they would not be visible beyond a few feet in front of the spotlight. In order for a shadow to be cast by objects in front of the light, much more of the light must be obscured. The glass guard that is supposed to create the lines doesn't block the central point of the light source in any significant way, and is therefore invisible at a distance from the spotlight itself.
+  </Description>
+</PluginData>
