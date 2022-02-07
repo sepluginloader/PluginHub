@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>1662953858</Id>
+  <GroupId>SneakySounds</GroupId>
+  <FriendlyName>Sneaky Sounds - Quieter Tools</FriendlyName>
+  <Author>Splitsie</Author>
+  <Tooltip>This is for those people who like hearing battle sounds loud while not being deafened by their grinder, welder and most of all drill.</Tooltip>
+  <Description>This mod reduces the volume of hand tools, ship tools, weather, doors, placement sounds and a few others that often feel deafening, while leaving the explosions booming, gatlings cracking and letting you hear a little bit more of the atmospheric sounds (though not the deafening rain).
+For everyone who loves a good action movie, but doesn't feel that mining is action, this one's for you!
+  </Description>
+</PluginData>
