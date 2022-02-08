@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/multigrid-projector</GroupId>
   <FriendlyName>Multigrid Projector</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>f890f8b5f7da195c4c0a1d0bf0f62c9ed2e5bbab</Commit>
+  <Commit>0e76278d01f4b77824ab35547f001806423cb854</Commit>
   <SourceDirectories>
     <Directory>MultigridProjector</Directory>
     <Directory>MultigridProjectorClient</Directory>
