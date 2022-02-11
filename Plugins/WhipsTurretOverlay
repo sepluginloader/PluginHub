@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>704012607</Id>
+  <GroupId>WhipsTurretOverlay</GroupId>
+  <FriendlyName>Whip's Turret Overlay (For ALL turrets)</FriendlyName>
+  <Author>Whiplash141</Author>
+  <Tooltip>This is a turret version of my Camera Overlay mod.</Tooltip>
+  <Description>This will apply the overlay to ANY turret in the game without any additional work. That includes turrets added by other mods.
+This will NOT work with some weapon core turrets because many of them are not actually turrets and do not inherit the turret API. As such, I can't use the turret API to modify their overlay.</Description>
+</PluginData>
