@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>806331071</Id>
+  <FriendlyName>Camera Panning</FriendlyName>
+  <Author>Digi</Author>
+  <Tooltip>Enables players to change the direction of the camera while viewing it.</Tooltip>
+  <Description>This mod enables players to change the direction of the camera while viewing it. Works for any camera block, modded or vanilla.</Description>
+</PluginData>
