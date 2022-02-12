@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>704012607</Id>
+  <FriendlyName>Whip's Camera Overlay</FriendlyName>
+  <Author>Whiplash141</Author>
+  <Tooltip>A modification for the default camera overlay.</Tooltip>
+  <Description>This is my camera overlay. It has been redesigned from the ground up to be unobtrusive yet helpful for long range weapon targeting. It is cleaner than the crappy default overlay.
+Transparency of the cross lines looks different in-game due to the nature of .dds image compression. They may appear very prominent at times but they will not obstruct the view of objects behind them too badly.</Description>
+</PluginData>
