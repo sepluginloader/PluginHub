@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2426611028</Id>
+  <GroupId>Accelerometer</GroupId>
+  <FriendlyName>Accelerometer</FriendlyName>
+  <Author>Natomic</Author>
+  <Tooltip>Adds an accelerometer to the HUD</Tooltip>
+  <DependencyIds>
+      <Id>758597413</Id>
+  </DependencyIds>
+</PluginData>
