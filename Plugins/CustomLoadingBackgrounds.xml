@@ -5,8 +5,5 @@
   <FriendlyName>Custom Menu Backgrounds</FriendlyName>
   <Author>WesternGamer</Author>
   <Tooltip>A plugin that allows you to customize the background on the loading screen and main menu.</Tooltip>
-  <Commit>d27b157f0da1f49c86c379dee9201fbf54a15fe9</Commit>
-<SourceDirectories>
-    <Directory>ClientPlugin</Directory>
-  </SourceDirectories>
+  <Commit>62a3bbcd4a829e5aefdc4a3d051e0a266d4b4dab</Commit>
 </PluginData>
