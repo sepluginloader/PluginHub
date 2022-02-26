@@ -3,6 +3,6 @@
   <Id>opekope2/SeThreadingFixes</Id>
   <FriendlyName>Clipboard Fix</FriendlyName>
   <Author>opekope2</Author>
-  <Commit>da2ec6fc7dcd3c447c400ee92cec14adbe765e3b</Commit>
+  <Commit>57d9c63137697eaacd37df81e78a21f0d84784ef</Commit>
   <Tooltip>Fixes the clipboard bug</Tooltip>
 </PluginData>
