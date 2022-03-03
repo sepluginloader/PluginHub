@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
-  <Id>opekope2/SeThreadingFixes</Id>
+  <Id>opekope2/SeClipboardFix</Id>
   <FriendlyName>Clipboard Fix</FriendlyName>
   <Author>opekope2</Author>
-  <Commit>57d9c63137697eaacd37df81e78a21f0d84784ef</Commit>
+  <Commit>90cdbad25ceb892846f9eeb2a34890af1780a319</Commit>
   <Tooltip>Fixes the clipboard bug</Tooltip>
 </PluginData>
