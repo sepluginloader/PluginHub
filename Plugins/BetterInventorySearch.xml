@@ -4,8 +4,6 @@
   <FriendlyName>Better Inventory Search</FriendlyName>
   <Author>avaness</Author>
   <Tooltip>Highlights the item you searched for in the inventory.</Tooltip>
-  <Description>Highlights the item you searched for in the inventory.
-Currently broken as of the Warfare 2 update.</Description>
-  <Commit>d232004f0085199d517f08ad2483c3f11c1a84a1</Commit> 
-  <Hidden>true</Hidden>
+  <Description>Highlights the item you searched for in the inventory. Also tweaks the production tab so that the assembler list is sorterd and your search is persistent.</Description>
+  <Commit>1aeef39b73deb8510887875955204276b3203441</Commit> 
 </PluginData>
