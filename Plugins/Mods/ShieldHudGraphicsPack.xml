@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>540003236</Id>
+  <FriendlyName>Shield HUD Graphics Pack</FriendlyName>
+  <Author>Perdurable</Author>
+  <Tooltip>LCD/HUD graphics pack for the Defense Shields v2 mod.</Tooltip>
+  <Description>
+Ingame script "(THYA) Shield HUD Script" to use the images:
+http://steamcommunity.com/sharedfiles/filedetails/?id=543765745
+  </Description>
+</PluginData>
