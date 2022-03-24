@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2360788836</Id>
+  <FriendlyName>Welder Eyestrain Reduction</FriendlyName>
+  <Author>Vox Serico</Author>
+  <Tooltip>This mod reduces the intense flickering of the light produced by the welding tool.</Tooltip>
+  <Description>This mod reduces the intense flickering of the light produced by the welding tool.
+The brightness and other effects remain the same, but the strobe-like flashing has been toned down significantly.
+
+You don't need to be extra photosensitive to feel discomfort from welding for any period of time. Even Xocliw has expressed this to be annoyance over six years ago - and it's still a problem!
+</Description>
+</PluginData>
