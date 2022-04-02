@@ -5,8 +5,8 @@
   <Author>dude</Author>
   <Tooltip>3rd person camera freedom</Tooltip>
   <Description>Removes the check for obstructions when using the 3rd person view while seated in a ship. 
-    This allows you to rotate the camera around freely without it being forced to zoom in. 
+    This allows you to rotate the camera around freely without it being forced to zoom in or out. 
     Great for tunnel-boring mining ships!
   </Description>
-  <Commit>3775534f8191e53600773ce2226d90636b32448d</Commit> 
+  <Commit>691241993839f20687b76512f6394b02cb000dda</Commit> 
 </PluginData>
