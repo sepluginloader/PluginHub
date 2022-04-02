@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2788241343</Id>
+  <FriendlyName>Snarky Sounds</FriendlyName>
+  <Author>w4stedspace </Author>
+  <Tooltip>This mod is for people who are tired of the default suit voice, and perhaps life also...</Tooltip>
+  <Description>This mod is for people who are tired of the default suit voice, and perhaps life also...
+
+Please be aware, this suit AI does NOT care for your well being - quite the opposite. While still providing all HUD voice notifications (and with FAR more variants) this mod is more about reminding you that you should already be paying attention ;)
+
+I'd intended this for April Fools, but hey... I'm sure in some multiverse someplace it's still on time.
+
+The video is a demo of a few lines only, there are MANY more.
+
+Replaces the following Suit and Game Audio notifications:
+
+- All Suit and Ship Power Notifications
+- Hydrogen Notifications
+- Health Notifications
+- Handbrake and Antenna Notifications
+- Inventory Notifications
+- More planned...
+
+There are MANY variations (91 currently) ;)
+
+This mod was made live on Twitch with the help of the wonderful SE community, you can join us here: https://www.twitch.tv/w4stedspace</Description>
+</PluginData>
