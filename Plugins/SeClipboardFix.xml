@@ -3,6 +3,6 @@
   <Id>opekope2/SeClipboardFix</Id>
   <FriendlyName>Clipboard Fix</FriendlyName>
   <Author>opekope2</Author>
-  <Commit>90cdbad25ceb892846f9eeb2a34890af1780a319</Commit>
+  <Commit>40164095f599d450f565a1f1054e324477c517bd</Commit>
   <Tooltip>Fixes the clipboard bug</Tooltip>
 </PluginData>
