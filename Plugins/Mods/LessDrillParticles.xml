@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>1169829560</Id>
+  <FriendlyName>Less Drill Dust and Stone Particles</FriendlyName>
+  <Author>Nikolas March</Author>
+  <Tooltip>Reduces the number of particles that are used for drills in game.</Tooltip>
+</PluginData>
