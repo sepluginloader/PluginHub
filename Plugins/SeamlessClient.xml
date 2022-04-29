@@ -20,13 +20,4 @@
   
   <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
   <Commit>e1b301a77ede2875d61ad0e3f333ebaef4b26269</Commit>
-  
-  <!-- Optional list of directories to take the cs files from. Use this if your repository has more than one project in it. (It is not needed for Tool Switcher)
-  <SourceDirectories>
-    <Directory>Folder/Directory1</Directory>
-    <Directory>Directory 2</Directory>
-  </SourceDirectories> -->
-  
-  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box.
-  <Hidden>true</Hidden> -->
 </PluginData>
