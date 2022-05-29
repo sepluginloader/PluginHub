@@ -5,5 +5,5 @@
   <Author>avaness</Author>
   <Tooltip>Loads all script mods in a debuggable mode.</Tooltip>
   <Description>This plugin allows mod developers to attach Visual Studio and other IDEs to the game and use breakpoints. As a side effect, this will disable Keen's additions like mod profiling. This plugin will only work on local mods.</Description>
-  <Commit>bab10b8a872a18f0241f55a50f40ac149fc67dc6</Commit>
+  <Commit>880e4ca70778f8b3c6d86c28404aaf32ad4304b9</Commit>
 </PluginData>
