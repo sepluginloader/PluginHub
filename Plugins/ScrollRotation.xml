@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>austinvaness/ScrollRotationPlugin</Id>
+  <FriendlyName>Scroll Rotation</FriendlyName>
+  <Author>avaness</Author>
+  <Tooltip>Enables scrolling between different block rotations.</Tooltip>
+  <Description>Enables mouse wheel block rotation with Shift and Alt.</Description>
+  <Commit>474acddb6ed3ea851e2f6095f56a242df71a97b0</Commit>
+</PluginData>
