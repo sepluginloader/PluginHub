@@ -4,6 +4,8 @@
   <FriendlyName>Scroll Rotation</FriendlyName>
   <Author>avaness</Author>
   <Tooltip>Enables scrolling between different block rotations.</Tooltip>
-  <Description>Enables mouse wheel block rotation with Shift, Alt, and Shift+Alt.</Description>
-  <Commit>474acddb6ed3ea851e2f6095f56a242df71a97b0</Commit>
+  <Description>Allows the use of Shift, Alt, or Shift+Alt combined with scroll wheel to rotate blocks.
+
+If desired, the controls can be changed so that Shift scroll rotates the block and Alt scroll changes the rotation axis.</Description>
+  <Commit>e6ee41b49ad7bcd2d99b187a660929a8b8fe7c6c</Commit>
 </PluginData>
