@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>514062285</Id>
+  <FriendlyName>Build Info</FriendlyName>
+  <Author>Digi</Author>
+  <Tooltip>Displays more information about the block you're holding or aiming at, along with lots of other features. *Requires Text HUD API!*</Tooltip>
+  <DependencyIds>
+    <Id>758597413</Id>
+  </DependencyIds>
+</PluginData>
