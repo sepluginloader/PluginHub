@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>JakariaMods/ReflectiveWater</Id>
+  <FriendlyName>Reflective Water</FriendlyName>
+  <Author>Jakaria</Author>
+  
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Plugin that fixes billboard reflections for the SE Water Mod.</Tooltip>
+
+  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+  <Description>TThis plugin fixes reflections for the water surface of the SE Water Mod. The plugin was originally written by Dude in the Plugin Loader community. I provided the edits needed to fix the shader.</Description>
+  
+  <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
+  <Commit>cc61ed8a5a3f7b8d54a9f52be5cd5d095af1f8e8</Commit>
+</PluginData>
