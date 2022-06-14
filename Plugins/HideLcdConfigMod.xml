@@ -1,0 +1,7 @@
+<PluginData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2819870318</Id>
+  <FriendlyName>Hide LCD Controls (Mod)</FriendlyName>
+  <Author>bcmpinc</Author>
+  <Tooltip>Adds button to show/hide LCD controls in terminal</Tooltip>
+  <Description>Do you like using programmable blocks, do you like them displaying information on their monitor, but don't like the clutter it gives in the control panel? This mod hides the LCD configuration controls and adds yet another control that allows you to make them visible again. The control to show/hide LCD controls is added to every block that has configurable LCDs. </Description>  
+</PluginData>
