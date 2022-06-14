@@ -1,0 +1,9 @@
+<PluginData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>bcmpinc/SE-PreventBlockResize</Id>
+  <GroupId>PreventBlockResize</GroupId>
+  <FriendlyName>Prevent Block Resize</FriendlyName>
+  <Author>bcmpinc</Author>
+  <Tooltip>Prevents changing your building block size when looking at a differently sized grid.</Tooltip>
+  <Description>Have you ever used build planner while building a small grid ship? How often did a block change size, just before you clicked to request the necessary components from storage? This plugin disables that 'feature'. Clogging up your build planer and inventory with stuff you don't want will be a thing of the past.</Description>
+  <Commit>783da2927aa7a8ebbb9632bfbcaa517967450196</Commit>
+</PluginData>
