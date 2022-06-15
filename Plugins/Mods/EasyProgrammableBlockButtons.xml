@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2821462932</Id>
+  <FriendlyName>Easy Programmable Block Buttons</FriendlyName>
+  <Author>pyro000 / Lord Pyro</Author>
+  <Description>Moves the Edit and Recompile Buttons to the Top, recommended if you are develoving an InGameScript with MDK or whatever editor you are using.
+  
+Code copied and based on Easy Control Button Access by Meridius_IX / Lucas.</Description>
+</PluginData>
