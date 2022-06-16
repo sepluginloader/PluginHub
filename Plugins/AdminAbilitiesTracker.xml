@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Pas2704/AdminAbilitiesTracker</Id>
+  <FriendlyName>AdminAbilitiesTracker</FriendlyName>
+  <Author>Pas2704</Author>
+  <Tooltip>Lets you keep track of admin abilities being used on the server.</Tooltip>
+  <Description>Lets you keep track of admin abilities being used on the server.
+  More specifically, it can keep track of players using:
+	Invulnerable,
+	ShowPlayers,
+	UseTerminals,
+	Untargetable, 
+	KeepOriginalOwnershipOnPaste,
+	IgnoreSafezones,
+	IgnorePCU
+  It also shows what abilities are currently in use in your shift + f11 menu.
+  Changes are tracked with local chat messages, but will only work in multiplayer games where you are not the host.</Description>
+  <Commit>7e5c5a56b19331ab620c7d4c22befe1590c92cc2</Commit>
+</PluginData>
