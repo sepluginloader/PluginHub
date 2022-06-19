@@ -14,6 +14,7 @@
 	IgnoreSafezones,
 	IgnorePCU
   It also shows what abilities are currently in use in your shift + f11 menu.
-  Changes are tracked with local chat messages, but will only work in multiplayer games where you are not the host.</Description>
-  <Commit>b8af6af415a54fab7f99744f7f2df892a75f3020</Commit>
+  Changes are tracked with local chat messages, but will only work in multiplayer games where you are not the host.
+  These chat messages can be disabled in the config if you choose.</Description>
+  <Commit>fb092dc8a5e45791db5f5722979a79e26854c2a7</Commit>
 </PluginData>
