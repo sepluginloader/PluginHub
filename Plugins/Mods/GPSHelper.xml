@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2765229451</Id>
+  <FriendlyName>GPS Helper</FriendlyName>
+  <Author>Kaito</Author>
+  <Tooltip>GPS Helper is a set of chat commands that make management of your GPS points easier.</Tooltip>
+  <Description>
+Based on GPSHelper by CrazyDave137, seemingly abandoned and non-functional. I picked it up, cleaned it a bit, and fixed issues with string filtering. Commands are the same, I just fixed some internals and minor performance issuese that nobody would have noticed anyway.
+
+Code available on GitHub[github.com].
+
+Usage
+
+[string] denotes an optional parameter. You may provide it, or leave it blank.
+
+When adding a GPS, it will be used as the base name. Omitting will use the Player name instead.
+
+When filtering, providing an argument will try to do a substring match ('contains') on the GPS name, description, and hexadecimal string representation of the colour.
+
+/gpsx [string] creates a GPS point at current location, noting the local planet in the description. An auto-incrementing hexadecimal auto-ID string is appended to uniquely identify each GPS.
+/gpsx_reset resets the auto-incrementing auto-ID. Does not modify existing GPS.
+/gps_export [string] export all matching GPS to clipboard. No argument exports all GPS.
+/gps_toggle [string] toggle visibility of all matching GPS. No argument toggles all GPS.
+/gps_off [string] turn visibility of matching GPS off. No argument toggles all GPS.
+/gps_on [string] turn visibility of matching GPS on. No argument toggles all GPS.
+/gps_remove [string] remove all matching GPS. No argument removes all GPS. WARNING: Can not be undone!
+
+Props
+
+CrazyDave137 for authoring the original mod
+Digi for putting up with my endless flood of questions and being an all round nice chap
+  </Description>
+</PluginData>
