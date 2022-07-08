@@ -3,7 +3,7 @@
   <Id>StarCpt/Respawn-Menu-Improvements</Id>
   <FriendlyName>Respawn Menu Improvements</FriendlyName>
   <Author>StarCpt</Author>
-  <Tooltip>Sorts the spawn points alphabetically and adds a search box.</Tooltip>
-  <Description>Sorts the spawn points alphabetically and adds a search box.</Description>
+  <Tooltip>Sorts the spawn list alphabetically and adds a search box.</Tooltip>
+  <Description>Sorts the spawn list alphabetically and adds a search box.</Description>
   <Commit>f7f19b9c9ee72437b6d3f6688f2dc3a9a01938a0</Commit>
 </PluginData>
