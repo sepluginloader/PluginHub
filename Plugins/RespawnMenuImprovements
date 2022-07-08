@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StarCpt/Respawn-Menu-Improvements</Id>
+  <FriendlyName>RespawnMenuImprovements</FriendlyName>
+  <Author>StarCpt</Author>
+  <Tooltip>Sorts the spawn points alphabetically and adds a search box.</Tooltip>
+  <Description>Sorts the spawn points alphabetically and adds a search box.</Description>
+  <Commit>f7f19b9c9ee72437b6d3f6688f2dc3a9a01938a0</Commit>
+</PluginData>
