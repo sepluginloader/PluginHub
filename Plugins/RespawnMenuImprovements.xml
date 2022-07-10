@@ -4,6 +4,9 @@
   <FriendlyName>Respawn Menu Improvements</FriendlyName>
   <Author>StarCpt</Author>
   <Tooltip>Sorts the spawn list alphabetically and adds a search box.</Tooltip>
-  <Description>Sorts the spawn list alphabetically and adds a search box.</Description>
-  <Commit>1ef5025251a4a6402e6066f335de219e754981d9</Commit>
+  <Description>Adds a search box for spawn names.
+Adds the ability to sort list by spawn name or owner in ascending or descending order.
+Replaces the "Ready" text with owner name. (Ready status is still viewable in the tooltip)
+Shows full spawn name in the tooltip.</Description>
+  <Commit>9a775b268bca5163f9d16543cbd1eb9f66b62803</Commit>
 </PluginData>
