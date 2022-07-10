@@ -8,5 +8,5 @@
 Adds the ability to sort list by spawn name or owner in ascending or descending order.
 Replaces the "Ready" text with owner name. (Ready status is still viewable in the tooltip)
 Shows full spawn name in the tooltip.</Description>
-  <Commit>24715bce858b2b3579a0bbcc903f791d4d27b31d</Commit>
+  <Commit>21d316e451cee92bef5b0130b9582cd78db6eafb</Commit>
 </PluginData>
