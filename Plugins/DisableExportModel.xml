@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StarCpt/DisableExportModel</Id>
+  <FriendlyName>Disable Export Model</FriendlyName>
+  <Author>StarCpt</Author>
+  <Tooltip>Disable Export Model</Tooltip>
+  <Description>Disables Export Model hotkey</Description>
+  <Commit>fe94d015c143f28214086c73c66a7eccb347050f</Commit>
+</PluginData>
