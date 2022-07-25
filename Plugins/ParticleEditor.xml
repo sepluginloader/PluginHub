@@ -10,8 +10,8 @@ Load any offline world and press Shift+F to open the editor.
   </Description>
 
   <!-- The commit id. You can find this in the commits list: https://github.com/THDigi/ParticleEditor/commits/main -->
-  <Commit>47b9528844380b9e97019d0ba5a1c2defcc920c4</Commit>
+  <Commit>04341c78560ecb38a6a72c25bf044f8b678d5d0f</Commit>
 
   <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box. -->
-  <Hidden>true</Hidden>
+  <Hidden>false</Hidden>
 </PluginData>
