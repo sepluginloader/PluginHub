@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+
+  <Id>Bushfiend/TetherSE</Id>
+  
+  <GroupId></GroupId>
+  
+  <FriendlyName>TetherSE</FriendlyName>
+  
+  <Author>Bushy</Author>
+  
+  <Tooltip>Allows the build planner to remotely pull components from linked inventory access block.</Tooltip>
+
+  <Description>Highlight a block you own with your welder tool and type /tether. Your build planner will now automatically pull the components from that block if it has the proper conveyor access.
+      500m max range.
+  </Description>
+  
+  <Commit>65626dcd77d818196cf41f15ccde615cd7c0c938</Commit>
+  
+</PluginData>
