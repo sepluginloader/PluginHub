@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>opekope2/CosmicWineFixes</Id>
+  <FriendlyName>Cosmic Wine Fixes</FriendlyName>
+  <Author>opekope2</Author>
+  <Commit>7f795a0b2850935e039f9b3ad134cfd312ae40f7</Commit>
+  <Tooltip>Fixes the clipboard bug (enabled by default)
+Lets you automatically open log when the game crashes (in case the log button shows an error) (disabled by default)
+Lets you replace 'Exit to Windows' with 'Exit to Linux' (disabled by default)</Tooltip>
+</PluginData>
