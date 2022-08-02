@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StarCpt/UnlimitedWithdrawalAmount</Id>
+  <FriendlyName>Unlimited Deposit And Withdrawal Amounts</FriendlyName>
+  <Author>StarCpt</Author>
+  <Tooltip>Unlimited deposit and withdrawal amounts for ATMs and Store Blocks</Tooltip>
+  <Description>Unlimited deposit and withdrawal amount for ATMs and Store Blocks</Description>
+  <Commit>743d935829e8dc33340ef206a8900b98cc60bb3a</Commit>
+</PluginData>
