@@ -13,9 +13,12 @@
 			public: true
 	-->
 	
-	<Entry title="News Update" date="08/10/2022" public="true" id="0">
+	<Entry title="News Update" date="09/10/2022" public="true" id="0">
 		- Added news to plugin loader!
-		- Updated Scrollable FOV (Should now be faster)
+		
+		Updates:
+		- Updated Scrollable FOV (Now even faster)
+		
 		[https://github.com/sepluginloader/PluginHub example link]
 	</Entry>
 
