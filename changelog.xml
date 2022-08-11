@@ -1,6 +1,22 @@
 <News xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-
-	<Entry title="News Update" date="8/10/2022" public="true" id="0"> - Added news to plugin loader 
-	- Updated scrollable FOV (Should now be faster) </Entry>
+	<!-- 
+		READ ME BEFORE CHANGING
+	
+		News etiquette, keep things simple and short
+		If you are posting a small change or its a change within the 
+		past few days of the last patch note just append to the current entry
+		
+		Entry
+			title: keep it short, no more then 20 characters
+			date: Make sure to use the date format dd/mm/yyyy (like keen)
+			id: dont forget to increase ID if you make a new post!
+			public: true
+	-->
+	
+	<Entry title="News Update" date="08/10/2022" public="true" id="0">
+		- Added news to plugin loader!
+		- Updated Scrollable FOV (Should now be faster)
+		[https://github.com/sepluginloader/PluginHub example link]
+	</Entry>
 
 </News>
