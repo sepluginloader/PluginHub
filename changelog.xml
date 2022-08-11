@@ -1,5 +1,5 @@
 <News xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-	<Entry title="News Update" date="8/10/2022" public="true" id="0"> - Added news to plugin loader - Updated scrollable FOV (Should now be faster) </Entry>
+	<Entry title="News Update" date="8/10/2022" public="true" id="0"> - Added news to plugin loader \n- Updated scrollable FOV (Should now be faster) </Entry>
 
 </News>
