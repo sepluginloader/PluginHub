@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StarCpt/CopyScreenTextPlugin</Id>
+  <FriendlyName>Screen Text Editor Plugin</FriendlyName>
+  <Author>StarCpt</Author>
+  <Tooltip></Tooltip>
+  <Description>Adds a button in text boxes (the one often used to display results from chat commands, aka the MOTD box) to enable editing.</Description>
+  <Commit>1df11441c781863a74232296c5ac0a2245863d6d</Commit>
+</PluginData>
