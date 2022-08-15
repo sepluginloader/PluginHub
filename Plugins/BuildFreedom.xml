@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>KlimeSE/BuildFreedom</Id>
+    
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Build Freedom</FriendlyName>
+  
+  <!-- The author name that you want to appear in the list. -->
+  <Author>Klime</Author>
+  
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Build tools for SE. Currently: Paste freedom</Tooltip>
+  
+  <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
+  <Commit>8aaf51aab48e2cab06c7c4cfad0a613f269cc198</Commit>
+</PluginData>
