@@ -7,5 +7,5 @@
 Unlimited deposit and withdrawal amounts for ATMs and Store Blocks</Tooltip>
   <Description>CAPPED to Int.MaxValue!! Otherwise it causes an overflow!
 Unlimited deposit and withdrawal amount for ATMs and Store Blocks</Description>
-  <Commit>e5b49acda624780932510eddde320635f3a98e49</Commit>
+  <Commit>0aba85948257739de9375fe84e3d8bfe034e4583</Commit>
 </PluginData>
