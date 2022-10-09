@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>ritaelyn/FPSUnlocker</Id>
+  <GroupId>FpsUnlocker</GroupId>
+  <FriendlyName>Fps Unlocker</FriendlyName>
+  <Author>Ritaelyn</Author>
+  <Commit>8b7448b34eb4b68be20b3e540eedb056abb6666e</Commit>
+  <SourceDirectories>
+    <Directory>Shared</Directory>
+    <Directory>ClientPlugin</Directory>
+  </SourceDirectories>
+  <Tooltip>Sets Space Engineer's Framerate Cap to 500 fps</Tooltip>
+  <Description>
+	  This plugin sets Space Engineer's Framerate Cap to 500 fps. Edit the config if you desire to have a different cap.
+  </Description>
+</PluginData>
