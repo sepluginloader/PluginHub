@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>KlimeSE/SlowMo</Id>
+    
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Slow Mo</FriendlyName>
+  
+  <!-- The author name that you want to appear in the list. -->
+  <Author>Klime</Author>
+  
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Slow motion effect for cinematics</Tooltip>
+  
+  <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
+  <Commit>da9a27d5f172f2596c1461d3c284ad05ed22ebb2</Commit>
+</PluginData>

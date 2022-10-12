@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StarCpt/UnlimitedWithdrawalAmount</Id>
+  <FriendlyName>Unlimited Deposit And Withdrawal Amounts</FriendlyName>
+  <Author>StarCpt</Author>
+  <Tooltip>CAPPED to Int.MaxValue!! Otherwise it causes an overflow!
+Unlimited deposit and withdrawal amounts for ATMs and Store Blocks</Tooltip>
+  <Description>CAPPED to Int.MaxValue!! Otherwise it causes an overflow!
+Unlimited deposit and withdrawal amount for ATMs and Store Blocks</Description>
+  <Commit>0aba85948257739de9375fe84e3d8bfe034e4583</Commit>
+</PluginData>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Pas2704/AutoFactionChat</Id>
+  <FriendlyName>AutoFactionChat</FriendlyName>
+  <Author>Pas2704</Author>
+  <Tooltip>Start in faction channel instead of global</Tooltip>
+  <Description>This plugin forces your chat to start in the faction channel instead of the global channel.
+This will happen even if you are not in a faction. 
+To switch back to the global channel, use "/g".</Description>
+  <Commit>b6a5a5c174e2880c4b1b0388c23d8ce13a6481d1</Commit>
+</PluginData>

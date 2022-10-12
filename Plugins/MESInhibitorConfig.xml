@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>austinvaness/MESInhibitorPlugin</Id>
+  <FriendlyName>MES Inhibitor Config</FriendlyName>
+  <Author>avaness</Author>
+  <Tooltip>Adds a config to disable inhibitors for Modular Encouters Systems.</Tooltip>
+  <Description>This plugin allows you to disable the inhibitors for any encounters done through Modular Encounters Systems. All inhibitors are disabled by default, so if you wish to change which inhibitors are disabled, you can use the config file in the world's "Storage" folder.
+  
+If requested I will develop a version for use on servers, but this only works in singleplayer.</Description>
+  <Commit>b8d528aaa9eb16fec5eefa76cdc29dc87a2af2cf</Commit>
+</PluginData>
