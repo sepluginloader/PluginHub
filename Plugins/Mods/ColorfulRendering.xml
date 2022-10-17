@@ -7,7 +7,4 @@
   <Tooltip>This plugin will make the game rendering more colorful like other games.</Tooltip>
   <Description>Ever felt like SE visuals were a little bland? Or that putting pee shine on Earthlike isn't a visual upgrade for the game? With this mod which uses Medieval Engineers superior visuals as base now has more vibrant colors along with shadows.</Description>
   <Hidden>false</Hidden>
-  <DependencyIds>
-    <Id></Id>
-  </DependencyIds>
 </PluginData>

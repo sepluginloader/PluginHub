@@ -7,7 +7,4 @@
   <Tooltip>This mod will make the lock on sound a imperial lock on sound effect.</Tooltip>
   <Description>Basic mod to change the vanilla lock on sound effects to that of a TIE Fighter as seen in Episode IV. Start up sound, followed by looped search effect, then faster search noise and tone when lock is established.</Description>
   <Hidden>false</Hidden>
-  <DependencyIds>
-    <Id></Id>
-  </DependencyIds>
 </PluginData>
