@@ -1,27 +1,12 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
-  <!-- Place the steam id of your workshop item here. -->
   <Id>2198451962</Id>
-  
-  <!-- Optional tag that specifies the group this plugin belongs to. Only one plugin from a given group can be enabled. -->
   <GroupId>ColorfulRendering</GroupId>
-  
-  <!-- The name of your plugin that will appear in the list. -->
   <FriendlyName>Colorful Rendering (Mod)</FriendlyName>
-
-  <!-- The author name that you want to appear in the list. -->
   <Author>Ryukki</Author>
-  
-  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
   <Tooltip>This plugin will make the game rendering more colorful like other games.</Tooltip>
-  
-  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
   <Description>Ever felt like SE visuals were a little bland? Or that putting pee shine on Earthlike isn't a visual upgrade for the game? With this mod which uses Medieval Engineers superior visuals as base now has more vibrant colors along with shadows.</Description>
-  
-  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box. -->
   <Hidden>false</Hidden>
-  
-  <!-- Optional tag that specifies what dependencies this mod has. Dependencies will be automatically enabled when this mod is enabled. -->
   <DependencyIds>
     <Id></Id>
   </DependencyIds>
