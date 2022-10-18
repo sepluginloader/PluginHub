@@ -7,5 +7,5 @@
   <Description>This plugin allows you to disable the inhibitors for any encounters done through Modular Encounters Systems. All inhibitors are disabled by default, so if you wish to change which inhibitors are disabled, you can use the config file in the world's "Storage" folder.
   
 If requested I will develop a version for use on servers, but this only works in singleplayer.</Description>
-  <Commit>b8d528aaa9eb16fec5eefa76cdc29dc87a2af2cf</Commit>
+  <Commit>71a1ce3754e4c97a9bfd0a496b71ce61017790ad</Commit>
 </PluginData>
