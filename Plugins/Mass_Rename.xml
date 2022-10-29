@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="SEPMPlugin">
-  <Id>1937530079</Id>
-  <FriendlyName>Mass Rename</FriendlyName>
-  <Author>Xo</Author>
-  <Hidden>true</Hidden>
-</PluginData>
