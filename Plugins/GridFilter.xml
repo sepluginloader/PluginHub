@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StarCpt/SE-GridFilter</Id>
+  <FriendlyName>GridFilter</FriendlyName>
+  <Author>Xo</Author>
+  <Tooltip></Tooltip>
+  <Description>GridFilter plugin from https://steamcommunity.com/sharedfiles/filedetails/?id=1937528740</Description>
+  <Commit>68145a214b04e6cc3d725589141280dc74cb54db</Commit>
+</PluginData>
