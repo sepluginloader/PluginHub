@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>zznty/FactionUnlimiter</Id>
+  <GroupId>zznty/FactionUnlimiter</GroupId>
+  <FriendlyName>Faction Unlimiter</FriendlyName>
+  <Author>zznty</Author>
+  <Commit>a4e96252effce907689daf4758af58fb218e291d</Commit>
+  <SourceDirectories>
+    <Directory>FactionUnlimiter</Directory>
+  </SourceDirectories>
+  <Tooltip>Removes 3 charaters faction tag length restriction</Tooltip>
+  <Description>Removes 3 charaters faction tag length restriction.
+Now you able to use tags like NASA or DC and even longer as i believe that this is stupid rule because gui can display up to 6 chars.
+Works in both single and multi players.</Description>
+</PluginData>
