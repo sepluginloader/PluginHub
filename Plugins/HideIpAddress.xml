@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StarCpt/SE-HideIpAddress</Id>
+  <FriendlyName>Hide Ip Address</FriendlyName>
+  <Author>StarCpt</Author>
+  <Tooltip></Tooltip>
+  <Description>Hides the IP Address in the "Continue Game" button tooltip</Description>
+  <Commit>e52bfc3537b2fd7251e255bc0653a6a6bf78f4f3</Commit>
+</PluginData>
