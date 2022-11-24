@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2005632342</Id>
+  <FriendlyName>HudLcdv2</FriendlyName>
+  <Author>Kapitan Oczywisty</Author>
+  <Tooltip>Display your LCD text on your HUD!</Tooltip>
+  <DependencyIds>
+    <Id>758597413</Id>
+  </DependencyIds>
+</PluginData>
