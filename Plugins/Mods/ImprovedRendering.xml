@@ -1,15 +1,11 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
-  <!-- Place the steam id of your workshop item here. -->
   <Id>2871017418</Id>
   
-  <!-- The name of your plugin that will appear in the list. -->
   <FriendlyName>Improved Rendering</FriendlyName>
 
-  <!-- The author name that you want to appear in the list. -->
   <Author>???</Author>
   
-  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
   <Description>A mod used to improve rendering. This item includes, improved post-processing, cool sun flares, less-saturated overall image, dark and blue skybox and a bright blue star.</Description>
   
 </PluginData>
