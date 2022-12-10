@@ -3,10 +3,10 @@
   <Id>Allen-Wrench/ChatFilter</Id>
   <FriendlyName>Chat Filter</FriendlyName>
   <Author>dude</Author>
-  <Tooltip>Decide what kinds of chat messages you want to see.</Tooltip>
+  <Tooltip>Mute individual players chat messages, or all of them!</Tooltip>
   <Description>Block chat messsages from specific players or hide chat messages by type (global/faction/whisper). 
   /mute [player name] - blocks chat messages from a player.
   /unmute [player name] - unblocks players messages.
   /cfconfig - open configuration window to set visibility for a specific chat channel.</Description>
-  <Commit>8c06847a95c64e6e4e2a6ab1512354adf1dfd5eb</Commit> 
+  <Commit>9ee353f923058546f7ddb7431540988cff921dca</Commit> 
 </PluginData>
