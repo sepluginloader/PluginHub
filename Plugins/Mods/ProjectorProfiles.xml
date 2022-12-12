@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2900046920</Id>
+  <FriendlyName>Projector Profiles</FriendlyName>
+  <Author>StarCpt</Author>
+  <Description>This mod adds a couple buttons and stuff to easily save and load projector profiles</Description>
+</PluginData>
