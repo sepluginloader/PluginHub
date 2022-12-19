@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2903639290</Id>
+  <FriendlyName>More Thruster Actions</FriendlyName>
+  <Author>StarCpt</Author>
+  <Description>Adds 2 toolbar actions to thrusters:
+
+Max Thrust override - sets override to 100%
+Reset Thrust override - sets override to 0%</Description>
+</PluginData>
