@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>BDCarrillo/EyeAdaptation</Id>
+  <GroupId>BDCarrillo/EyeAdaptation</GroupId>
+  <FriendlyName>FixedEyeAdaptation</FriendlyName>
+  <Author>BDCarrillo and Muzzled</Author>
+  <Commit>c914a7f4be36fa9edaabf02676aeeb8afe6579ce</Commit>
+  <SourceDirectories>
+    <Directory>ClientPlugin</Directory>
+  </SourceDirectories>
+  <Tooltip>Corrects eye adaption to actually allow you to see, dimly, in dark interior spaces.</Tooltip>
+  <Description>Corrects eye adaption to actually allow you to see, dimly, in dark interior spaces.  Values provided by Muzzled.
+  </Description>
+</PluginData>

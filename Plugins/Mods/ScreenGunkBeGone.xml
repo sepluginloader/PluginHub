@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>1289657379</Id>
+  <GroupId>ScreenGunkBeGone</GroupId>
+  <FriendlyName>Screen Gunk Be Gone!</FriendlyName>
+  <Author>Whiplash141</Author>
+  <Tooltip>This mod reduces screen gunk by toning down most of the post-processing effects.</Tooltip>
+  <Description>Since Keen does not like giving us graphical options, I decided to make a mod to remove the crap that is smeared all over the screen. I have also reduced vignette and the chromatic abomination aberration. I think that the bloom looks real neat on the tracers, so I've kept it (but had to tone it down b/c it was blinding after removing the dirt).
+
+Enjoy being able to see a bit better!</Description>
+</PluginData>

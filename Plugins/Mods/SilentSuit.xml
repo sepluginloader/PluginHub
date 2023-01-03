@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2907163289</Id>
+  <FriendlyName>Silent Suit</FriendlyName>
+  <Author>Walto</Author>
+  <Tooltip>Silence, finally !</Tooltip>
+  <Description>Removes all suit voice warning
+
+This mod keeps the suit voice silent.
+
+
+
+
+You can find my source code here : https://github.com/WalTho/SilentSuit/tree/main/SilentSuit
+  </Description>
+</PluginData>
