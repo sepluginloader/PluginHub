@@ -19,5 +19,5 @@
   <Description>This plugin allows seamless transfers between Nexus enabled servers. Some mods or plugins may not play nice with switching between servers. Be cautious when using!</Description>
   
   <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
-  <Commit>ac1b43201b5864874783fc74b7931d25fe8aaef5</Commit>
+  <Commit>2136828a35462e751fcfd922da77aa0f11d26c4e</Commit>
 </PluginData>
