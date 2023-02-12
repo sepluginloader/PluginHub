@@ -24,8 +24,6 @@ jobs:
         with:
           path: tools
           repository: 'sepluginloader/PluginLoaderTool'
-          
-      - run: dir
 
       # Install SteamCMD
       - name: Setup SteamCMD
@@ -41,7 +39,9 @@ jobs:
         uses: microsoft/setup-msbuild@v1.1
 
       - name: Build PluginLoaderTool.exe
-        run: msbuild -t:Build -p:OutputPath=..\..\build,Configuration=Release,Platform=x64,TargetFrameworkVersion=v4.8 tools\PluginLoaderTool\PluginLoaderTool.csproj
+        run: |
+          msbuild -t:restore -p:RestorePackagesConfig=true tools\PluginLoaderTool.sln
+          msbuild -t:Build -p:OutputPath=..\build,Configuration=Release,Platform=x64,TargetFrameworkVersion=v4.8 tools\PluginLoaderTool\PluginLoaderTool.csproj
       
       - name: Download compiled_plugins
         uses: actions/download-artifact@v3.0.2
@@ -52,7 +52,7 @@ jobs:
           path: compiled_plugins
           
       - name: Run PluginLoaderTools.exe
-        run: build\PluginLoaderTool.exe -i main\Plugins --cache compiled_plugins -o plugins.zip
+        run: tools\build\PluginLoaderTool.exe -i main\Plugins --cache compiled_plugins -o plugins.zip
       
       # Runs a single command using the runners shell
       - name: Run a one-line script
