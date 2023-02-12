@@ -47,7 +47,7 @@ jobs:
       
         # Install Space Engineers Dedicated Server
       - name: Install Space Engineers
-        run: steamcmd +force_install_dir .\se +login anonymous +app_update 298740 +quit
+        run: steamcmd +force_install_dir $env:GITHUB_WORKSPACE\se +login anonymous +app_update 298740 +quit
         shell: powershell
 
       - run: dir -Recurse -Depth 1
