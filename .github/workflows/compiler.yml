@@ -25,6 +25,22 @@ jobs:
           path: tools
           repository: 'sepluginloader/PluginLoaderTool'
 
+      - name: SteamCMD cache
+        uses: actions/cache@v3.2.5
+        with:
+          # A list of files, directories, and wildcard patterns to cache and restore
+          path: steamcmd\
+          # An explicit key for restoring and saving the cache
+          key: steamcmd
+          
+      - name: Compiled plugins cache
+        uses: actions/cache@v3.2.5
+        with:
+          # A list of files, directories, and wildcard patterns to cache and restore
+          path: compiled_plugins\
+          # An explicit key for restoring and saving the cache
+          key: compiled_plugins
+
       # Install SteamCMD
       - name: Setup SteamCMD
         uses: CyberAndrii/setup-steamcmd@v1.1.5
@@ -33,7 +49,7 @@ jobs:
       - name: Install Space Engineers
         run: steamcmd +login anonymous +app_update 298740 +quit
 
-      - run: dir
+      - run: dir -Recurse -Depth 1
       
       - name: Add msbuild to PATH
         uses: microsoft/setup-msbuild@v1.1
@@ -42,18 +58,10 @@ jobs:
         run: |
           msbuild -t:restore -p:RestorePackagesConfig=true tools\PluginLoaderTool.sln
           msbuild -t:Build -p:OutputPath=..\build,Configuration=Release,Platform=x64,TargetFrameworkVersion=v4.8 tools\PluginLoaderTool\PluginLoaderTool.csproj
-      
-      - name: Download compiled_plugins
-        uses: actions/download-artifact@v3.0.2
-        with:
-          # Artifact name
-          name: compiled_plugins
-          # Destination path
-          path: compiled_plugins
           
       - name: Run PluginLoaderTools.exe
-        run: tools\build\PluginLoaderTool.exe -i main\Plugins --cache compiled_plugins -o plugins.zip
+        run: tools\build\PluginLoaderTool.exe -i main\Plugins --cache compiled_plugins --steamdir steamcmd\steamapps -o plugins.zip
       
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: dir
+        run: dir -Recurse -Depth 1
