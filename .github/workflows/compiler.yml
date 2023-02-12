@@ -1,0 +1,54 @@
+name: Plugin Compiler
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: windows-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      
+      - name: Download PluginLoaderTool
+        uses: actions/checkout@v3
+        with:
+          repository: 'sepluginloader/PluginLoaderTool'
+          
+      - run: dir
+
+      # Install SteamCMD
+      - name: Setup SteamCMD
+        uses: CyberAndrii/setup-steamcmd@v1.1.5
+        
+        # Install Space Engineers Dedicated Server
+      - name: Install Space Engineers
+        run: steamcmd +login anonymous +app_update 298740 +quit
+
+      - name: Add msbuild to PATH
+        uses: microsoft/setup-msbuild@v1.1
+
+      - name: Build PluginLoaderTool.exe
+        run: msbuild -t:Build -p:OutputPath=..\build;Configuration=Release;Platform=x64;TargetFrameworkVersion=v4.8 PluginLoaderTool\PluginLoaderTool.csproj
+      
+      - name: Download compiled_plugins
+        uses: actions/download-artifact@v3.0.2
+        with:
+          # Artifact name
+          name: compiled_plugins
+          # Destination path
+          path: compiled_plugins
+          
+      - name: Run PluginLoaderTools.exe
+        run: build\PluginLoaderTool.exe -i Plugins --cache compiled_plugins -o plugins.zip
+      
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: dir
