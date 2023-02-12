@@ -50,8 +50,6 @@ jobs:
         run: steamcmd +force_install_dir $env:GITHUB_WORKSPACE\se +login anonymous +app_update 298740 +quit
         shell: powershell
 
-      - run: dir -Recurse -Depth 1
-      
       - name: Add msbuild to PATH
         uses: microsoft/setup-msbuild@v1.1
 
@@ -63,6 +61,14 @@ jobs:
       - name: Run PluginLoaderTools.exe
         run: tools\build\PluginLoaderTool.exe -i main\Plugins --cache compiled_plugins --steamdir se -o plugins.zip
       
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: dir -Recurse -Depth 1
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          # Artifact name
+          name: compiled_plugins # optional, default is artifact
+          # A file, directory or wildcard pattern that describes what to upload
+          path: plugins.zip
+          # The desired behavior if no files are found using the provided path.
+          if-no-files-found: warn
+          # Duration after which artifact will expire in days. 0 means using default retention.
+          retention-days: 0
