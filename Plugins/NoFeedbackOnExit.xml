@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <!-- Place your github repository name here. One repository can only store one plugin. This one is from https://github.com/austinvaness/ToolSwitcherPlugin -->
+  <Id>austinvaness/ToolSwitcherPlugin</Id>
+  
+  <!-- Optional tag that specifies the group this plugin belongs to. Only one plugin from a given group can be enabled. -->
+  <GroupId>ToolSwitcher</GroupId>
+  
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Tool Switcher</FriendlyName>
+  
+  <!-- The author name that you want to appear in the list. -->
+  <Author>avaness</Author>
+  
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Allows scrolling between welder, grinder, and drill.</Tooltip>
+
+  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+  <Description>This plugin is a simplified version of the Tool Switcher mod. It allows you to scroll between the welder, grinder, and drill. There is no configuration yet, so these tools will always be grouped together while the plugin is enabled. The benefits of this plugin over the mod are that you can use any toolbar page, and it will work on any multiplayer server.</Description>
+  
+  <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
+  <Commit>eeca2869224bb99a34542c5e40b5ac6912b08cbc</Commit>
+  
+  <!-- Optional list of directories to take the cs files from. Use this if your repository has more than one project in it. (It is not needed for Tool Switcher)
+  <SourceDirectories>
+    <Directory>Folder/Directory1</Directory>
+    <Directory>Directory 2</Directory>
+  </SourceDirectories> -->
+  
+  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box.
+  <Hidden>true</Hidden> -->
+</PluginData>
