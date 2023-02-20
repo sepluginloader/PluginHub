@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2923698329</Id>
+  <FriendlyName>Camera - Over The Shoulder</FriendlyName>
+  <Author>Adriano</Author>
+  <Tooltip>Adds another camera option to Space Engineers.</Tooltip>
+  <Description>Over-the-shoulder is a camera view point that is featured in most modern third-person shooters and action games.</Description>
+</PluginData>
