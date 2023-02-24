@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>viktor-ferenczi/performance-improvements/tree/beta</Id>
+  <GroupId>viktor-ferenczi/performance-improvements</GroupId>
+  <FriendlyName>Performance Improvements Beta</FriendlyName>
+  <Author>Viktor</Author>
+  <Commit>63f16ce362e0ac64b8f28f067baf7c78e7910f23</Commit>
+  <SourceDirectories>
+    <Directory>Shared</Directory>
+    <Directory>ClientPlugin</Directory>
+  </SourceDirectories>
+  <Tooltip>Various performance improvements to let the game run smoother.</Tooltip>
+  <Description>This version is for use with the SE version 1.202.048 (Automation Beta).
+  
+Please see the GitHub page for the features, technical details and the Keen bug tickets to vote on. This plugin is available for Torch and Dedicated Server as well.
+
+For support join the SE Mods Discord:
+https://discord.gg/PYPFPGf3Ca
+
+Please consider supporting my work on Patreon:
+https://www.patreon.com/semods
+
+Thank you!
+  </Description>
+</PluginData>
