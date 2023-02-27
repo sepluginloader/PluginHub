@@ -9,7 +9,7 @@ on:
   
 jobs:
   build:
-
+    if: github.repository == 'sepluginloader/PluginHub'
     runs-on: ubuntu-latest
 
     steps:
