@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
   <Id>2940288034</Id>
-  <FriendlyName>Korean Font for LichHudMaster</FriendlyName>
+  <FriendlyName>Korean Font for RichHudMaster</FriendlyName>
   <Author>Arstraea</Author>
-  <Tooltip>Add korean font to Lich Hud Master, specially for Build Vision.</Tooltip>
+  <Tooltip>Add korean font to Rich Hud Master, specially for Build Vision.</Tooltip>
   <Description>= 설정 방법 =
 
 F2를 눌러 Rich Hud Master 의 설정창인 Rich HUD Terminal을 엽니다.
