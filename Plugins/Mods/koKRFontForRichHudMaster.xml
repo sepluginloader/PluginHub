@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2940288034</Id>
+  <FriendlyName>Korean Font for RichHudMaster</FriendlyName>
+  <Author>Arstraea</Author>
+  <Tooltip>Add korean font to Rich Hud Master, specially for Build Vision.</Tooltip>
+  <Description>= 설정 방법 =
+
+F2를 눌러 Rich Hud Master 의 설정창인 Rich HUD Terminal을 엽니다.
+
+열린 설정창의 왼쪽 Mod List:에서 Build Vision을 선택합니다.
+
+Settings -> GUI Settings 항목 안에서 Font 부분을 찾습니다.
+
+Load Fonts 버튼을 누르고 위쪽의 드롭다운 [V] 를 눌러 koKR_NanumBarunGothic을 선택합니다.
+  </Description>
+  <Hidden>true</Hidden>
+</PluginData>
