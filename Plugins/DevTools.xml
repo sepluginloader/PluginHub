@@ -4,21 +4,20 @@
   <FriendlyName>DevTools</FriendlyName>
   <Author>Space</Author>
   <Tooltip>Bring back the F12 Developer Menu</Tooltip>
-  <Description>
-    This plugin re-enables the old F12 menu that was once available to players, allowing you to tweak a huge amount of rendering and gameplay settings to your preference.
+  <Description>This plugin re-enables the old F12 menu that was once available to players, allowing you to tweak a huge amount of rendering and gameplay settings to your preference.
 
-    For example, you can:
-      * View all grids, ores and voxel deformations within your sync distance
-      * Render grids as a wireframe
-      * Tweak postprocessing settings
-      * Change character stats
-      * Access SE's debugging settings
-      * And much more!
+For example, you can:
+  * View grids, ores and voxel deformations
+  * Render grids as a wireframe
+  * Tweak postprocessing settings
+  * Change character stats
+  * Access SE's debugging settings
+  * And much more!
 
-    Having the Developer Menu enabled will not affect your ability to play online in any way.
-    However, this was intended for singleplayer use and many (serverside) features will not function as expected on multiplayer.
+Having the Developer Menu enabled will not affect your ability to play online in any way.
+However, this was intended for singleplayer use and many (serverside) features will not function as expected on multiplayer.
 
-    This menu is not officially supported by Keen Software House; It may contain broken and/or unstable features.
+This menu is not officially supported by Keen Software House; It may contain broken and/or unstable features.
   </Description>
-  <Commit>c7cbecce6940b3f5df9e16743ad7ea5949796140</Commit>
+  <Commit>5e7c41f06d00dfaaee0e895085a791ff82936d8d</Commit>
 </PluginData>
