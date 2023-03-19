@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2947081810</Id>
+  <FriendlyName>Projector Highlighter</FriendlyName>
+  <Author>BDCarrillo</Author>
+  <Tooltip>Projector Highlighter adds color-coded wireframe around projected blocks showing their state for clearer visual feedback</Tooltip>
+  <Description>Ever had trouble finding that one projected block that didn't get placed? I introduce to you the Projector Highlighter!
+
+Projected blocks that can be built have a green wireframe around their block space, while incorrect blocks will have a red outline (without "Show Only Buildable" selected), both of which are visible through other blocks.
+
+Yellow blocks are damaged or incomplete blocks connected to parts of the projection.
+
+For simplicity, this runs only on clients and they bear the brunt of a slightly inefficient grid check. Only grids within 250m are checked every minute to see if they have any projectors.
+
+Cycle the highlights by entering /highlight in chat
+
+Expect it to take up to a minute when placing a new projector to see any effect.
+Once it's picked up on a projector updates occur every second.</Description>
+</PluginData>
