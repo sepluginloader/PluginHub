@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2950431210</Id>
+  <FriendlyName>Status Report</FriendlyName>
+  <Author>BDCarrillo</Author>
+  <Tooltip></Tooltip>
+  <Description>Ever wanted a concise report of things happening on your ship? Well with simple chat inputs you can inundate yourself in data!
+
+/report
+Shows a list of commands in the chat box
+
+/report inventory
+Displays all components, ores, ingots, and ammo on board
+
+/report damage
+Shows damaged functional (not armor) blocks
+
+/report twr
+Displays thrust-to-weight ratio and max lift capability for hydrogen thrusters
+
+/report cargo
+Displays cargo capacity and fill level of your ship
+
+/report power
+Displays a count and status of functional power producing blocks
+
+Runs client-side only.
+Please see the mod page for details/updates/feedback https://steamcommunity.com/sharedfiles/filedetails/?id=2950431210
+
+</Description>
+</PluginData>
