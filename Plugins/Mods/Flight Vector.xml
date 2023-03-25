@@ -4,16 +4,17 @@
   <FriendlyName>Flight Vector</FriendlyName>
   <Author>BDCarrillo</Author>
   <Tooltip></Tooltip>
-  <Description>Overview
-When seated in a cockpit, this mod draws lines to depict the prograde, retrograde, and gravity vector for your current grid. Note these lines are a fixed length, and only indicate direction.
+  <Description>
+When seated in a cockpit, this mod draws aids to depict the prograde, retrograde, and gravity vector for your current grid. Note these lines are a fixed length, and only indicate direction.
 
 B(lue)ow, R(ed)everse, G(reen)ravity
 
 Runs client-side only.
 
-You can cycle the line overlays by typing "/vector" in chat
+You can cycle the line overlays by typing "/vector lines" or "/vector symbols" in chat.  Defaults and color configurations are available, please see the mod page for details https://steamcommunity.com/sharedfiles/filedetails/?id=2950011596
 
 Credits
 -DirectedEnergy for the idea
--Jerrai for the clever mnemonic</Description>
+-Jerrai for the clever mnemonic
+</Description>
 </PluginData>
