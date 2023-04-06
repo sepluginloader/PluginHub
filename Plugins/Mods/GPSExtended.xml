@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2958267813</Id>
+  <FriendlyName>GPS Extended (Mod)</FriendlyName>
+  <Author>VengantMjolnir</Author>
+  <Tooltip>Allows adding a GPS point at a distance from the player.</Tooltip>
+  <Description>This is a simple mod designed to do one thing, add a GPS marker at a specified distance. Use it with /xgps 'distance' 'name'. Distance is in Kilometres and the name can be whatever you want. An example: /xgps 2.5 An Asteroid I want to visit</Description>
+  
+  <Hidden>false</Hidden>
+</PluginData>
