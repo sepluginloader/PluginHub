@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2957590632</Id>
+  <FriendlyName>WC Radar</FriendlyName>
+  <Author>BDCarrillo</Author>
+  <Tooltip>Information display based upon WeaponCore targeting</Tooltip>
+
+  <Description>Utilizing targeting data from WC, this mod draws hud symbols and information on targets or obstructions (asteroids, friendlies, etc).  Range is based on the lesser of 
+  sync distance or longest range weapon on your grid.  As it relies on information from weapons, you must have at least one weapon on your grid for this to function.
+  A multitude of options are available via hitting Enter and F2, using the Mod Menu that is part of TextHudAPI.
+  
+  Steam workshop page: https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=2957590632
+</Description>
+  <DependencyIds>
+    <Id>758597413</Id>
+  </DependencyIds>
+</PluginData>
