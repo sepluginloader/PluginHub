@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>1878844801</Id>
+  <GroupId>AutoRun</GroupId>
+  <FriendlyName>AutoRun</FriendlyName>
+  <Author>Klime</Author>
+  <Tooltip>Automatic running.</Tooltip>
+  <Description>Press Q to start running. Press any movement key (W A S D) or Q to stop.
+
+Running speed can be varied with the scroll wheel.
+The 3 speeds are: 10m/s (sprint), 6m/s (run), 2m/s (walk)
+
+/autorun rebind
+Allows the autorun key to be changed. Supports single keys only (e.g R, X, etc)
+  </Description>
+</PluginData>
