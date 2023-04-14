@@ -4,5 +4,6 @@
   <FriendlyName>Discord Rich Presence</FriendlyName>
   <Author>Math0424</Author>
   <Tooltip>Enables Discord rich presence for Space Engineers.</Tooltip>
-  <Commit>d5e9c2c3d0c1d6ddc8e35441df58c571f26b5d9d</Commit>
+  <Commit>0bd8c370e47f9aaf01617c01bbae39d12cb2bb85</Commit>
+  <Description>Enable discord rich presence for your game</Description>
 </PluginData>
