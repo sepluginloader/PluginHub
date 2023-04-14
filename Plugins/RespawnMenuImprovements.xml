@@ -3,12 +3,13 @@
   <Id>StarCpt/Respawn-Menu-Improvements</Id>
   <FriendlyName>Respawn Menu Improvements</FriendlyName>
   <Author>StarCpt</Author>
-  <Tooltip>Sorts the spawn list alphabetically and adds a search box.</Tooltip>
-  <Description>Features:
+  <Tooltip>Adds useful features to the respawn screen</Tooltip>
+  <Description>NEW - Chat is now usable from the respawn screen!
+Features:
 - Adds a search box for spawn names
 - Adds the ability to sort list by spawn name or owner in ascending or descending order
 - Replaces the "Ready" text with owner name (Ready status is still viewable in the tooltip)
 - Shows full spawn name in the tooltip
 - Dropdown menu to filter by owner</Description>
-  <Commit>677878bf2a4767230fb38c4834cc4b8f8bbd2e18</Commit>
+  <Commit>df9a4140376958db41d7a5888eceb640d30ec9b0</Commit>
 </PluginData>
