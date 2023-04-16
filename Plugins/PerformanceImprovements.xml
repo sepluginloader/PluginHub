@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/performance-improvements</GroupId>
   <FriendlyName>Performance Improvements</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>aa09ac43f809c7870e765ce669fecacc39cf17c4</Commit>
+  <Commit>b28177fa763ccb80489a444d02b55da8cc516cdb</Commit>
   <SourceDirectories>
     <Directory>Shared</Directory>
     <Directory>ClientPlugin</Directory>
