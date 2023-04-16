@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>1475392343</Id>
+  <FriendlyName>Build Colors</FriendlyName>
+  <Author>Sisk</Author>
+  <Tooltip>This mod allows you to create customized color sets for building, which can then be easily imported into another world.</Tooltip>
+</PluginData>
