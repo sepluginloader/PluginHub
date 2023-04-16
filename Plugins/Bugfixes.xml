@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/se-bugfixes</GroupId>
   <FriendlyName>Bugfixes</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>6b43ba0eec5412660424322442bad88a5b9345eb</Commit>
+  <Commit>2e2bffbf0bbc49c35d665dcbc995cc63c1c0213c</Commit>
   <SourceDirectories>
     <Directory>Shared</Directory>
     <Directory>ClientPlugin</Directory>
