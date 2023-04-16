@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>viktor-ferenczi/se-bugfixes</Id>
+  <GroupId>viktor-ferenczi/se-bugfixes</GroupId>
+  <FriendlyName>Bugfixes</FriendlyName>
+  <Author>Viktor</Author>
+  <Commit>6b43ba0eec5412660424322442bad88a5b9345eb</Commit>
+  <SourceDirectories>
+    <Directory>Shared</Directory>
+    <Directory>ClientPlugin</Directory>
+  </SourceDirectories>
+  <Tooltip>Fixes various bugs and crashes</Tooltip>
+  <Description>Please see the detailed list on the GitHub page:
+
+https://github.com/viktor-ferenczi/se-bugfixes
+
+(scroll down)
+
+They are also listed in the plugin settings dialog.
+  </Description>
+</PluginData>
