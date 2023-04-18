@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Math0424/DisableSpectatorMouseSensitivity</Id>
+  <GroupId>DisableSpectatorMouseSensitivity</GroupId>
+  <FriendlyName>Disable Spectator Mouse Sensitivity</FriendlyName>
+  <Author>Math0424</Author>
+  <Commit>ce04f6604eff85eb331d2581e17591f5baf8dc19</Commit>
+  <Tooltip>Disable the ctrl+scrollwheel keybind in spectator mode.</Tooltip>
+  <Description>Disable the ctrl+scrollwheel keybind in spectator mode</Description>
+</PluginData>
