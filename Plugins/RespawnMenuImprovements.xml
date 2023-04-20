@@ -11,5 +11,5 @@ Features:
 - Replaces the "Ready" text with owner name (Ready status is still viewable in the tooltip)
 - Shows full spawn name in the tooltip
 - Dropdown menu to filter by owner</Description>
-  <Commit>df9a4140376958db41d7a5888eceb640d30ec9b0</Commit>
+  <Commit>4bf5a69b2dbdfbdc8023fa5016e9e7eabd5ba2ad</Commit>
 </PluginData>
