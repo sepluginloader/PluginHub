@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Allen-Wrench/CreativeWorldSave</Id>
+  <FriendlyName>Creative World Save</FriendlyName>
+  <Author>dude</Author>
+  <Tooltip>Constructs an offline build-world using mods/settings from current session. Use the chat command: /creativesave [name]</Tooltip>
+  <Description>This plugin will construct an empty offline world with the mods and settings of the session that is currently loaded. Intended to be used to easily create an offline creative world for an online server you play on that is as close to 1:1 as possible.  
+Use the chat command '/creativesave' followed by a name to save the new world as, and it will be constructed and added to your local SE save folder.</Description>
+  <Commit>e69c4279d9be0e1984c52ebf166a457aefadb599</Commit>
+  <SourceDirectories>
+    <Directory>CreativeWorldSave</Directory>
+  </SourceDirectories>
+</PluginData>
