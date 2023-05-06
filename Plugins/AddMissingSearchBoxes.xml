@@ -4,6 +4,6 @@
   <FriendlyName>Add Missing Search Boxes</FriendlyName>
   <Author>WesternGamer</Author>
   <Tooltip>Adds searchboxes to parts of the SE ui that should have one.</Tooltip>
-  <Description>This plugin currently adds a searchbox to the factions list so you can find factions much faster now! It also allows you to search chat history more easily with the addition of the searchbox in the comms section!</Description>
-  <Commit>1cae1187dde4be25ad99f561015d245a8a7746d2</Commit>
+  <Description>Adds searchboxes to parts of the SE ui that should have one.</Description>
+  <Commit>e66fd32ed144e58b106f9be49739f7cb2e2d7895</Commit>
 </PluginData>
