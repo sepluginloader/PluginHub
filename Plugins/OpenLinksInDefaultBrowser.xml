@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>WesternGamer/OpenLinksInDefaultBrowser</Id>
+  <GroupId>OpenLinksInDefaultBrowser</GroupId>
+  <FriendlyName>Open Links In Default Browser</FriendlyName>
+  <Author>WesternGamer</Author>
+  <Tooltip>Forces the game to open links in the default browser instead of the Steam overlay.</Tooltip>
+  <Description>Forces the game to open links in the default browser instead of the Steam overlay.</Description>
+  <Commit>2879529d45162ed54800944316723aa35a608893</Commit>
+</PluginData>
