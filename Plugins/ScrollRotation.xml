@@ -7,5 +7,5 @@
   <Description>Allows the use of Shift, Alt, or Shift+Alt combined with scroll wheel to rotate blocks.
 
 If desired, the controls can be changed so that Shift scroll rotates the block and Alt scroll changes the rotation axis.</Description>
-  <Commit>dc2cd02a5280c9aa6510d109c6229ed82f4b7700</Commit>
+  <Commit>b148b183e9d88dae884181c284ce4fd06fd29ddc</Commit>
 </PluginData>
