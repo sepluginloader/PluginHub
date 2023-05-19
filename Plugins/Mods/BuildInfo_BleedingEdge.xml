@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2392775805</Id>
+  <FriendlyName>Build Info (bleeding edge)</FriendlyName>
+  <Author>Digi</Author>
+  <Tooltip>A more frequently updated version of BuildInfo mod. Please use this one if you want to help find and report issues. *Requires Text HUD API!*</Tooltip>
+  <DependencyIds>
+    <Id>758597413</Id>
+  </DependencyIds>
+</PluginData>
