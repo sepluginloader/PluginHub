@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <!-- Place the steam id of your workshop item here. -->
+  <Id>2497985921</Id>
+  
+  <!-- Optional tag that specifies the group this plugin belongs to. Only one plugin from a given group can be enabled. -->
+  <GroupId>MultigridProjectorExtra</GroupId>
+  
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Projector Extra (Mod)</FriendlyName>
+
+  <!-- The author name that you want to appear in the list. -->
+  <Author>Viktor</Author>
+  
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Convenience features for the projector block: Intuitive manual alignment and loading a self-repair projection.</Tooltip>
+  <Description>Allows intuitive alignment of loaded projections using the usual movement and rotation keys. 
+  
+Adds button to load a self-repair projection of the projector's own grid. 
+
+Compatible with the Multigrid Projector, but it does not require the plugin. 
+
+Works with online multiplayer games without the need for a server plugin. 
+
+For support join the SE Mods Discord: https://discord.gg/PYPFPGf3Ca
+  </Description>
+  
+  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box. -->
+  <Hidden>false</Hidden>
+</PluginData>
