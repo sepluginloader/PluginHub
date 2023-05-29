@@ -5,8 +5,8 @@
   <Author>StarCpt</Author>
   <Tooltip>Folders in the GPS tab</Tooltip>
   <Description>Adds folders for the gps tab.
-To add gpses to a folder, add \x3CFolder\x3E at the very beginning of the description (no spaces!!), followed by the desired folder name, and lastly append \x3C\x2FFolder\x3E at the end of the folder name.
-Example: \x3CFolder\x3EMy Folder\x3C\x2FFolder\x3E
+To add gpses to a folder, add &lt;Folder&gt; at the very beginning of the description (no spaces!!), followed by the desired folder name, and lastly append &lt;/Folder&gt; at the end of the folder name.
+Example: &lt;Folder&gt;My Folder&lt;/Folder&gt;
 Folder names must be between 1 and 32 characters long.
 Other Features:
 - Copying and pasting whole folders if both people are using the plugin.
