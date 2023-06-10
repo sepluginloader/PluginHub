@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>WesternGamer/CreativeModeEnhancements</Id>
+  <GroupId>CreativeModeEnhancements</GroupId>
+  <FriendlyName>Creative Mode Enhancements</FriendlyName>
+  <Author>WesternGamer</Author>
+  <Tooltip>Tools and changes that make building in creative mode easier.</Tooltip>
+  <Description>Tools and changes that make building in creative mode easier. Features that could be abused in multiplayer will disable in multiplayer if you are not an admin.</Description>
+  <Commit>a4630325dfdd85c25e1218073869f80312d04c15</Commit>
+</PluginData>
