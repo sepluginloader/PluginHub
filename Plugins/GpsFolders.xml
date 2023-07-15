@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StarCpt/SE-GpsFolders</Id>
+  <FriendlyName>GPS Folders and More</FriendlyName>
+  <Author>StarCpt</Author>
+  <Tooltip>Folders in the GPS tab</Tooltip>
+  <Description>Adds folders for the gps tab.
+To add gpses to a folder, add &lt;Folder&gt; at the very beginning of the description (no spaces!!), followed by the desired folder name, and lastly append &lt;/Folder&gt; at the end of the folder name.
+Example: &lt;Folder&gt;My Folder&lt;/Folder&gt;
+Folder names must be between 1 and 32 characters long.
+Other Features:
+- Column for gps distances from player (toggleable)
+- Copying and pasting whole folders if both people are using the plugin.
+- Show/Hide folders on hud
+- Double click on a folder to only browse its gpses
+- Button to copy all gpses to clipboard
+  
+Visit the github page for more information.</Description>
+  <Commit>4a14c36d8ea3123f3fbc7e6257d30cbc451ea147</Commit>
+</PluginData>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2979392197</Id>
+  <FriendlyName>Hide Platform Icons</FriendlyName>
+  <Author>avaness</Author>
+  <Tooltip>Hides the PC, Xbox, and Playstation icons</Tooltip>
+  <Description>This mod will hide the platform icons by making them invisible and zero width</Description>
+  <Hidden>false</Hidden>
+</PluginData>
