@@ -37,4 +37,16 @@
       <Commit>Commit ID</Commit>
     </Version>
   </AlternateVersions> -->
+
+  <!-- To specify a required NuGet package, use either a list of PackageReference tags OR a Config tag.
+  <NuGetReferences>
+    <PackageReference Include="OVRSharp" Version="1.2.0" />
+  </NuGetReferences>
+
+  <NuGetReferences>
+    <Config>Project/packages.config</Config>
+  </NuGetReferences> -->
+
+  <!-- To specify asset files to be copied onto disk, use the AssetFolder tag.
+  <AssetFolder>Project/Assets/</AssetFolder> -->
 </PluginData>
