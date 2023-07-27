@@ -5,4 +5,11 @@
   <Author>Klime</Author>
   <Commit>8904139c395a3dab9f4d4313d7552c07a75b7af3</Commit>
   <Hidden>false</Hidden>
+  <Tooltip>SE plugin with QoL features for VR</Tooltip>
+  <Description>SE plugin with QoL features for VR
+
+Current features:
+- Decoupled head rotation in cockpits from actual grid rotation
+- Re-added grid rotation with the arrow keys (Left, Right, Pitch Up, Pitch Down)
+</Description>
 </PluginData>
