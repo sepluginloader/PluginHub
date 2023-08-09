@@ -4,7 +4,7 @@
   <FriendlyName>Blueprint API</FriendlyName>
   <Author>avaness</Author>
   <Tooltip>Companion plugin for the mod of the same name.</Tooltip>
-  <Description>This plugin improves the accuracy of the blueprints that the mod gets. 
+  <Description>This plugin, when used with the associated mod, improves the accuracy of the result blueprint.
 
 Workshop Mod:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3016793407</Description>
