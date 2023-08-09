@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>austinvaness/BlueprintAPI</Id>
+  <FriendlyName>Blueprint API</FriendlyName>
+  <Author>avaness</Author>
+  <Tooltip>Companion plugin for the mod of the same name.</Tooltip>
+  <Description>This plugin improves the accuracy of the blueprints that the mod gets. 
+
+Workshop Mod:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3016793407</Description>
+  <Commit>d73819bed9812f1edca96697125572846872deff</Commit>
+  <SourceDirectories>
+    <Directory>PluginBlueprintAPI</Directory>
+  </SourceDirectories>
+</PluginData>
