@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StarCpt/SE-ResizableChat</Id>
+  <FriendlyName>Resizable Chat</FriendlyName>
+  <Author>StarCpt</Author>
+  <Tooltip>Adjustable chat box and font size</Tooltip>
+  <Description>Config: Use the plugin settings button in the plugins tab or run the command "/chatconfig"</Description>
+  <Commit>7e9a50c5ac548758011b8c6595faa20236f09424</Commit>
+</PluginData>
