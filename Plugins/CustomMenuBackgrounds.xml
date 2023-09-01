@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
-  <Id>WesternGamer/CustomMenuBackgrounds</Id>
+  <Id>WesternGamer/CustomLoadingBackgrounds</Id>
   <GroupId>CustomMenuBackgrounds</GroupId>
   <FriendlyName>Custom Menu Backgrounds</FriendlyName>
   <Author>WesternGamer</Author>
