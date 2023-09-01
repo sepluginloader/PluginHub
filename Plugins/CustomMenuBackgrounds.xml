@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
-  <Id>WesternGamer/CustomLoadingBackgrounds</Id>
-  <GroupId>CustomLoadingBackgrounds</GroupId>
+  <Id>WesternGamer/CustomMenuBackgrounds</Id>
+  <GroupId>CustomMenuBackgrounds</GroupId>
   <FriendlyName>Custom Menu Backgrounds</FriendlyName>
   <Author>WesternGamer</Author>
   <Tooltip>A plugin that allows you to customize the background on the loading screen and main menu.</Tooltip>
-  <Commit>ea070d52d6edc8384cd6b1d9f7ea66a48960371a</Commit>
+  <Commit>6a1309af67256b32c0502ee10f0f5fd9e9e74b55</Commit>
 </PluginData>
