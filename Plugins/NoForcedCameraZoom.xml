@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
-  <Id>Allen-Wrench/NoForcedCameraZoom</Id>
+  <Id>Bushfiend/NoForcedCameraZoom</Id>
   <FriendlyName>No Forced Camera Zoom</FriendlyName>
   <Author>dude</Author>
   <Tooltip>3rd person camera freedom</Tooltip>
@@ -8,5 +8,5 @@
     This allows you to rotate the camera around freely without it being forced to zoom in or out. 
     Great for tunnel-boring mining ships!
   </Description>
-  <Commit>691241993839f20687b76512f6394b02cb000dda</Commit> 
+  <Commit>e32f68a4bb854caed152d9f42d05909ae781abbe</Commit> 
 </PluginData>
