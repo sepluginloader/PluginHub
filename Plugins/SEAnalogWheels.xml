@@ -19,6 +19,6 @@
   <Description>This plugin allows analog control of the brakes and throttle for wheeled vehicles using a controller (e.g. Xbox controller). It works in singleplayer mode but it must be installed on the server for it to work in multiplayer. In the latter case, it's not necessary to have it on the client. In other words: If you want to use this in MP, you'll have to pester your local server admins (please don't) to make them install it.</Description>
   
   <!-- The commit id. -->
-  <Commit>48422fcbbeab3fb4519c2991be173f675eadc73d</Commit>
+  <Commit>8fe9b18f331849bddf311cc597c933d0c0904ef0</Commit>
   
 </PluginData>
