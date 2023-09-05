@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
-  <Id>Bushfiend/NoForcedCameraZoom</Id>
+  <Id>Allen-Wrench/NoForcedCameraZoom</Id>
   <FriendlyName>No Forced Camera Zoom</FriendlyName>
   <Author>dude</Author>
   <Tooltip>3rd person camera freedom</Tooltip>
