@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <!-- Place your github repository name here. One repository can only store one plugin. -->
+  <Id>Garbius/HydrogenEngineSound</Id>
+  
+  <!-- Optional tag that specifies the group this plugin belongs to. Only one plugin from a given group can be enabled. -->
+  <GroupId>HydrogenEngineSound</GroupId>
+  
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Dynamic Hydrogen Engine Sound</FriendlyName>
+  
+  <!-- The author name that you want to appear in the list. -->
+  <Author>Garbius</Author>
+
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Make engine go vroom!</Tooltip>
+
+  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+  <Description>Makes the engine sound pitch and volume change depending on load, making the engine "rev". This effect goes really well with hydrogen powered ground vehicles but can also serve as an indicator to quickly gauge the load on the power systems of ships and bases.</Description>
+
+  <!-- The commit id. -->
+  <Commit>1a7bce55615618afb7f04db2d35e6e189d525551</Commit>
+
+</PluginData>

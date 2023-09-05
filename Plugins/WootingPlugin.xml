@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <!-- Place your github repository name here. One repository can only store one plugin. -->
+  <Id>Garbius/WootingPlugin</Id>
+  
+  <!-- Optional tag that specifies the group this plugin belongs to. Only one plugin from a given group can be enabled. -->
+  <GroupId>WootingPlugin</GroupId>
+  
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Wooting Plugin</FriendlyName>
+  
+  <!-- The author name that you want to appear in the list. -->
+  <Author>Garbius</Author>
+
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Native support for the Wooting analog keyboards.</Tooltip>
+
+  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+  <Description>Adds support for analog control of the character, space ships, and rovers in singleplayer and multiplayer games. It also affects programmable blocks, where the values can be accessed through IMyShipController.MoveIndicator as normal but the values are much more analog. The controls can be set as usual in the game options.
+
+There is an issue in the Wooting SDK that affects the arrow keys. When testing with a Wooting Two (the one with Flaretech switches), binding any movement action to the arrow keys would look right in the settings menu but it would be bound to the numpad in game. It will hopefully be fixed in a future version of the Wooting SDK.
+
+There is also an issue with wheels and analog controls. The brakes and throttle are treated as digital (on/off), affecting the Wooting and other controllers alike. I have made another plugin, Analog Wheel Control (SEAnalogWheels), that addresses this issue until Keen fixes it.</Description>
+
+  <!-- The commit id. -->
+  <Commit>6b2f821a04be0355dd708705e3441256696470aa</Commit>
+
+  <!-- To specify a required NuGet package, use either a list of PackageReference tags OR a Config tag. -->
+  <NuGetReferences>
+    <PackageReference Include="WootingAnalogSDK.NET" Version="0.5.0" />
+    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+  </NuGetReferences>
+
+</PluginData>
