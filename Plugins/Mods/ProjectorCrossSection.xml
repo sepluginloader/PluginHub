@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3023809354</Id>
+  <FriendlyName>Projector Cross Section</FriendlyName>
+  <Author>StarCpt</Author>
+  <Description>View a cutaway of projected ships with this mod! Supposedly great for hand building ships layer by layer.
+
+You can select the axis of the cutaway plane, starting layer, and layers to show from the starting layer.
+
+The blocks are only hidden visually, they can still be built even if the projected block is hidden</Description>
+</PluginData>
