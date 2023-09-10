@@ -1,0 +1,836 @@
+{
+  "plugins": [
+    {
+      "id": "Allen-Wrench/NoForcedCameraZoom",
+      "name": "No Forced Camera Zoom",
+      "author": "dude",
+      "tooltip": "3rd person camera freedom",
+      "description": "Removes the check for obstructions when using the 3rd person view while seated in a ship. \n    This allows you to rotate the camera around freely without it being forced to zoom in or out. \n    Great for tunnel-boring mining ships!\n  "
+    },
+    {
+      "id": "austinvaness/BetterInventorySearch",
+      "name": "Better Inventory Search",
+      "author": "avaness",
+      "tooltip": "Highlights the item you searched for in the inventory.",
+      "description": "Highlights the item you searched for in the inventory. Also tweaks the production tab so that the assembler list is sorterd and your search is persistent."
+    },
+    {
+      "id": "Laavenx/MESWeaponBlacklistGui",
+      "name": "MES Weapon Blacklist GUI",
+      "author": "Laaven",
+      "tooltip": "GUI in G menu for blacklisting weapons from MES npc weapon randomizer"
+    },
+    {
+      "id": "StarCpt/SE-ResizableChat",
+      "name": "Resizable Chat",
+      "author": "StarCpt",
+      "tooltip": "Adjustable chat box and font size",
+      "description": "Config: Use the plugin settings button in the plugins tab or run the command \"/chatconfig\""
+    },
+    {
+      "id": "WesternGamer/ProperGPSMarkerScaling",
+      "name": "GPS Marker Scaling",
+      "author": "WesternGamer",
+      "tooltip": "Allows GPS Icon Scale to be changed.",
+      "description": "Allows GPS Icon Scale to be changed with Alt + Shift + Scrollwheel."
+    },
+    {
+      "id": "Math0424/SERichPresence",
+      "name": "Discord Rich Presence",
+      "author": "Math0424",
+      "tooltip": "Enables Discord rich presence for Space Engineers.",
+      "description": "Enable discord rich presence for your game"
+    },
+    {
+      "id": "WesternGamer/InGameWorldLoading",
+      "name": "In Game World Loading",
+      "author": "WesternGamer",
+      "tooltip": "Adds the ability to load, join, or start a new world from ingame."
+    },
+    {
+      "id": "KlimeSE/SlowMo",
+      "name": "Slow Mo",
+      "author": "Klime",
+      "tooltip": "Slow motion effect for cinematics"
+    },
+    {
+      "id": "StarCpt/SE-GridFilter",
+      "name": "GridFilter",
+      "author": "Xo",
+      "description": "GridFilter plugin from https://steamcommunity.com/sharedfiles/filedetails/?id=1937528740"
+    },
+    {
+      "id": "KlimeSE/SEVR",
+      "name": "SE VR",
+      "author": "Klime",
+      "tooltip": "SE plugin with QoL features for VR",
+      "description": "SE plugin with QoL features for VR\n\nCurrent features:\n- Decoupled head rotation in cockpits from actual grid rotation\n- Re-added grid rotation with the arrow keys (Left, Right, Pitch Up, Pitch Down)\n",
+      "hidden": "false"
+    },
+    {
+      "id": "austinvaness/MESInhibitorPlugin",
+      "name": "MES Inhibitor Config",
+      "author": "avaness",
+      "tooltip": "Adds a config to disable inhibitors for Modular Encouters Systems.",
+      "description": "This plugin allows you to disable the inhibitors for any encounters done through Modular Encounters Systems. All inhibitors are disabled by default, so if you wish to change which inhibitors are disabled, you can use the config file in the world's \"Storage\" folder.\n  \nThis plugin only works in singleplayer."
+    },
+    {
+      "id": "viktor-ferenczi/se-bugfixes",
+      "name": "Bugfixes",
+      "author": "Viktor",
+      "tooltip": "Fixes various bugs and crashes",
+      "description": "Please see the detailed list on the GitHub page:\n\nhttps://github.com/viktor-ferenczi/se-bugfixes\n\n(scroll down)\n\nThey are also listed in the plugin settings dialog.\n  "
+    },
+    {
+      "id": "WesternGamer/CreativeModeEnhancements",
+      "name": "Creative Mode Enhancements",
+      "author": "WesternGamer",
+      "tooltip": "Tools and changes that make building in creative mode easier.",
+      "description": "Tools and changes that make building in creative mode easier. Features that could be abused in multiplayer will disable in multiplayer if you are not an admin."
+    },
+    {
+      "id": "Allen-Wrench/PCUDisplay",
+      "name": "PCU display",
+      "author": "dude",
+      "tooltip": "Persistent PCU display on your HUD.",
+      "description": "Toggleable, always on screen readout of your current ships PCU, including connected grids. \n    Created for use on servers that utilize the 'Top Grid' mechanic to help you keep your pcu in check.\n    \n    Toggle the display on/off using 'Ctrl + NumPad0' while sitting in a ship. The display will continue to show that ships PCU, along with anything that it is connected to until you disable the display.\n    You can change the position of the display by holding down 'Shift + Alt + Mouse Right Click' and moving the mouse.\n    \n    Upon first activation a dialog will let you input a value to use as the upper limit, all this does designate when to change the color of the display from green to red.\n    Settings are saved in your %AppData%/SpaceEngineers/Storage/PCUDisplay folder, where you can also change the keybind (default NumPad0).\n    \n    Note: If you merge a ship that you are currently displaying PCU for, the counter will not update until you disable and re-enable it.\n  "
+    },
+    {
+      "id": "zznty/FactionUnlimiter",
+      "name": "Faction Unlimiter",
+      "author": "zznty",
+      "tooltip": "Removes 3 charaters faction tag length restriction",
+      "description": "Removes 3 charaters faction tag length restriction.\nNow you able to use tags like NASA or DC and even longer as i believe that this is stupid rule because gui can display up to 6 chars.\nWorks in both single and multi players."
+    },
+    {
+      "id": "Pas2704/AdminAbilitiesTracker",
+      "name": "AdminAbilitiesTracker",
+      "author": "Pas2704",
+      "tooltip": "Lets you keep track of admin abilities being used on the server.",
+      "description": "Lets you keep track of admin abilities being used on the server.\nMore specifically, it can keep track of players using:\nInvulnerable,\nShowPlayers,\nUseTerminals,\nUntargetable, \nKeepOriginalOwnershipOnPaste,\nIgnoreSafezones,\nIgnorePCU\nIt also shows what abilities are currently in use in your shift + f11 menu.\nChanges are tracked with local chat messages, but will only work in multiplayer games where you are not the host.\nThese chat messages can be disabled in the config if you choose."
+    },
+    {
+      "id": "StarCpt/DisableExportModel",
+      "name": "Disable Export Model",
+      "author": "StarCpt",
+      "tooltip": "Disable Export Model",
+      "description": "Disables Export Model hotkey"
+    },
+    {
+      "id": "WesternGamer/No-News-Plugin",
+      "name": "No News Plugin",
+      "author": "WesternGamer",
+      "tooltip": "This plugin removes the News section and the DLC Section from the main menu."
+    },
+    {
+      "id": "THDigi/ParticleEditor",
+      "name": "Particle Editor 1.05",
+      "author": "Digi",
+      "tooltip": "A plugin to allow modders to develop particles much easier.",
+      "description": "A plugin to allow modders to develop particles much easier.\n\nLoad any offline world and press Shift+F to open the editor then follow the tooltips all over.\n  ",
+      "hidden": "false"
+    },
+    {
+      "id": "Pas2704/AutoFactionChat",
+      "name": "AutoFactionChat",
+      "author": "Pas2704",
+      "tooltip": "Start in faction channel instead of global",
+      "description": "This plugin forces your chat to start in the faction channel instead of the global channel.\nThis will happen even if you are not in a faction. \nTo switch back to the global channel, use \"/g\"."
+    },
+    {
+      "id": "Math0424/ScrollableFOV",
+      "name": "Scrollable FOV",
+      "author": "Math0424",
+      "tooltip": "Scroll FOV with your mousewheel (while holding caps)."
+    },
+    {
+      "id": "WesternGamer/AddMissingSearchBoxes",
+      "name": "Add Missing Search Boxes",
+      "author": "WesternGamer",
+      "tooltip": "Adds searchboxes to parts of the SE ui that should have one.",
+      "description": "Adds searchboxes to parts of the SE ui that should have one."
+    },
+    {
+      "id": "austinvaness/UnlimitedScriptLength",
+      "name": "Unlimited Script Length",
+      "author": "avaness",
+      "tooltip": "Removes the programmable block script length limit.",
+      "description": "This plugin removes the programmable block script length limit. This does not work in multiplayer."
+    },
+    {
+      "id": "Allen-Wrench/AutoRemoveStone",
+      "name": "Automatic Stone Removal",
+      "author": "dude",
+      "tooltip": "Automatically removes stone and/or ice from your ship.",
+      "description": "When enabled, stone will automatically be deleted from your ships cargo. Enable by either using the button at the bottom of a ship drills terminal page, or by adding the toggle action to your toolbar. Function will stay on until you toggle it back off, or release control of your ship. *NEW* Added ice as another material to remove.\n  "
+    },
+    {
+      "id": "austinvaness/ScrollRotationPlugin",
+      "name": "Scroll Rotation",
+      "author": "avaness",
+      "tooltip": "Enables scrolling between different block rotations.",
+      "description": "Allows the use of Shift, Alt, or Shift+Alt combined with scroll wheel to rotate blocks.\n\nIf desired, the controls can be changed so that Shift scroll rotates the block and Alt scroll changes the rotation axis."
+    },
+    {
+      "id": "WesternGamer/InGameExit",
+      "name": "In Game Exit",
+      "author": "WesternGamer",
+      "tooltip": "Allows you to exit the game directly from the pause menu."
+    },
+    {
+      "id": "zznty/SpawnScreenFix",
+      "name": "Spawn Screen Fix",
+      "author": "zznty",
+      "tooltip": "Moves Spawn In Suit to the top of respawn points",
+      "description": "Moves Spawn In Suit to the top of respawn points"
+    },
+    {
+      "id": "viktor-ferenczi/toolbar-manager",
+      "name": "Toolbar Manager",
+      "author": "Viktor",
+      "tooltip": "Allows saving and loading of character and block toolbars.",
+      "description": "Allows saving and loading of character and block toolbars. \nSpeed up your build by using a familiar toolbar layout, copy cockpits into remote control blocks and more. Allows copying toolbars between ships and games, identifies blocks by name (like named groups). Stores your toolbars locally, works with online multiplayer. \n\nFor support join the SE Mods Discord:\nhttps://discord.gg/PYPFPGf3Ca\n\nPlease consider supporting my work on Patreon:\nhttps://www.patreon.com/semods\n\nThank you!\n  "
+    },
+    {
+      "id": "WesternGamer/InstantExit",
+      "name": "Instant Exit",
+      "author": "WesternGamer",
+      "tooltip": "A plugin to help you debug/develop Space Engineers plugins without the hassle of teminating the Space Engineers process every time you build the plugin.",
+      "hidden": "true"
+    },
+    {
+      "id": "KlimeSE/BuildFreedom",
+      "name": "Build Freedom",
+      "author": "Klime",
+      "tooltip": "Build tools for SE. Currently: Paste freedom"
+    },
+    {
+      "id": "StarCpt/Respawn-Menu-Improvements",
+      "name": "Respawn Screen Improvements",
+      "author": "StarCpt",
+      "tooltip": "Adds useful features to the respawn screen",
+      "description": "NEW - Chat is now usable from the respawn screen!\nFeatures:\n- Adds a search box for spawn names\n- Adds the ability to sort list by spawn name or owner in ascending or descending order\n- Replaces the \"Ready\" text with owner name (Ready status is still viewable in the tooltip)\n- Shows full spawn name in the tooltip\n- Dropdown menu to filter by owner"
+    },
+    {
+      "id": "viktor-ferenczi/performance-improvements",
+      "name": "Performance Improvements",
+      "author": "Viktor",
+      "tooltip": "Various performance improvements to let the game run smoother.",
+      "description": "Please see the GitHub page for the features, technical details and the Keen bug tickets to vote on. This plugin is available for Torch and Dedicated Server as well.\n\nFor support join the SE Mods Discord:\nhttps://discord.gg/PYPFPGf3Ca\n\nPlease consider supporting my work on Patreon:\nhttps://www.patreon.com/semods\n\nThank you!\n  "
+    },
+    {
+      "id": "WesternGamer/CustomLoadingBackgrounds",
+      "name": "Custom Menu Backgrounds",
+      "author": "WesternGamer",
+      "tooltip": "A plugin that allows you to customize the background on the loading screen and main menu."
+    },
+    {
+      "id": "WesternGamer/FileCleaner",
+      "name": "File Cleaner",
+      "author": "WesternGamer",
+      "tooltip": "This plugin deletes temporary files and log files when you launch the game."
+    },
+    {
+      "id": "StarCpt/UnlimitedWithdrawalAmount",
+      "name": "Unlimited Deposit And Withdrawal Amounts",
+      "author": "StarCpt",
+      "tooltip": "CAPPED to Int.MaxValue!! Otherwise it causes an overflow!\nUnlimited deposit and withdrawal amounts for ATMs and Store Blocks",
+      "description": "CAPPED to Int.MaxValue!! Otherwise it causes an overflow!\nUnlimited deposit and withdrawal amount for ATMs and Store Blocks"
+    },
+    {
+      "id": "austinvaness/PasswordCachePlugin",
+      "name": "Password Cache",
+      "author": "avaness",
+      "tooltip": "Stores server passwords until the game is closed."
+    },
+    {
+      "id": "Garbius/WootingPlugin",
+      "name": "Wooting Plugin",
+      "author": "Garbius",
+      "tooltip": "Native support for the Wooting analog keyboards.",
+      "description": "Adds support for analog control of the character, space ships, and rovers in singleplayer and multiplayer games. It also affects programmable blocks, where the values can be accessed through IMyShipController.MoveIndicator as normal but the values are much more analog. The controls can be set as usual in the game options.\n\nThere is an issue in the Wooting SDK that affects the arrow keys. When testing with a Wooting Two (the one with Flaretech switches), binding any movement action to the arrow keys would look right in the settings menu but it would be bound to the numpad in game. It will hopefully be fixed in a future version of the Wooting SDK.\n\nThere is also an issue with wheels and analog controls. The brakes and throttle are treated as digital (on/off), affecting the Wooting and other controllers alike. I have made another plugin, Analog Wheel Control (SEAnalogWheels), that addresses this issue until Keen fixes it."
+    },
+    {
+      "id": "WesternGamer/NoFeedbackOnExit",
+      "name": "No Feedback On Game Exit",
+      "author": "WesternGamer",
+      "tooltip": "Removes the feedback page that shows up on beta builds of Space Engineers."
+    },
+    {
+      "id": "opekope2/CosmicWineFixes",
+      "name": "Cosmic Wine Fixes",
+      "author": "opekope2",
+      "tooltip": "Fixes the clipboard bug (enabled by default)\nLets you automatically open log when the game crashes (in case the log button shows an error) (disabled by default)\nLets you replace 'Exit to Windows' with 'Exit to Linux' (disabled by default)"
+    },
+    {
+      "id": "Corben-SpacedOut/SEHeadTracking",
+      "name": "Head Tracking",
+      "author": "Corben",
+      "tooltip": "Enable head tracking using the freetrack protocol."
+    },
+    {
+      "id": "viktor-ferenczi/multigrid-projector",
+      "name": "Multigrid Projector",
+      "author": "Viktor",
+      "tooltip": "Allows loading blueprints of multiple sub-grids into projectors and welding them.",
+      "description": "This plugin allows to load blueprints of multiple sub-grids into projectors and welding the blocks. Head/base blocks are added automatically as needed to connect subgrids.\n\nFor support join the SE Mods Discord:\nhttps://discord.gg/PYPFPGf3Ca\n\nPlease consider supporting my work on Patreon:\nhttps://www.patreon.com/semods\n\nThank you!\n  "
+    },
+    {
+      "id": "ritaelyn/FPSUnlocker",
+      "name": "Fps Unlocker",
+      "author": "Ritaelyn",
+      "tooltip": "Sets Space Engineer's Framerate Cap to 500 fps",
+      "description": "\n\t  This plugin sets Space Engineer's Framerate Cap to 500 fps. Edit the config if you desire to have a different cap.\n  "
+    },
+    {
+      "id": "WesternGamer/RemoveIntroVideoPlugin",
+      "name": "Remove Intro Video Plugin",
+      "author": "WesternGamer",
+      "tooltip": "This plugin disables the intro video that is played when you open Space Engineers."
+    },
+    {
+      "id": "austinvaness/SkyboxPlugin",
+      "name": "Skybox Mod Loader",
+      "author": "avaness",
+      "tooltip": "Allows any skybox mod to be loaded.",
+      "description": "Allows any skybox mod to be loaded. \nPlugin config can also be opened using /skybox in chat."
+    },
+    {
+      "id": "austinvaness/CameraLCD",
+      "name": "Camera LCD",
+      "author": "avaness",
+      "tooltip": "An experimental plugin that allows a camera to be displayed on an LCD screen.",
+      "description": "An *experimental* plugin that allows a camera to be displayed on an LCD screen.\nKnown Issues:\n- Doesnt work on screens rotated 90 or 270 degrees\n- All screens except for the transparent lcd render the camera without any brightness\n- Lighting issues\n- LCD script mode may need to be switched to something else and back in order for the camera selection to work",
+      "hidden": "true"
+    },
+    {
+      "id": "StarCpt/SE-GpsFolders",
+      "name": "GPS Folders and More",
+      "author": "StarCpt",
+      "tooltip": "Folders in the GPS tab",
+      "description": "Adds folders for the gps tab.\nTo add gpses to a folder, add <Folder> at the very beginning of the description (no spaces!!), followed by the desired folder name, and lastly append </Folder> at the end of the folder name.\nExample: <Folder>My Folder</Folder>\nFolder names must be between 1 and 32 characters long.\nOther Features:\n- Column for gps distances from player (toggleable)\n- Copying and pasting whole folders if both people are using the plugin.\n- Show/Hide folders on hud\n- Double click on a folder to only browse its gpses\n- Button to copy all gpses to clipboard\n  \nVisit the github page for more information."
+    },
+    {
+      "id": "WesternGamer/RDR2DeathScreen",
+      "name": "RDR2 Death Screen",
+      "author": "WesternGamer",
+      "tooltip": "Shows the Red Dead Redemption 2 death screen when player dies."
+    },
+    {
+      "id": "austinvaness/NoArmorEdges",
+      "name": "No Armor Edges",
+      "author": "avaness",
+      "tooltip": "Removes all armor edges."
+    },
+    {
+      "id": "BDCarrillo/EyeAdaptation",
+      "name": "FixedEyeAdaptation",
+      "author": "BDCarrillo and Muzzled",
+      "tooltip": "Corrects eye adaption to actually allow you to see, dimly, in dark interior spaces.",
+      "description": "Corrects eye adaption to actually allow you to see, dimly, in dark interior spaces.  Values provided by Muzzled.\n  "
+    },
+    {
+      "id": "Garbius/HydrogenEngineSound",
+      "name": "Dynamic Hydrogen Engine Sound",
+      "author": "Garbius",
+      "tooltip": "Make engine go vroom!",
+      "description": "Makes the engine sound pitch and volume change depending on load, making the engine \"rev\". This effect goes really well with hydrogen powered ground vehicles but can also serve as an indicator to quickly gauge the load on the power systems of ships and bases."
+    },
+    {
+      "id": "rosudrag/se-paintjob",
+      "name": "Paint Jobs",
+      "author": "rosudrag",
+      "tooltip": "Apply custom paint jobs to grids.",
+      "description": "Apply custom paint jobs to grids."
+    },
+    {
+      "id": "TheCrunchy/AllianceClientPlugin",
+      "name": "Alliance Client Plugin",
+      "author": "Crunch",
+      "tooltip": "Plugin for alliance chat recolor.",
+      "hidden": "false"
+    },
+    {
+      "id": "WesternGamer/FPSCounter",
+      "name": "FPS Counter",
+      "author": "WesternGamer",
+      "tooltip": "FPS Counter for Space Engineers."
+    },
+    {
+      "id": "Allen-Wrench/ChatFilter",
+      "name": "Chat Filter",
+      "author": "dude",
+      "tooltip": "Mute individual players chat messages, or all of them!",
+      "description": "Block chat messsages from specific players or hide chat messages by type (global/faction/whisper). \n  /mute [player name] - blocks chat messages from a player.\n  /unmute [player name] - unblocks players messages.\n  /cfconfig - open configuration window to set visibility for a specific chat channel."
+    },
+    {
+      "id": "StarCpt/SE-HideIpAddress",
+      "name": "Hide Ip Address",
+      "author": "StarCpt",
+      "description": "Hides the IP Address in the \"Continue Game\" button tooltip"
+    },
+    {
+      "id": "Casimir255/NexusSeamlessClientPlugin",
+      "name": "NexusSeamlessClient",
+      "author": "Casimir",
+      "tooltip": "Allows transferring between Nexus enabled servers seamlessly",
+      "description": "This plugin allows seamless transfers between Nexus enabled servers. Some mods or plugins may not play nice with switching between servers. Be cautious when using!"
+    },
+    {
+      "id": "opekope2/SeClipboardFix",
+      "name": "Clipboard Fix",
+      "author": "opekope2",
+      "tooltip": "Fixes the clipboard bug"
+    },
+    {
+      "id": "austinvaness/DisableAnalytics",
+      "name": "Disable Analytics",
+      "author": "avaness",
+      "tooltip": "Disables tracking and analytics by EOS."
+    },
+    {
+      "id": "StarCpt/CopyScreenTextPlugin",
+      "name": "Screen Text Editor Plugin",
+      "author": "StarCpt",
+      "description": "Adds a button in text boxes (the one often used to display results from chat commands, aka the MOTD box) to enable editing."
+    },
+    {
+      "id": "Garbius/SEAnalogWheels",
+      "name": "Analog Wheel Control",
+      "author": "Garbius",
+      "tooltip": "Adds controller support to wheels, allowing fine maneuvering using a controller.",
+      "description": "This plugin allows analog control of the brakes and throttle for wheeled vehicles using a controller (e.g. Xbox controller). It works in singleplayer mode but it must be installed on the server for it to work in multiplayer. In the latter case, it's not necessary to have it on the client. In other words: If you want to use this in MP, you'll have to pester your local server admins (please don't) to make them install it."
+    },
+    {
+      "id": "WesternGamer/HideVersionString",
+      "name": "Hide Version String",
+      "author": "WesternGamer",
+      "tooltip": "Makes the Main Menu cleaner by hiding the the version string."
+    },
+    {
+      "id": "Math0424/DisableSpectatorMouseSensitivity",
+      "name": "Disable Spectator Mouse Sensitivity",
+      "author": "Math0424",
+      "tooltip": "Disable the ctrl+scrollwheel keybind in spectator mode.",
+      "description": "Disable the ctrl+scrollwheel keybind in spectator mode"
+    },
+    {
+      "id": "austinvaness/LcdImagePlugin",
+      "name": "Image to LCD",
+      "author": "avaness",
+      "tooltip": "Adds a button to the LCD that converts an image to characters."
+    },
+    {
+      "id": "bcmpinc/SE-PreventBlockResize",
+      "name": "Prevent Block Resize",
+      "author": "bcmpinc",
+      "tooltip": "Prevents changing your building block size when looking at a differently sized grid.",
+      "description": "Have you ever used build planner while building a small grid ship? How often did a block change size, just before you clicked to request the necessary components from storage? This plugin disables that 'feature'. Clogging up your build planer and inventory with stuff you don't want will be a thing of the past."
+    },
+    {
+      "id": "austinvaness/ToolSwitcherPlugin",
+      "name": "Tool Switcher",
+      "author": "avaness",
+      "tooltip": "Allows scrolling between welder, grinder, and drill.",
+      "description": "This plugin is a simplified version of the Tool Switcher mod. It allows you to scroll between the welder, grinder, and drill. There is no configuration yet, so these tools will always be grouped together while the plugin is enabled. The benefits of this plugin over the mod are that you can use any toolbar page, and it will work on any multiplayer server."
+    },
+    {
+      "id": "wolfe-labs/SE-AnalogThrottlePlugin",
+      "name": "WL Analog Script Input and Throttle",
+      "author": "Wolfe",
+      "tooltip": "Allows in-game scripts to access data from connected controllers such as gamepads, joysticks and HOTAS devices."
+    },
+    {
+      "id": "austinvaness/ModDebugBuild",
+      "name": "Mod Debugging",
+      "author": "avaness",
+      "tooltip": "Loads all script mods in a debuggable mode.",
+      "description": "This plugin allows mod developers to attach Visual Studio and other IDEs to the game and use breakpoints. As a side effect, this will disable Keen's additions like mod profiling. This plugin will only work on local mods."
+    },
+    {
+      "id": "austinvaness/BlueprintAPI",
+      "name": "Blueprint API",
+      "author": "avaness",
+      "tooltip": "Companion plugin for the mod of the same name.",
+      "description": "This plugin, when used with the associated mod, improves the accuracy of the result blueprint.\n\nWorkshop Mod:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3016793407"
+    },
+    {
+      "id": "WesternGamer/OpenLinksInDefaultBrowser",
+      "name": "Open Links In Default Browser",
+      "author": "WesternGamer",
+      "tooltip": "Forces the game to open links in the default browser instead of the Steam overlay.",
+      "description": "Forces the game to open links in the default browser instead of the Steam overlay."
+    },
+    {
+      "id": "Allen-Wrench/JumpSelector",
+      "name": "Jump Selector",
+      "author": "dude",
+      "tooltip": "The better way to use your jump drives.",
+      "description": "Adds a new toolbar action for your jump drives: Jump Select.\n  This amazing little window lets you input a specific distance you want to blind jump, or select one of your GPS locations to jump to *from a sorted list*.\n  Displays the current maximum distance your ship can jump just below the input box for the blind jump.\n  It also displays the status of all of your jump drives along the top of the window, and tells you what percentage they are charged if not full. You can click on those buttons to turn the jump drive on or off.\n  Right clicking on any button will turn all of your jump drives on (as long as they are not broken).\n  *NEW* Removes the field of view changes from the jump effect animation.\n  ",
+      "hidden": "false"
+    },
+    {
+      "id": "austinvaness/BlockPicker",
+      "name": "Block Picker",
+      "author": "avaness",
+      "tooltip": "Allows you to pick the target block using Ctrl+G."
+    },
+    {
+      "id": "Math0424/MorePPSettings",
+      "name": "More PP Settings",
+      "author": "Math0424",
+      "tooltip": "Change post processings settings.",
+      "description": "Adds the ability to change lots of post processing settings."
+    },
+    {
+      "id": "thorwin99/SEWorldGenPlugin",
+      "name": "SEWorldGenPlugin V2",
+      "author": "thorwin99"
+    },
+    {
+      "id": "KlimeSE/LargePlanets",
+      "name": "Large Planets",
+      "author": "Klime",
+      "tooltip": "Allows the creation of large planets up to 2500km diameter"
+    }
+  ],
+  "mods": [
+    {
+      "id": "2819870318",
+      "name": "Hide LCD Controls (Mod)",
+      "author": "bcmpinc",
+      "tooltip": "Adds button to show/hide LCD controls in terminal",
+      "description": "Do you like using programmable blocks, do you like them displaying information on their monitor, but don't like the clutter it gives in the control panel? This mod hides the LCD configuration controls and adds yet another control that allows you to make them visible again. The control to show/hide LCD controls is added to every block that has configurable LCDs. "
+    },
+    {
+      "id": "2765229451",
+      "name": "GPS Helper",
+      "author": "Kaito",
+      "tooltip": "GPS Helper is a set of chat commands that make management of your GPS points easier.",
+      "description": "\nBased on GPSHelper by CrazyDave137, seemingly abandoned and non-functional. I picked it up, cleaned it a bit, and fixed issues with string filtering. Commands are the same, I just fixed some internals and minor performance issuese that nobody would have noticed anyway.\n\nCode available on GitHub[github.com].\n\nUsage\n\n[string] denotes an optional parameter. You may provide it, or leave it blank.\n\nWhen adding a GPS, it will be used as the base name. Omitting will use the Player name instead.\n\nWhen filtering, providing an argument will try to do a substring match ('contains') on the GPS name, description, and hexadecimal string representation of the colour.\n\n/gpsx [string] creates a GPS point at current location, noting the local planet in the description. An auto-incrementing hexadecimal auto-ID string is appended to uniquely identify each GPS.\n/gpsx_reset resets the auto-incrementing auto-ID. Does not modify existing GPS.\n/gps_export [string] export all matching GPS to clipboard. No argument exports all GPS.\n/gps_toggle [string] toggle visibility of all matching GPS. No argument toggles all GPS.\n/gps_off [string] turn visibility of matching GPS off. No argument toggles all GPS.\n/gps_on [string] turn visibility of matching GPS on. No argument toggles all GPS.\n/gps_remove [string] remove all matching GPS. No argument removes all GPS. WARNING: Can not be undone!\n\nProps\n\nCrazyDave137 for authoring the original mod\nDigi for putting up with my endless flood of questions and being an all round nice chap\n  "
+    },
+    {
+      "id": "1136188499",
+      "name": "Space Just Got Real",
+      "author": "Dr. Novikov",
+      "tooltip": "A more realistic skybox"
+    },
+    {
+      "id": "2907163289",
+      "name": "Silent Suit",
+      "author": "Walto",
+      "tooltip": "Silence, finally !",
+      "description": "Removes all suit voice warning\n\nThis mod keeps the suit voice silent.\n\n\n\n\nYou can find my source code here : https://github.com/WalTho/SilentSuit/tree/main/SilentSuit\n  "
+    },
+    {
+      "id": "2198451962",
+      "name": "Colorful Rendering (Mod)",
+      "author": "Ryukki",
+      "tooltip": "This plugin will make the game rendering more colorful like other games.",
+      "description": "Ever felt like SE visuals were a little bland? Or that putting pee shine on Earthlike isn't a visual upgrade for the game? With this mod which uses Medieval Engineers superior visuals as base now has more vibrant colors along with shadows.",
+      "hidden": "false"
+    },
+    {
+      "id": "1662953858",
+      "name": "Sneaky Sounds - Quieter Tools",
+      "author": "Splitsie",
+      "tooltip": "This is for those people who like hearing battle sounds loud while not being deafened by their grinder, welder and most of all drill.",
+      "description": "This mod reduces the volume of hand tools, ship tools, weather, doors, placement sounds and a few others that often feel deafening, while leaving the explosions booming, gatlings cracking and letting you hear a little bit more of the atmospheric sounds (though not the deafening rain).\nFor everyone who loves a good action movie, but doesn't feel that mining is action, this one's for you!\n  "
+    },
+    {
+      "id": "2788241343",
+      "name": "Snarky Sounds",
+      "author": "w4stedspace ",
+      "tooltip": "This mod is for people who are tired of the default suit voice, and perhaps life also...",
+      "description": "This mod is for people who are tired of the default suit voice, and perhaps life also...\n\nPlease be aware, this suit AI does NOT care for your well being - quite the opposite. While still providing all HUD voice notifications (and with FAR more variants) this mod is more about reminding you that you should already be paying attention ;)\n\nI'd intended this for April Fools, but hey... I'm sure in some multiverse someplace it's still on time.\n\nThe video is a demo of a few lines only, there are MANY more.\n\nReplaces the following Suit and Game Audio notifications:\n\n- All Suit and Ship Power Notifications\n- Hydrogen Notifications\n- Health Notifications\n- Handbrake and Antenna Notifications\n- Inventory Notifications\n- More planned...\n\nThere are MANY variations (91 currently) ;)\n\nThis mod was made live on Twitch with the help of the wonderful SE community, you can join us here: https://www.twitch.tv/w4stedspace"
+    },
+    {
+      "id": "2903639290",
+      "name": "More Thruster Actions",
+      "author": "StarCpt",
+      "description": "Adds 2 toolbar actions to thrusters:\n\nMax Thrust override - sets override to 100%\nReset Thrust override - sets override to 0%"
+    },
+    {
+      "id": "1169829560",
+      "name": "Less Drill Dust and Stone Particles",
+      "author": "Nikolas March",
+      "tooltip": "Reduces the number of particles that are used for drills in game."
+    },
+    {
+      "id": "540223802",
+      "name": "Caldari Skybox",
+      "author": "Stone Cold Jane Austen"
+    },
+    {
+      "id": "2137637584",
+      "name": "(ARMCO) Starwars Rendering (Mod)",
+      "author": "Kreeg",
+      "tooltip": "Provides Renderer Modifications, to enhance Visuals for the game.",
+      "description": "This mod is designed to allow the Project to enhance visuals and create that Starwars Space Environment, while also improving interaction visuals.",
+      "hidden": "false"
+    },
+    {
+      "id": "2766681393",
+      "name": "Star Wars Rebel Lock On Sound (Mod)",
+      "author": "Jay und Drang",
+      "tooltip": "This mod will make the lock on sound a Rebel lock on sound effect.",
+      "description": "Basic mod to change the vanilla lock on sound effects to that of an X-Wing Fighter as seen in Episode IV. Start up sound, followed by looped search effect, then faster search noise and tone when lock is established.",
+      "hidden": "false"
+    },
+    {
+      "id": "1805199276",
+      "name": "Easy Control Button Access",
+      "author": "Meridius_IX / Lucas",
+      "description": "Ever find yourself in a combat situation and scrambling in the terminal to take control of either a Remote Control or Turret? The goal of this mod is to make that scramble a little less stressful. This mod takes the Control button for the Remote Control and Turret blocks and moves it to the top of the terminal. No more scrolling!\n\nThis mod may have been inspired by my own frustrations with the vanilla button placement"
+    },
+    {
+      "id": "2871017418",
+      "name": "Improved Rendering",
+      "author": "???",
+      "description": "A mod used to improve rendering. This item includes, improved post-processing, cool sun flares, less-saturated overall image, dark and blue skybox and a bright blue star."
+    },
+    {
+      "id": "1171575610",
+      "name": "Particle Performance Optimization Pack",
+      "author": "Nikolas March",
+      "tooltip": "Reduces the number of particles in game."
+    },
+    {
+      "id": "2979392197",
+      "name": "Hide Platform Icons",
+      "author": "avaness",
+      "tooltip": "Hides the PC, Xbox, and Playstation icons",
+      "description": "This mod will hide the platform icons by making them invisible and zero width",
+      "hidden": "false"
+    },
+    {
+      "id": "2950011596",
+      "name": "Flight Vector",
+      "author": "BDCarrillo",
+      "description": "\nWhen seated in a cockpit, this mod draws aids to depict the prograde, retrograde, and gravity vector for your current grid. Note these lines are a fixed length, and only indicate direction.\n\nB(lue)ow, R(ed)everse, G(reen)ravity\n\nRuns client-side only.\n\nYou can cycle the line overlays by typing \"/vector lines\" or \"/vector symbols\" in chat.  Defaults and color configurations are available, please see the mod page for details https://steamcommunity.com/sharedfiles/filedetails/?id=2950011596\n\nCredits\n-DirectedEnergy for the idea\n-Jerrai for the clever mnemonic\n"
+    },
+    {
+      "id": "1878844801",
+      "name": "AutoRun",
+      "author": "Klime",
+      "tooltip": "Automatic running.",
+      "description": "Press Q to start running. Press any movement key (W A S D) or Q to stop.\n\nRunning speed can be varied with the scroll wheel.\nThe 3 speeds are: 10m/s (sprint), 6m/s (run), 2m/s (walk)\n\n/autorun rebind\nAllows the autorun key to be changed. Supports single keys only (e.g R, X, etc)\n  "
+    },
+    {
+      "id": "2923698329",
+      "name": "Camera - Over The Shoulder",
+      "author": "Adriano",
+      "tooltip": "Adds another camera option to Space Engineers.",
+      "description": "Over-the-shoulder is a camera view point that is featured in most modern third-person shooters and action games."
+    },
+    {
+      "id": "2538074869",
+      "name": "Deep Space 4K - Weather fix",
+      "author": "Habibu",
+      "tooltip": "High Resolution Realistic Skybox!"
+    },
+    {
+      "id": "2360788836",
+      "name": "Welder Eyestrain Reduction",
+      "author": "Vox Serico",
+      "tooltip": "This mod reduces the intense flickering of the light produced by the welding tool.",
+      "description": "This mod reduces the intense flickering of the light produced by the welding tool.\nThe brightness and other effects remain the same, but the strobe-like flashing has been toned down significantly.\n\nYou don't need to be extra photosensitive to feel discomfort from welding for any period of time. Even Xocliw has expressed this to be annoyance over six years ago - and it's still a problem!\n"
+    },
+    {
+      "id": "1475392343",
+      "name": "Build Colors",
+      "author": "Sisk",
+      "tooltip": "This mod allows you to create customized color sets for building, which can then be easily imported into another world."
+    },
+    {
+      "id": "806331071",
+      "name": "Camera Panning",
+      "author": "Digi",
+      "tooltip": "Enables players to change the direction of the camera while viewing it.",
+      "description": "This mod enables players to change the direction of the camera while viewing it. Works for any camera block, modded or vanilla."
+    },
+    {
+      "id": "911144486",
+      "name": "HudLcd",
+      "author": "Jawastew",
+      "tooltip": "Display your LCD text on your HUD!"
+    },
+    {
+      "id": "2426611028",
+      "name": "Accelerometer",
+      "author": "Natomic",
+      "tooltip": "Adds an accelerometer to the HUD"
+    },
+    {
+      "id": "704012607",
+      "name": "Whip's Camera Overlay",
+      "author": "Whiplash141",
+      "tooltip": "A modification for the default camera overlay.",
+      "description": "This is my camera overlay. It has been redesigned from the ground up to be unobtrusive yet helpful for long range weapon targeting. It is cleaner than the crappy default overlay.\nTransparency of the cross lines looks different in-game due to the nature of .dds image compression. They may appear very prominent at times but they will not obstruct the view of objects behind them too badly."
+    },
+    {
+      "id": "670718659",
+      "name": "Milky Way Skybox (insane resolution)",
+      "author": "Darth Biomech",
+      "tooltip": "Milky Way skybox, based on true photos of space."
+    },
+    {
+      "id": "2581520240",
+      "name": "Better Spotlights",
+      "author": "Thorn Blackwell",
+      "tooltip": "This mod makes a number of improvements on spotlights, based on what exists in reality.",
+      "description": "The hazy cone effect is removed, and the light produced is cast farther than vanilla spotlights. In reality, the cone of light haze is an effect only seen in dense atmospheres, and its appearance is also a sign of why the light is limited in range. Most of the environments a space engineer will find themselves in won't do either. In space, or on the Moon, Mars, or Europa, there is little or no atmosphere to scatter or limit light. So, on half of the planets/moons, and all of space in this game there is no reason to simulate that which would not exist.\nThe lines in the light cast have been removed, because experiments with light show that they would not be visible beyond a few feet in front of the spotlight. In order for a shadow to be cast by objects in front of the light, much more of the light must be obscured. The glass guard that is supposed to create the lines doesn't block the central point of the light source in any significant way, and is therefore invisible at a distance from the spotlight itself.\n  "
+    },
+    {
+      "id": "2392775805",
+      "name": "Build Info (bleeding edge)",
+      "author": "Digi",
+      "tooltip": "A more frequently updated version of BuildInfo mod. Please use this one if you want to help find and report issues. *Requires Text HUD API!*"
+    },
+    {
+      "id": "2900046920",
+      "name": "Projector Profiles",
+      "author": "StarCpt",
+      "description": "This mod adds a couple buttons and stuff to easily save and load projector profiles"
+    },
+    {
+      "id": "670717906",
+      "name": "Milky Way Skybox",
+      "author": "Darth Biomech",
+      "tooltip": "Milky Way skybox, based on true photos of space."
+    },
+    {
+      "id": "2077166496",
+      "name": "Easy Block Renaming",
+      "author": "Meridius_IX / Lucas",
+      "tooltip": "Adds controls to nearly all block types that allows you to easily rename multiple blocks at once.",
+      "description": "Adds controls to nearly all block types that allows you to easily rename multiple blocks at once.\n- Multiple Block Renaming: Simply select all the blocks you want to rename, enter the new name they should receive in the \"New Naming\" field, and then press the \"Replace Name\" button.\n- Prefix and Suffix Names: The prefix and suffix options allow you to add the text in the \"New Naming\" field to the existing block names. \"Prefix Name\" will add the text to the beginning of the block name, while \"Suffix Name\" will add the text to the end of the block name.\n- Reset Name: The \"Reset Name\" button will reset the name of selected blocks back to their default names (the name they receive when you initially build the block). Please note it does not suffix the block with numbers. This can be useful if some degenerate NPC drone decides to hack your terminal control menu and scramble all the names of your blocks. I'm sure there are other uses for it as well ;)\n  "
+    },
+    {
+      "id": "3032417765",
+      "name": "MultiplayerPredictionSwitcher",
+      "author": "Invalid",
+      "tooltip": "Disables client prediction. Allows you to toggle ForceDisablePrediction with the \"/toggleprediction\" command."
+    },
+    {
+      "id": "2766681016",
+      "name": "Star Wars Imperial Lock On Sound (Mod)",
+      "author": "Jay und Drang",
+      "tooltip": "This mod will make the lock on sound a imperial lock on sound effect.",
+      "description": "Basic mod to change the vanilla lock on sound effects to that of a TIE Fighter as seen in Episode IV. Start up sound, followed by looped search effect, then faster search noise and tone when lock is established.",
+      "hidden": "false"
+    },
+    {
+      "id": "801185519",
+      "name": "Colorful Icons",
+      "author": "typekcz",
+      "tooltip": "Adds color to the ingame icons."
+    },
+    {
+      "id": "1469072169",
+      "name": "HUD Compass",
+      "author": "Zelious",
+      "tooltip": "Adds a compass to the HUD. *Requires Text HUD API!*"
+    },
+    {
+      "id": "514062285",
+      "name": "Build Info",
+      "author": "Digi",
+      "tooltip": "Displays more information about the block you're holding or aiming at, along with lots of other features. *Requires Text HUD API!*"
+    },
+    {
+      "id": "1289485324",
+      "name": "Projections To Assembler",
+      "author": "Meridius_IX / Lucas",
+      "tooltip": "This mod adds a button to the projector block that will queue the needed components for the currently projected grid in your assembler.",
+      "description": "This mod adds a button to the projector block that will queue the needed components for the currently projected grid in your assembler.\nHow To Use:\nEnsure your Projector Block and Assembler Blocks are Enabled / Turned On\nAssembler cannot be set to 'Disassemble'. It can optionally be set to 'Cooperative Mode'.\nLoad your grid into the Projector Block.\nAt the bottom of the Projector Block options, select the assembler you want to use from the Listbox.\nAt the bottom of the Projector Block options, press the button labled 'Send To Assembler'.\nCheck your Assembler queue. The projection components should now be loaded!\nAdd Missing Parts From Inventory:\nIf you do not want to add the full queue of components to the assembler queue, you can press the 'Send Missing Parts' button to add just the parts you do not already have in inventory.\n\nKnown issue: You will not be able to use button panels, scripts, or timers to assemble parts for a projection on servers."
+    },
+    {
+      "id": "2409196107",
+      "name": "Korean Font for TextHudAPI",
+      "author": "Arstraea",
+      "tooltip": "Add korean font to TextHudAPI, specially for Build Info.",
+      "description": "= \uc124\uc815 \ubc29\ubc95 =\n  \n\uae30\ubcf8\uc801\uc73c\ub860 \ube4c\ub4dc\uc778\ud3ec\uc5d0\uc11c \uc0ac\uc6a9\ud558\ub294 \ud14d\uc2a4\ud2b8\ub4e4 \uc911 \ud55c\uae00 \ubd80\ubd84\uc774 \uc815\uc0c1\uc801\uc73c\ub85c \ub098\uc62c \uac81\ub2c8\ub2e4.\n\uadf8\ub7ec\ub098 \ud234\ubc14(\ud589\ub3d9\ub2e8\ucd95\ubc14) \ucabd\uc5d0\uc11c\ub294 ???? \ub4f1\uc73c\ub85c \ub098\uc62c \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\n\ucc44\ud305\ucc3d\uc744 \uc5f4\uace0 F2\ub97c \ub204\ub974\uba74 \ud654\uba74 \uc88c\uce21 \uc0c1\ub2e8\uc5d0 Mod Settings\ub77c\ub294 \ud14d\uc2a4\ud2b8\uac00 \ub730 \uac81\ub2c8\ub2e4.\n\uc774\uac78 \ub9c8\uc6b0\uc2a4\ub85c \ub20c\ub7ec Build Info -> Toolbar \ub85c \uac11\ub2c8\ub2e4.\n\n\uc5f4\ub9b0 \uc124\uc815\ucc3d\uc744 \ubc11\uc73c\ub85c \ub0b4\ub824 Action Status Font Override\ub97c \ucc3e\uc544 \ud074\ub9ad\ud558\uc5ec Off \ub85c \ubc14\uafb8\uba74 \uc815\uc0c1 \ud45c\uc2dc\ub429\ub2c8\ub2e4.\n  ",
+      "hidden": "true"
+    },
+    {
+      "id": "2950431210",
+      "name": "Status Report",
+      "author": "BDCarrillo",
+      "description": "Ever wanted a concise report of things happening on your ship? Well with simple chat inputs you can inundate yourself in data!\n\n/report\nShows a list of commands in the chat box\n\n/report inventory\nDisplays all components, ores, ingots, and ammo on board\n\n/report damage\nShows damaged functional (not armor) blocks\n\n/report twr\nDisplays thrust-to-weight ratio and max lift capability for hydrogen thrusters\n\n/report cargo\nDisplays cargo capacity and fill level of your ship\n\n/report power\nDisplays a count and status of functional power producing blocks\n\nRuns client-side only.\nPlease see the mod page for details/updates/feedback https://steamcommunity.com/sharedfiles/filedetails/?id=2950431210\n\n"
+    },
+    {
+      "id": "2098118471",
+      "name": "Whip's Turret Overlay",
+      "author": "Whiplash141",
+      "tooltip": "This is a turret version of my Camera Overlay mod.",
+      "description": "This will apply the overlay to ANY turret in the game without any additional work. That includes turrets added by other mods.\nThis will NOT work with some weapon core turrets because many of them are not actually turrets and do not inherit the turret API. As such, I can't use the turret API to modify their overlay."
+    },
+    {
+      "id": "1289657379",
+      "name": "Screen Gunk Be Gone!",
+      "author": "Whiplash141",
+      "tooltip": "This mod reduces screen gunk by toning down most of the post-processing effects.",
+      "description": "Since Keen does not like giving us graphical options, I decided to make a mod to remove the crap that is smeared all over the screen. I have also reduced vignette and the chromatic abomination aberration. I think that the bloom looks real neat on the tracers, so I've kept it (but had to tone it down b/c it was blinding after removing the dirt).\n\nEnjoy being able to see a bit better!"
+    },
+    {
+      "id": "2958267813",
+      "name": "GPS Extended (Mod)",
+      "author": "VengantMjolnir",
+      "tooltip": "Allows adding a GPS point at a distance from the player.",
+      "description": "This is a simple mod designed to do one thing, add a GPS marker at a specified distance. Use it with /xgps 'distance' 'name'. Distance is in Kilometres and the name can be whatever you want. An example: /xgps 2.5 An Asteroid I want to visit",
+      "hidden": "false"
+    },
+    {
+      "id": "2947081810",
+      "name": "Projector Highlighter",
+      "author": "BDCarrillo",
+      "tooltip": "Projector Highlighter adds color-coded wireframe around projected blocks showing their state for clearer visual feedback",
+      "description": "Ever had trouble finding that one projected block that didn't get placed? I introduce to you the Projector Highlighter!\n\nProjected blocks that can be built have a green wireframe around their block space, while incorrect blocks will have a red outline (without \"Show Only Buildable\" selected), both of which are visible through other blocks.\n\nYellow blocks are damaged or incomplete blocks connected to parts of the projection.\n\nFor simplicity, this runs only on clients and they bear the brunt of a slightly inefficient grid check. Only grids within 250m are checked every minute to see if they have any projectors.\n\nCycle the highlights by entering /highlight in chat\n\nExpect it to take up to a minute when placing a new projector to see any effect.\nOnce it's picked up on a projector updates occur every second."
+    },
+    {
+      "id": "3023809354",
+      "name": "Projector Cross Section",
+      "author": "StarCpt",
+      "description": "View a cutaway of projected ships with this mod! Supposedly great for hand building ships layer by layer.\n\nYou can select the axis of the cutaway plane, starting layer, and layers to show from the starting layer.\n\nThe blocks are only hidden visually, they can still be built even if the projected block is hidden"
+    },
+    {
+      "id": "2940288034",
+      "name": "Korean Font for RichHudMaster",
+      "author": "Arstraea",
+      "tooltip": "Add korean font to Rich Hud Master, specially for Build Vision.",
+      "description": "= \uc124\uc815 \ubc29\ubc95 =\n\nF2\ub97c \ub20c\ub7ec Rich Hud Master \uc758 \uc124\uc815\ucc3d\uc778 Rich HUD Terminal\uc744 \uc5fd\ub2c8\ub2e4.\n\n\uc5f4\ub9b0 \uc124\uc815\ucc3d\uc758 \uc67c\ucabd Mod List:\uc5d0\uc11c Build Vision\uc744 \uc120\ud0dd\ud569\ub2c8\ub2e4.\n\nSettings -> GUI Settings \ud56d\ubaa9 \uc548\uc5d0\uc11c Font \ubd80\ubd84\uc744 \ucc3e\uc2b5\ub2c8\ub2e4.\n\nLoad Fonts \ubc84\ud2bc\uc744 \ub204\ub974\uace0 \uc704\ucabd\uc758 \ub4dc\ub86d\ub2e4\uc6b4 [V] \ub97c \ub20c\ub7ec koKR_NanumBarunGothic\uc744 \uc120\ud0dd\ud569\ub2c8\ub2e4.\n  ",
+      "hidden": "true"
+    },
+    {
+      "id": "758597413",
+      "name": "Text HUD API",
+      "author": "Draygo",
+      "tooltip": "Required by some mods."
+    },
+    {
+      "id": "2821462932",
+      "name": "Easy Programmable Block Buttons",
+      "author": "pyro000 / Lord Pyro",
+      "description": "Moves the Edit and Recompile Buttons to the Top, recommended if you are develoving an InGameScript with MDK or whatever editor you are using.\n  \nCode copied and based on Easy Control Button Access by Meridius_IX / Lucas."
+    },
+    {
+      "id": "2784598126",
+      "name": "AIM-9 Seek and Lock Tone Sound Mod",
+      "author": "Const",
+      "description": "A quick mod to replace the vanilla locking/lock acquisition tone to that of the AIM-9's, and a bleep from F-14 RWR tones for unlocking."
+    },
+    {
+      "id": "2626059962",
+      "name": "HUD - Modern and Fancy",
+      "author": "Adriano",
+      "tooltip": "A modern and fancy new HUD designed for easy use."
+    },
+    {
+      "id": "2626756831",
+      "name": "HUD - Modern and Fancy (Color)",
+      "author": "Adriano",
+      "tooltip": "A modern and fancy new HUD designed for easy use."
+    }
+  ]
+}
