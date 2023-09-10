@@ -14,6 +14,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@master
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    - name: Generate Json
+      run: 'python Json/tojson.py Plugins/ plugins.json'
     - name: Create Archive
       uses: thedoctor0/zip-release@master
       with:
@@ -22,7 +27,7 @@ jobs:
     - name: Hash Archive
       run: 'sha1sum Plugins/plugins.zip > plugins.sha1'
     - name: Push Archive
-      uses: EndBug/add-and-commit@v7
+      uses: EndBug/add-and-commit@v9
       with:
-        message: 'Plugin list updated.'
-        add: plugins.sha1
+        message: 'Plugin list updated'
+        add: '["plugins.sha1", "plugins.json"]'
