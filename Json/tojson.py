@@ -75,7 +75,11 @@ def getData(xmlFile: str, modList: list, pluginList: list):
 
 def getLastModified(file: str):
 	try:
-		result = str(subprocess.run(['git', 'log', '-1', '--date=unix', '--pretty=format:%ct', file], capture_output=True, text=True).stdout).strip()
+		process = subprocess.run(['git', 'log', '-1', '--date=unix', '--pretty=format:%ct', file], capture_output=True, text=True)
+		processError = str(process.stderr).strip()
+		if(len(processError) > 0):
+			print("ERROR: ", processError)
+		result = str(process.stdout).strip()
 		return int(result)
 	except BaseException as error:
 		print("Error getting last modified date: ", error)
