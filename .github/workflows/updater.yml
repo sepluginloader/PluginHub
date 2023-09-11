@@ -13,21 +13,37 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@master
+    - name: Checkout Plugin Hub
+      uses: actions/checkout@v4
+      with:
+        path: PluginHub
+        fetch-depth: 0
+    - name: Checkout Website
+      uses: actions/checkout@v4
+      with:
+        repository: sepluginloader/sepluginloader.github.io
+        path: sepluginloader.github.io
     - uses: actions/setup-python@v4
       with:
         python-version: '3.11'
     - name: Generate Json
-      run: 'python Json/tojson.py Plugins/ plugins.json'
+      run: 'python PluginHub/Json/tojson.py PluginHub/Plugins/ sepluginloader.github.io/plugins.json'
     - name: Create Archive
       uses: thedoctor0/zip-release@master
       with:
         filename: 'plugins.zip'
-        directory: 'Plugins'
+        directory: 'PluginHub/Plugins'
     - name: Hash Archive
-      run: 'sha1sum Plugins/plugins.zip > plugins.sha1'
-    - name: Push Archive
+      run: 'sha1sum PluginHub/Plugins/plugins.zip > plugins.sha1'
+    - name: Push Archive to PluginHub
       uses: EndBug/add-and-commit@v9
       with:
         message: 'Plugin list updated'
-        add: '["plugins.sha1", "plugins.json"]'
+        add: 'plugins.sha1'
+        cwd: './PluginHub/'
+    - name: Push Archive to Website
+      uses: EndBug/add-and-commit@v9
+      with:
+        message: 'Plugin list updated'
+        add: 'plugins.json'
+        cwd: './sepluginloader.github.io/'
