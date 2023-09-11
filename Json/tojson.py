@@ -2,6 +2,7 @@ import os
 import json
 import sys
 import xml.etree.ElementTree as ET
+import subprocess;
 
 def main():
 	plugins = []
@@ -18,7 +19,12 @@ def main():
 		for filename in files:
 			fullpath = os.path.join(root, filename)
 			if(os.path.isfile(fullpath) and filename.lower().endswith(".xml")):
-				getData(fullpath, mods, plugins)
+				try:
+					getData(fullpath, mods, plugins)
+				except BaseException as error:
+					print("Error occurred while reading file ", fullpath, ": ", error)
+					sys.exit(1)
+	
 
 	with open(outputFile, "w") as outfile:
 		json.dump({ "plugins": plugins, "mods": mods }, outfile, indent=2)
@@ -58,10 +64,22 @@ def getData(xmlFile: str, modList: list, pluginList: list):
 	if(element != None and element.text != None):
 		plugin["hidden"] = element.text
 
+	lastModified = getLastModified(xmlFile)
+	if(lastModified > 0):
+		plugin["modified"] = lastModified
+
 	if(root.attrib.get("{http://www.w3.org/2001/XMLSchema-instance}type") == "ModPlugin"):
 		modList.append(plugin)
 	else:
 		pluginList.append(plugin)
+
+def getLastModified(file: str):
+	try:
+		result = str(subprocess.run(['git', 'log', '-1', '--date=unix', '--pretty=format:%ct', file], capture_output=True, text=True).stdout).strip()
+		return int(result)
+	except BaseException as error:
+		print("Error getting last modified date: ", error)
+		return 0
 
 if __name__ == "__main__":
     main()
