@@ -74,8 +74,10 @@ def getData(xmlFile: str, modList: list, pluginList: list):
 		pluginList.append(plugin)
 
 def getLastModified(file: str):
+	fullPath = os.path.abspath(file)
+	gitPath = os.path.dirname(fullPath)
 	try:
-		process = subprocess.run(['git', 'log', '-1', '--date=unix', '--pretty=format:%ct', file], capture_output=True, text=True)
+		process = subprocess.run(['git', 'log', '-1', '--date=unix', '--pretty=format:%ct', fullPath], cwd=gitPath, capture_output=True, text=True)
 		processError = str(process.stderr).strip()
 		if(len(processError) > 0):
 			print("ERROR: ", processError)
