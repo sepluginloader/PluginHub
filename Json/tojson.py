@@ -66,7 +66,7 @@ def getData(xmlFile: str, modList: list, pluginList: list):
 	if(element != None and element.text != None):
 		plugin["hidden"] = element.text
 
-	lastModified = getLastModified(xmlFile)
+	lastModified = getLastModified(xmlFile, root.find("Commit"))
 	if(lastModified > 0):
 		plugin["modified"] = lastModified
 
@@ -75,15 +75,21 @@ def getData(xmlFile: str, modList: list, pluginList: list):
 	else:
 		pluginList.append(plugin)
 
-def getLastModified(file: str):
+def getLastModified(file: str, commitElement):
 	fullPath = os.path.abspath(file)
 	gitPath = os.path.dirname(fullPath)
 	try:
-		process = subprocess.run(['git', 'log', '-1', '--date=unix', '--pretty=format:%ct', fullPath], cwd=gitPath, capture_output=True, text=True)
+		args = None
+		if(commitElement != None and commitElement.text != None):
+			args = ['git', 'log', '--date=unix', '--pretty=format:%ct', '--reverse', '-S', commitElement.text, '--', fullPath]
+		else:
+			args = ['git', 'log', '-1', '--date=unix', '--pretty=format:%ct', '--follow', '--diff-filter=A', '--', fullPath]
+		process = subprocess.run(args, cwd=gitPath, capture_output=True, text=True)
+
 		processError = str(process.stderr).strip()
 		if(len(processError) > 0):
 			print("ERROR: ", processError)
-		result = str(process.stdout).strip()
+		result = str(process.stdout).partition('\n')[0].strip()
 		return int(result)
 	except BaseException as error:
 		print("Error getting last modified date: ", error)
