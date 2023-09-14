@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
-  <Id>2871017418</Id>
+  <Id>2933216135</Id>
   
-  <FriendlyName>Improved Rendering</FriendlyName>
+  <FriendlyName>Rendering Improved</FriendlyName>
 
-  <Author>???</Author>
+  <Author>SEModder4</Author>
   
   <Description>A mod used to improve rendering. This item includes, improved post-processing, cool sun flares, less-saturated overall image, dark and blue skybox and a bright blue star.</Description>
   
