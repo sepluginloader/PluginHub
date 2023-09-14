@@ -35,7 +35,7 @@ jobs:
         filename: 'plugins.zip'
         directory: 'PluginHub/Plugins'
     - name: Hash Archive
-      run: 'sha1sum PluginHub/Plugins/plugins.zip > plugins.sha1'
+      run: 'sha1sum PluginHub/Plugins/plugins.zip > PluginHub/plugins.sha1'
     - name: Push Archive to PluginHub
       uses: EndBug/add-and-commit@v9
       with:
