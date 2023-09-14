@@ -24,7 +24,9 @@ def main():
 				except BaseException as error:
 					print("Error occurred while reading file ", fullpath, ": ", error)
 					sys.exit(1)
-	
+
+	plugins.sort(key=lambda x: x["name"])
+	mods.sort(key=lambda x: x["name"])
 
 	with open(outputFile, "w") as outfile:
 		json.dump({ "plugins": plugins, "mods": mods }, outfile, indent=2)
