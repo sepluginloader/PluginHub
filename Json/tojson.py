@@ -3,6 +3,7 @@ import json
 import sys
 import xml.etree.ElementTree as ET
 import subprocess;
+import re;
 
 def main():
 	plugins = []
@@ -69,6 +70,10 @@ def getData(xmlFile: str, modList: list, pluginList: list):
 	lastModified = getLastModified(xmlFile, root.find("Commit"))
 	if(lastModified > 0):
 		plugin["modified"] = lastModified
+ 
+	cleanPath = xmlFile.replace(os.getcwd(), "").replace("\\", "/").lstrip("/")
+	cleanPath = re.sub(r'(.*?\/|^)Plugins\/', "Plugins/", cleanPath, 1)
+	plugin["file"] = cleanPath
 
 	if(root.attrib.get("{http://www.w3.org/2001/XMLSchema-instance}type") == "ModPlugin"):
 		modList.append(plugin)
