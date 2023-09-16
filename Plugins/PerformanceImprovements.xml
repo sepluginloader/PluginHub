@@ -20,4 +20,12 @@ https://www.patreon.com/semods
 
 Thank you!
   </Description>
+
+  <AlternateVersions>
+    <Version>
+      <Name>1.11.0: Mod compilation cache + Conveyor Reachable cache</Name>
+      <Commit>c2967a49c2522fd399793d67876f4a620ae45738</Commit>
+    </Version>
+  </AlternateVersions>
+
 </PluginData>
