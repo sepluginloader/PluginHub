@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/performance-improvements</GroupId>
   <FriendlyName>Performance Improvements</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>90cea76ce5187a19676faca9c4ffb381aebe8e11</Commit>
+  <Commit>3fc9280f7566d109a47047b3c01b608749b230fa</Commit>
   <SourceDirectories>
     <Directory>Shared</Directory>
     <Directory>ClientPlugin</Directory>
@@ -21,11 +21,13 @@ https://www.patreon.com/semods
 Thank you!
   </Description>
 
+  <!--
   <AlternateVersions>
     <Version>
-      <Name>1.11.0: Mod compilation cache + Conveyor Reachable cache</Name>
-      <Commit>c2967a49c2522fd399793d67876f4a620ae45738</Commit>
+      <Name>1.12.0: ?</Name>
+      <Commit>xxx</Commit>
     </Version>
   </AlternateVersions>
+  -->
 
 </PluginData>
