@@ -20,4 +20,12 @@ https://www.patreon.com/semods
 
 Thank you!
   </Description>
+
+  <AlternateVersions>
+    <Version>
+      <Name>0.6.0: Projection to assembler (new feature)</Name>
+      <Commit>a8bff20f6e3849452476127d0ea1c2016fc80a46</Commit>
+    </Version>
+  </AlternateVersions>
+
 </PluginData>
