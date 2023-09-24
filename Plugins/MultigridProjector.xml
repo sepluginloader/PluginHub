@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/multigrid-projector</GroupId>
   <FriendlyName>Multigrid Projector</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>a8d6bc8dda133be034e5668f1df15e6f4a4e0fe5</Commit>
+  <Commit>143b5a4d38107007dafb6061881000077fb4c540</Commit>
   <SourceDirectories>
     <Directory>MultigridProjector</Directory>
     <Directory>MultigridProjectorClient</Directory>
@@ -21,11 +21,13 @@ https://www.patreon.com/semods
 Thank you!
   </Description>
 
+  <!--
   <AlternateVersions>
     <Version>
       <Name>0.6.0: Projection to assembler (new feature)</Name>
-      <Commit>b08163b0537bc163e29729313a8d5abb22f4eca3</Commit>
+      <Commit>143b5a4d38107007dafb6061881000077fb4c540</Commit>
     </Version>
   </AlternateVersions>
+  -->
 
 </PluginData>
