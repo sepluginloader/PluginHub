@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <!-- Place the steam id of your workshop item here. -->
+  <Id>3027776990</Id>
+  
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Larson's Sensible Scrolling</FriendlyName>
+
+  <!-- The author name that you want to appear in the list. -->
+  <Author>LarsonStole</Author>
+  
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Alters the scrolling of some block types so that they more sense when building</Tooltip>
+  
+  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+  <Description>This has annoyed me for nearly all of my 3600 hours of game time, but when I heard Splitsie complain about it on his RVs at War stream, I finally felt 'not alone' in my aggravation and decided to fix it.
+
+This mod simply alters the scrolling of two block types (in both light and heavy armors) in order to make them make more sense when building; The 2x1x1 corner group and the transitions group.</Description>
+  
+  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box. -->
+  <Hidden>false</Hidden>
+</PluginData>
