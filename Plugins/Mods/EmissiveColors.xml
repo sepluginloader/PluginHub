@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <!-- Place the steam id of your workshop item here. -->
+  <Id>2212516940</Id>
+  
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Emissive Colors - Red / Green Color Vision Deficiency</FriendlyName>
+
+  <!-- The author name that you want to appear in the list. -->
+  <Author>enenra</Author>
+  
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Changes the emissive colors of all blocks to allow people with Red / Green Color Vision Deficiencies to better differentiate between them.</Tooltip>
+  
+  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+  <Description>This mod changes the emissive colors of all blocks to allow people with Red / Green Color Vision Deficiencies to better differentiate between them.
+
+Features
+- Green was changed to have more blue, resulting in a teal-adjacent color.
+- Yellow status indicators were changed to orange.
+- Orange status indicators were chagned to yellow.
+
+Notes
+- This was made specifically for w4stedspace and his particular CVD but I felt it might be beneficial for other people as well.
+  </Description>
+  
+  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box. -->
+  <Hidden>false</Hidden>
+</PluginData>
