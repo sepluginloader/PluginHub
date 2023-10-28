@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3062279989</Id>
+  <FriendlyName>SgmHud</FriendlyName>
+  <Author>Soulbinder</Author>  
+  <Tooltip>Experimental HUD additions.</Tooltip>
+  <Description>Project to learn to create new client side HUD elements. This project is experimental and for now only for personal use.</Description>
+  <Hidden>true</Hidden>
+  <DependencyIds></DependencyIds>
+</PluginData>
