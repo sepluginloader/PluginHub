@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>1697184408</Id>
+  <FriendlyName>Build Vision</FriendlyName>
+  <Author>DarkHelmet</Author>
+  <Tooltip>This is a quick access context menu designed to supplement the game's terminal. *Requires Rich HUD Master.*</Tooltip>
+  <DependencyIds>
+    <Id>1965654081</Id>
+  </DependencyIds>
+</PluginData>
