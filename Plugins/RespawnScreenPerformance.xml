@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>BDCarrillo/RespawnNoPreviewPlugin</Id>
+  <GroupId>BDCarrillo/RespawnNoPreviewPlugin</GroupId>
+  <FriendlyName>Respawn Screen Performance</FriendlyName>
+  <Author>BDCarrillo</Author>
+  <Commit>71fecd21f299fe353c09252c611756c622c289d2</Commit>
+  <SourceDirectories>
+    <Directory>RespPerf</Directory>
+  </SourceDirectories>
+  <Tooltip>Cut down on excessive streaming when respawning</Tooltip>
+  <Description>This plugin adds a blank entry to the top of the respawn screen to avoid streaming in some random grid, and avoid purging replication.  Works with zznty's SpawnScreenFix and StarCpt's Respawn Screen Improvements
+  -Spawn points in sync will appear green
+  </Description>
+</PluginData>
