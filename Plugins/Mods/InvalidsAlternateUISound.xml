@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3125206981</Id>
+  <FriendlyName>InvalidsAlternateUISound</FriendlyName>
+  <Author>Invalid</Author>
+  <Tooltip>Various edits to extremely common UI sounds you've heard hundreds of thousands of times.</Tooltip>
+</PluginData>
