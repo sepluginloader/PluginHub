@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2983819960</Id>
+  <FriendlyName>Vanilla Long Range Gatling Turrets</FriendlyName>
+  <Author>KillarOx3487</Author>
+  <Tooltip>This Mod adds two Long Range Vanilla Gatling Turrets.</Tooltip>
+  <Description>ID = 2983819960
+
+	This Mod adds two Long Range Vanilla Gatling Turrets.
+
+	Large Grid:
+	Long Range Gatling Turret
+	x2 Building coast of vanilla Gatling Turret
+	x4 Fire rate
+	Range: 2 km (2,000 meters)
+
+	Small Grid:
+	Small Long Range Gatling Turret
+	x2 Building coast of vanilla Small Gatling Turret
+	x4 Fire rate
+	Range: 1.5 km (1,500 meters)
+
+	Both small and large grid use the vanilla gatling ammo.
+	to place the turrets they are found where the vanilla gatling turret selection would be.
+
+	Select the Gatling Turret from the G menu, once on your hot bar use your Mouse wheel to scroll thru the options.
+
+
+	PLEASE DO NOT RE-UPLOAD THIS MOD WITH OUT THE MOD AUTHOR'S PERMISSION!</Description>
+</PluginData>
