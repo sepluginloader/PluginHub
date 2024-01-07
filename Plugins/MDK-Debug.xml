@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>malware-dev/MDK-Debug</Id>
+  <FriendlyName>MDK Debug</FriendlyName>
+  <Author>Malware</Author>
+  <Tooltip>Utility plugin for Space Engineers, allowing direct debugging of Programmable Block scripts via Space Engineers. Designed for MDK projects.</Tooltip>
+  <Description>Utility plugin for Space Engineers, allowing direct debugging of Programmable Block scripts via Space Engineers. Designed for MDK projects.
+
+This plugin owes its existence to Inflex, who created the first version of it. By his permission I have rewritten and adapted it for use with MDK projects, but his basic methodology survives.
+
+This plugin is currently a prototype. It should work but it's technically not in a "releasable" state yet and I haven't really decided how much I should truly integrate it with MDK. Most likely the assembly selection method will remain for people who don't want to use MDK, and we'll see if I integrate it more completely with MDK.</Description>
+  
+  <Commit>78c25f80c4dc47c37b03930b99053ccdc63b9fa0</Commit>
+</PluginData>
