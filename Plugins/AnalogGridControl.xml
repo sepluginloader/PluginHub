@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>ananace/dotnet-SEAnalogGridControlPlugin</Id>
+  <GroupId>AnalogGridControl</GroupId>
+  <FriendlyName>Analog Grid Control</FriendlyName>
+  <Author>Ananace</Author>
+  <Tooltip>Allows for true analog control of grids in Space Engineers</Tooltip>
+  <Description>
+    Device lists and bind management are available under Plugin settings.
+  </Description>
+  <Commit>d23895c01c4eacb1744731702a3de670c105008e</Commit>
+</PluginData>
