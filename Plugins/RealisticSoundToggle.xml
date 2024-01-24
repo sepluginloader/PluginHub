@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StarCpt/SE-RealisticSoundToggle</Id>
+  <FriendlyName>Realistic Sound Toggle</FriendlyName>
+  <Author>StarCpt</Author>
+  <Tooltip>Toggle realistic sound for servers</Tooltip>
+  <Description>Toggles realistic sound for servers. Plugin config can only be changed while on the main menu.</Description>
+  <Commit>ae83afa61652e9dfbcb171053058a7c2624be965</Commit>
+</PluginData>
