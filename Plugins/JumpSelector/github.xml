@@ -10,8 +10,9 @@
   Displays the current maximum distance your ship can jump just below the input box for the blind jump.
   It also displays the status of all of your jump drives along the top of the window, and tells you what percentage they are charged if not full. You can click on those buttons to turn the jump drive on or off.
   Right clicking on any button will turn all of your jump drives on (as long as they are not broken).
-  *NEW* Removes the field of view changes from the jump effect animation.
+  Removes the field of view changes from the jump effect animation.
+  *NEW* Added support for the custom turret controller.
   </Description>
-  <Commit>881c98bc780b9fcfad9b5184c7f1466d73830aab</Commit>
+  <Commit>1536931baa67a71f9df6824b406ab15b3fd71681</Commit>
   <Hidden>false</Hidden>
 </PluginData>
