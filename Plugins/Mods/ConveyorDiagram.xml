@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3163821667</Id>
+  <FriendlyName>Conveyor Diagram</FriendlyName>
+  <Author>BDCarrillo</Author>
+  <Tooltip>Conveyor diagram- see conveyor lines, junctions, and xray views through friendly ships.</Tooltip>
+  <Description>Conveyor connectivity diagram and grid xray view toggled by left shift.  Options and rebinds can be seen by typing "/cd help" in chat.</Description>
+</PluginData>
