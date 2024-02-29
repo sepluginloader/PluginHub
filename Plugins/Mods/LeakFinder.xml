@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3170315974</Id>
+  <FriendlyName>Leak Finder</FriendlyName>
+  <Author>Digi</Author>
+  <Tooltip>Shows a path leading to the exterior of the ship while respecting airtight sides.
+This helps find air leaks preventing pressurization.
+To use it, open terminal of any Air Vent block.</Tooltip>
+</PluginData>
