@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>mleise/SE.Plugin.ProjectedLights</Id>
+  <FriendlyName>Projected Lights</FriendlyName>
+  <Author>Streuwinkel</Author>
+  <Tooltip>Turns point lights into projected lights.</Tooltip>
+  <Description>This plugin gives interior light class blocks a projected texture like the spotlights have.
+
+You can change their texture and make individual lights cast shadows. There are sliders added to interior light class blocks for that. Any changes from the default are stored as an INI section in the Custom Data of the light. I may change what the defaults will provide and what settings are available in the future, so don't rely too much on it as a permanent solution.
+
+There is a performance cost to these lights. Keen originally limited them to 32 with at most 4 of them casting shadows. The shadow limit is still 4, but there can be any number of spotlights now.
+
+There can be glitches in particular when turning the plugin modifications off for many lights in a group operation.</Description>
+  <Commit>9b4b31a0f0bc74d4f02822dff5a41c1dfda0b696</Commit>
+  <SourceDirectories>
+    <Directory>Source</Directory>
+    <Directory>Properties</Directory>
+  </SourceDirectories>
+</PluginData>
