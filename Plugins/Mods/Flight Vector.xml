@@ -17,4 +17,7 @@ Credits
 -DirectedEnergy for the idea
 -Jerrai for the clever mnemonic
 </Description>
+<DependencyIds>
+    <Id>758597413</Id>
+</DependencyIds>
 </PluginData>
