@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2773303518</Id>
+  <GroupId>DuneJumpEffect</GroupId>
+  <FriendlyName>Dune Jump Effect</FriendlyName>
+  <Author>Blues Hailfire</Author>
+  <Tooltip>Changes the default jump effect to one inspired by the Dune Series</Tooltip>
+  <Description>Space folding (Dune), the specific portrayal of faster-than-light travel in Frank Herbert's Dune series. Space curvature due to gravity, a central aspect of the general theory of relativity. Space-time folding, a physical concept of non-flat spacetime, related to wormholes.</Description>
+  <Hidden>false</Hidden>
+</PluginData>
