@@ -2,7 +2,7 @@
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>viktor-ferenczi/se-camera-group</Id>
   <GroupId>viktor-ferenczi/se-camera-group</GroupId>
-  <FriendlyName>CameraGroup</FriendlyName>
+  <FriendlyName>Camera Group</FriendlyName>
   <Author>Viktor</Author>
   <Commit>f0a0f11bf22a57ebd8810e394390aa1dcfeb8016</Commit>
   <SourceDirectories>
