@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>viktor-ferenczi/se-camera-group</Id>
+  <GroupId>viktor-ferenczi/se-camera-group</GroupId>
+  <FriendlyName>CameraGroup</FriendlyName>
+  <Author>Viktor</Author>
+  <Commit>f0a0f11bf22a57ebd8810e394390aa1dcfeb8016</Commit>
+  <SourceDirectories>
+    <Directory>ClientPlugin</Directory>
+  </SourceDirectories>
+  <Tooltip>Cycling cameras from a group with a toolbar button</Tooltip>
+  <Description>Allows viewing groups of cameras in a round-robin manner using only a single toolbar slot.
+
+More information:
+https://github.com/viktor-ferenczi/se-camera-group
+
+For support join the SE Mods Discord:
+https://discord.gg/PYPFPGf3Ca
+
+Please consider supporting my work on Patreon:
+https://www.patreon.com/semods
+
+Thank you!
+  </Description>
+</PluginData>
