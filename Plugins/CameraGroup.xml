@@ -4,11 +4,11 @@
   <GroupId>viktor-ferenczi/se-camera-group</GroupId>
   <FriendlyName>Camera Group</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>f0a0f11bf22a57ebd8810e394390aa1dcfeb8016</Commit>
+  <Commit>ff61ab3a7cd3dbddf8729acbfdc3ed7c201223cb</Commit>
   <SourceDirectories>
     <Directory>ClientPlugin</Directory>
   </SourceDirectories>
-  <Tooltip>Cycling cameras from a group with a toolbar button</Tooltip>
+  <Tooltip>Cycling grouped cameras with a toolbar button</Tooltip>
   <Description>Allows viewing groups of cameras in a round-robin manner using only a single toolbar slot.
 
 More information:
