@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3214510627</Id>
+  <FriendlyName>Sorter Config Reader</FriendlyName>
+  <Author>Kaito</Author>
+  <Tooltip>Configure Sorter filters from their Custom Data.</Tooltip>
+  <Description>
+    This mod adds a button to the terminal controls of sorters to read the filter configuration from Custom Data.
+
+    Usage
+
+    The mod code runs every 100 ticks. Any Sorter with config in Custom Data as shown below will get configured automatically. The parsing only runs if the Custom Data has changed, so there is no continued performance cost.
+
+    [SorterConfig]
+    mode = blacklist
+    filters =
+    |Ore/Stone
+    |Ore/Iron
+    |Component/SteelPlate
+  </Description>
+</PluginData>
