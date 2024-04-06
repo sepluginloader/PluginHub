@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2830474647</Id>
+  <GroupId>SunRotateSkybox</GroupId>
+  <FriendlyName>Rotate skybox with the Sun</FriendlyName>
+  <Author>Digi</Author>
+  <Tooltip>Rotates your skybox with the sun.</Tooltip>
+  <Description>This simple mod makes it seem like you are the one rotating with the planets, instead of the sun rotating around you like it actually does, by simply rotating the skybox (starfield) with the sun. At very low sun rotation speeds (1h per day or longer) it is faint enough to just be a feeling rather than be noticeable. Not really recommended with fast sun speeds as it can induce motion sickness. And of course the mod does nothing if sun rotation is turned off. Will work with any skybox mods.</Description>
+  <Hidden>false</Hidden>
+</PluginData>

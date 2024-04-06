@@ -2,7 +2,7 @@
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
   <Id>2137637584</Id>
   <GroupId>StarWarsRender</GroupId>
-  <FriendlyName>(ARMCO) Starwars Rendering (Mod)</FriendlyName>
+  <FriendlyName>(ARMCO) Starwars Rendering</FriendlyName>
   <Author>Kreeg</Author>
   <Tooltip>Provides Renderer Modifications, to enhance Visuals for the game.</Tooltip>
   <Description>This mod is designed to allow the Project to enhance visuals and create that Starwars Space Environment, while also improving interaction visuals.</Description>

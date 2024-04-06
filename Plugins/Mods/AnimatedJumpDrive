@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>1668739492</Id>
+  <GroupId>AnimatedJumpDrive</GroupId>
+  <FriendlyName>Animated Jump Drives</FriendlyName>
+  <Author>Gwindalmir, SEModder4</Author>
+  <Tooltip>Animated Jump Drives ingame.</Tooltip>
+  <Description>Do you think the jump drive is missing something? So did we. In conjunction with SEModder4, we have animated the jump drives!</Description>
+  <Hidden>false</Hidden>
+</PluginData>
