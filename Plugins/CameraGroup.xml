@@ -9,42 +9,25 @@
     <Directory>ClientPlugin</Directory>
   </SourceDirectories>
   <Tooltip>Allows cycling over groups of cameras, searchlights and turrets</Tooltip>
-  <Description>Allows cycling over groups of cameras, searchlights, turrets and turret controllers
-    using a single toolbar button.
+  <Description>Allows cycling over groups of cameras, searchlights, turrets and turret controllers using a single toolbar button.
 
-    Configuration option to disable the third person view even if the world would allow
-    for using that. This option is for increased realism and should only be used by
-    experienced SE players.
+Configuration option to disable the third person view even if the world would allow
+for using that. This option is for increased realism and should only be used by
+experienced SE players.
 
-    ## Usage
+1. Group the relevant blocks (cameras, searchlights, turrets or turret controllers)
+2. Add the groups to the relevant cockpit or RC toolbar as a View or Control action
+3. Use the toolbar buttons to cycle through (view or control) the working blocks
 
-    1. Group the relevant blocks (cameras, searchlights, turrets or turret controllers)
-    2. Add the groups to the relevant cockpit or RC toolbar as a View or Control action
-    3. Use the toolbar buttons to cycle through (view or control) the working blocks
+Do NOT group cameras with the other supported blocks. Cameras have a View action, while the searchlight and turrets have a Control action. They cannot be mixed.
 
-    Do NOT group cameras with the other supported blocks. Cameras have a View action,
-    while the searchlight and turrets have a Control action. They cannot be mixed.
+More information:
+https://github.com/viktor-ferenczi/se-camera-group
 
-    ## Remarks
+For support join the SE Mods Discord:
+https://discord.gg/PYPFPGf3Ca
 
-    - Broken or disabled blocks are automatically skipped
-    - The blocks in each group are selected in the order of their name
-    - The plugin works for both offline and online multiplayer games
-    - Game saves and blueprints preserve the toolbar actions configured
-    - Only players with the plugin installed will be able to use the toolbar action
-    - No adverse effect on server performance, this is only a client side QoL plugin
-
-    Thanks goes to **mkaito** for the great plugin idea, pair-working and testing.
-
-    More information:
-    https://github.com/viktor-ferenczi/se-camera-group
-
-    For support join the SE Mods Discord:
-    https://discord.gg/PYPFPGf3Ca
-
-    Please consider supporting my work on Patreon:
-    https://www.patreon.com/semods
-
-    Thank you!
+Please consider supporting my work on Patreon:
+https://www.patreon.com/semods
   </Description>
 </PluginData>
