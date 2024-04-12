@@ -11,9 +11,7 @@
   <Tooltip>Allows cycling over groups of cameras, searchlights and turrets</Tooltip>
   <Description>Allows cycling over groups of cameras, searchlights, turrets and turret controllers using a single toolbar button.
 
-Configuration option to disable the third person view even if the world would allow
-for using that. This option is for increased realism and should only be used by
-experienced SE players.
+Configuration option to disable the third person view even if the world would allow for using that. This option is for increased realism and should only be used by experienced SE players.
 
 1. Group the relevant blocks (cameras, searchlights, turrets or turret controllers)
 2. Add the groups to the relevant cockpit or RC toolbar as a View or Control action
