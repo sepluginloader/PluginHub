@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>WesternGamer/FasterLoadGameScreen</Id>
+  <GroupId>WesternGamer/FasterLoadGameScreen</GroupId>
+  <FriendlyName>Faster Load Game Screen</FriendlyName>
+  <Author>WesternGamer</Author>
+  <Commit>f1bb39b4d3b1e06d610cb52b10342967d4003613</Commit>
+  <SourceDirectories>
+    <Directory>Shared</Directory>
+    <Directory>ClientPlugin</Directory>
+  </SourceDirectories>
+  <Tooltip>Makes the load game screen load faster.</Tooltip>
+  <Description>This plugin will make the load game screen load up the world list faster.
+
+This plugin can be especially useful if you have many worlds on your computer.
+  </Description>
+</PluginData>
