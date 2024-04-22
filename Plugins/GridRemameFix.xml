@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Pas2704/GridRenameFix</Id>
+  <FriendlyName>Grid Rename Fix</FriendlyName>
+  <Author>Pas2704</Author>
+  <Tooltip>Stops the grid name from being updated in the info tab while it's open</Tooltip>
+  <Description>Tired of using !rename? 
+This plugin stops the grid name from being updated while the info tab is open, allowing it to be edited properly.</Description>
+  <Commit>6c5ddaed07592c329fc5f6fe2478d1dfff9dfa70</Commit>
+</PluginData>
