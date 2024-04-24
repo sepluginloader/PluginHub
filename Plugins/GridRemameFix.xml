@@ -6,5 +6,5 @@
   <Tooltip>Stops the grid name from being updated in the info tab while it's open</Tooltip>
   <Description>Tired of using !rename? 
 This plugin stops the grid name from being updated while the info tab is open, allowing it to be edited properly.</Description>
-  <Commit>6c5ddaed07592c329fc5f6fe2478d1dfff9dfa70</Commit>
+  <Commit>2a6a94b7c9fa41e9a66ff65ed4bb745e13f5da5a</Commit>
 </PluginData>
