@@ -22,13 +22,11 @@ https://www.patreon.com/semods
 Thank you!
   </Description>
 
-  <!--
   <AlternateVersions>
     <Version>
-      <Name>0.6.0: Projection to assembler (new feature)</Name>
-      <Commit>143b5a4d38107007dafb6061881000077fb4c540</Commit>
+      <Name>0.7.0: Properly setting all toolbar slots regardless of build order</Name>
+      <Commit>009785fc56e315cdb99bbb73ed707635f1efd367</Commit>
     </Version>
   </AlternateVersions>
-  -->
 
 </PluginData>
