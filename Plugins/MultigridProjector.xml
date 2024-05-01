@@ -27,8 +27,8 @@ Thank you!
 
   <AlternateVersions>
     <Version>
-      <Name>0.7.0-pre2: Toolbars, repair blueprints</Name>
-      <Commit>ba9090424e6653ffdf3c759c310ce87ab411ea33</Commit>
+      <Name>0.7.0-pre3: Setting Keep Projection ON after loading a blueprint which is detected as a repair one</Name>
+      <Commit>0f72956cc5fbccbc6471e00fb33e8786e5f83b25</Commit>
     </Version>
   </AlternateVersions>
 
