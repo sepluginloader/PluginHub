@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>dj8552/Store-GUI-Fix</Id>
+  <GroupId>dj8552/Store-GUI-Fix</GroupId>
+  <FriendlyName>Store GUI Fix</FriendlyName>
+  <Author>DJ8552</Author>
+  <Commit>768ec80dee94fb46c0a315f19fee69f3ec4e97a8</Commit>
+  <SourceDirectories>
+    <Directory>ClientPlugin</Directory>
+  </SourceDirectories>
+  <Tooltip>Fixes the rounding errors in the total price.</Tooltip>
+  <Description>
+  </Description>
+</PluginData>
