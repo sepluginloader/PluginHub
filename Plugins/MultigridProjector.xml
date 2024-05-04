@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/multigrid-projector</GroupId>
   <FriendlyName>Multigrid Projector</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>71a1c8b1f81f40030f667ce005630bf83319446c</Commit>
+  <Commit>ff9143a627450e6162f4bf9dd4a74794ec3ec085</Commit>
   <SourceDirectories>
     <Directory>MultigridProjector</Directory>
     <Directory>MultigridProjectorApi</Directory>
@@ -25,11 +25,13 @@ https://www.paypal.com/paypalme/vferenczi/
 Thank you!
   </Description>
 
+  <!--
   <AlternateVersions>
     <Version>
-      <Name>0.7.0-pre6: Fixed censoring and repair alignment on blueprint Replace</Name>
-      <Commit>b86042caee40c3c07d6e862adc373b529f435b47</Commit>
+      <Name>?</Name>
+      <Commit>?</Commit>
     </Version>
   </AlternateVersions>
+  -->
 
 </PluginData>
