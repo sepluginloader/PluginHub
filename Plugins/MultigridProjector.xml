@@ -27,8 +27,8 @@ Thank you!
 
   <AlternateVersions>
     <Version>
-      <Name>0.7.0-pre4: Fixed the rotation on loading a blueprint</Name>
-      <Commit>a4220f46060590aa8bec948ddecc3c5e33cfa3b9</Commit>
+      <Name>0.7.0-pre5: Censoring world position in saved blueprints</Name>
+      <Commit>f7c0d3523eaba2b93b561ef75e62418de1572cca</Commit>
     </Version>
   </AlternateVersions>
 
