@@ -4,7 +4,7 @@
   <GroupId>dj8552/Store-GUI-Fix</GroupId>
   <FriendlyName>Store GUI Fix</FriendlyName>
   <Author>DJ8552</Author>
-  <Commit>768ec80dee94fb46c0a315f19fee69f3ec4e97a8</Commit>
+  <Commit>a5da5297ab84df1ca3aa28b7c53e6ffb50ef9c8e</Commit>
   <SourceDirectories>
     <Directory>ClientPlugin</Directory>
   </SourceDirectories>
