@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <!-- Place the steam id of your workshop item here. -->
+  <Id>3237260730</Id>
+
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Block Culling (Mod)</FriendlyName>
+
+  <!-- The author name that you want to appear in the list. -->
+  <Author>Aristeas</Author>
+  
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Makes fatblocks with blocks on all sides invisible. Boosts FPS upwards of 3x.</Tooltip>
+  
+  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box. -->
+  <Hidden>false</Hidden>
+</PluginData>
