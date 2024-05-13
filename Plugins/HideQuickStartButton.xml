@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>WesternGamer/HideQuickStartButton</Id>
+  <GroupId>WesternGamer/HideQuickStartButton</GroupId>
+  <FriendlyName>Hide Quick Start Button</FriendlyName>
+  <Author>WesternGamer</Author>
+  <Commit>a9306da719eacab49bde47014991bf96ce0ddcb6</Commit>
+  <SourceDirectories>
+    <Directory>ClientPlugin</Directory>
+  </SourceDirectories>
+  <Tooltip>Plugin to hide the quick start button introduced in the 1.204 signals update.</Tooltip>
+  <Description>Plugin to hide the quick start button introduced in the 1.204 signals update.
+  </Description>
+</PluginData>
