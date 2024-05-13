@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>WesternGamer/RevertNewGameScreen</Id>
+  <GroupId>WesternGamer/RevertNewGameScreen</GroupId>
+  <FriendlyName>Revert New Game Screen</FriendlyName>
+  <Author>WesternGamer</Author>
+  <Commit>f6649a1c80b6d6c28c0decc4de1c7fc49e7f3db2</Commit>
+  <SourceDirectories>
+    <Directory>ClientPlugin</Directory>
+  </SourceDirectories>
+  <Tooltip>Plugin to revert the new game screen to the pre-1.204 version.</Tooltip>
+  <Description>Plugin to revert the new game screen to the pre-1.204 version.
+  </Description>
+</PluginData>
