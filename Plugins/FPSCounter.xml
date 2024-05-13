@@ -5,7 +5,7 @@
   <FriendlyName>FPS Counter</FriendlyName>
   <Author>WesternGamer</Author>
   <Tooltip>FPS Counter for Space Engineers.</Tooltip>
-  <Commit>0ddaff4f0785f0639aeb490d9dc8327f10d44212</Commit>
+  <Commit>42d705b470fdde92c4fd7ecdfd9c1dcd82bd5c60</Commit>
   <SourceDirectories>
     <Directory>SEVersion</Directory>
   </SourceDirectories>
