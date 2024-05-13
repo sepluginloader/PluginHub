@@ -5,5 +5,5 @@
   <Author>avaness</Author>
   <Tooltip>Highlights the item you searched for in the inventory.</Tooltip>
   <Description>Highlights the item you searched for in the inventory. Also tweaks the production tab so that the assembler list is sorterd and your search is persistent.</Description>
-  <Commit>1aeef39b73deb8510887875955204276b3203441</Commit> 
+  <Commit>6f5f5b461842e3cff52cfc457114096f362d09f1</Commit> 
 </PluginData>
