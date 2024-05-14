@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Pas2704/GrabSingleItem</Id>
+  <FriendlyName>Grab Single Item</FriendlyName>
+  <Author>Pas2704</Author>
+  <Tooltip>Grab inventory items one at a time with Alt + Click</Tooltip>
+  <Description>Allows you to grab a single item in the terminal with Alt + click.
+  Particularly useful for grabbing tools and bottles, now that they're stacked.</Description>
+  <Commit>2a2cba46e087ee4cee25366ea5e43088513636a7</Commit>
+</PluginData>
