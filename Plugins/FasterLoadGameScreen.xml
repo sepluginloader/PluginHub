@@ -4,7 +4,7 @@
   <GroupId>WesternGamer/FasterLoadGameScreen</GroupId>
   <FriendlyName>Faster Load Game Screen</FriendlyName>
   <Author>WesternGamer</Author>
-  <Commit>f1bb39b4d3b1e06d610cb52b10342967d4003613</Commit>
+  <Commit>9aca35b902d70aa298d7f1c9c1a30a2f20ba7042</Commit>
   <SourceDirectories>
     <Directory>Shared</Directory>
     <Directory>ClientPlugin</Directory>
@@ -13,5 +13,7 @@
   <Description>This plugin will make the load game screen load up the world list faster.
 
 This plugin can be especially useful if you have many worlds on your computer.
+
+1.204+ - The plugin may improve load times of the new game screen.
   </Description>
 </PluginData>
