@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2905820756</Id>
+  <FriendlyName>Hydrogen Plus</FriendlyName>
+  <Author>Blues Hailfire + Others</Author>
+  <Tooltip>Allows you to change the color/effect of a hydrogen thruster</Tooltip>
+  <Description>
+    Made By: Shinobi, Blues Hailfire, Foltast, Dercaixr
+    Supports full RGB range for the thrusters color
+    Custom VFX made specifically for the hydrogen thrusters, including:
+      - AmberBurst
+      - Maneuvering
+      - Rainbow
+      - Blueshift
+      - ThunderDomn
+      - Eridanus
+      - HyperRX
+      - SkyBurner
+      - OPC Signature made by Dercaixr (OPC Thruster Exclusive)
+    Server friendly
+    Can be used on Nexus servers
+    Highly efficient, can be used even on potato
+    Setup via grid terminal
+  </Description>
+</PluginData>
