@@ -4,7 +4,7 @@
   <GroupId>WesternGamer/FasterLoadGameScreen</GroupId>
   <FriendlyName>Faster Load Game Screen</FriendlyName>
   <Author>WesternGamer</Author>
-  <Commit>9aca35b902d70aa298d7f1c9c1a30a2f20ba7042</Commit>
+  <Commit>66162a2350018201771c181fd44116afcfb724b8</Commit>
   <SourceDirectories>
     <Directory>Shared</Directory>
     <Directory>ClientPlugin</Directory>
