@@ -6,7 +6,6 @@
   <Author>WesternGamer</Author>
   <Commit>66162a2350018201771c181fd44116afcfb724b8</Commit>
   <SourceDirectories>
-    <Directory>Shared</Directory>
     <Directory>ClientPlugin</Directory>
   </SourceDirectories>
   <Tooltip>Makes the load game screen load faster.</Tooltip>
