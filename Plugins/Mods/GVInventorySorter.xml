@@ -3,7 +3,9 @@
   <Id>3082595868</Id>
   <FriendlyName>GV Inventory Sorter</FriendlyName>
   <Author>Merii</Author>
-  <Tooltip>It's a lot like Isy's Inventory Manager and uses a similar config language, but is entirely client side, so there is no server load except the actual item transfers, unlike with programmable blocks.</Tooltip>
-    <Description>Pure client-side inventory management - see https://steamcommunity.com/sharedfiles/filedetails/?id=3122025230 for usage</Description>
+  <Tooltip>Pure client-side inventory management</Tooltip>
+  <Description>This mod is a lot like Isy's Inventory Manager and uses a similar config language, but is entirely client side. There is no server load except the actual item transfers, unlike with programmable blocks.
+    
+    See https://steamcommunity.com/sharedfiles/filedetails/?id=3122025230 for usage</Description>
   <Hidden>false</Hidden>  
 </PluginData>
