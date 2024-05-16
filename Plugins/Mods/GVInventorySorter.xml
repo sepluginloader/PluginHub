@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3082595868</Id>
+  <FriendlyName>GV Inventory Sorter</FriendlyName>
+  <Author>Merii</Author>
+  <Tooltip>Pure client-side inventory management</Tooltip>
+  <Description>This mod is a lot like Isy's Inventory Manager and uses a similar config language, but is entirely client side. There is no server load except the actual item transfers, unlike with programmable blocks.
+    
+    See https://steamcommunity.com/sharedfiles/filedetails/?id=3122025230 for usage</Description>
+  <Hidden>false</Hidden>  
+</PluginData>
