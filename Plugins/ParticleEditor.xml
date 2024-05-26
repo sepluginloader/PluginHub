@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>THDigi/ParticleEditor</Id>
-  <FriendlyName>Particle Editor 1.05</FriendlyName>
+  <FriendlyName>Particle Editor 1.06</FriendlyName>
   <Author>Digi</Author>
   <Tooltip>A plugin to allow modders to develop particles much easier.</Tooltip>
   <Description>A plugin to allow modders to develop particles much easier.
@@ -10,7 +10,7 @@ Load any offline world and press Shift+F to open the editor then follow the tool
   </Description>
 
   <!-- The commit id. You can find this in the commits list: https://github.com/THDigi/ParticleEditor/commits/main -->
-  <Commit>757deaa61398a734b6336bec44a5b5c45ffcd1c6</Commit>
+  <Commit>4831da261b2f00402a12dd3cc63586688607abfb</Commit>
 
   <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box. -->
   <Hidden>false</Hidden>
