@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <!-- Place the steam id of your workshop item here. -->
+  <Id>3252520404</Id>
+
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Eli Dang's Holo HUD</FriendlyName>
+
+  <!-- The author name that you want to appear in the list. -->
+  <Author>Polygon Cherub</Author>
+  
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Adds an elite dangerous style HUD to your ships</Tooltip>
+  
+</PluginData>
