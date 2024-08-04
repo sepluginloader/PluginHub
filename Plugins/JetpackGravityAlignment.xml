@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>thejoun/se-jetpack-gravity-alignment</Id>  
+  <FriendlyName>Jetpack Gravity Alignment</FriendlyName>
+  <Author>thejoun</Author>
+  <Tooltip>Jetpack yaw around gravity axis</Tooltip>
+  <Description>A simple plugin which addresses a UX/QoL/Accessibility issue that seems to have been reported many times since 2014. While using a jetpack in any grivity field, it makes the player yaw around the current gravity axis, as if he was standing on the ground.</Description>
+  <Commit>76a6420c14ae25908cee32d198b20dfac838a667</Commit>
+</PluginData>
