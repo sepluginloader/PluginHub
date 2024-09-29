@@ -11,4 +11,7 @@
     ** Hold Ctrl+Shift and use the block rotation keys to move the rotation point.
   </Description>
   <Commit>3eb3f53056f835aa037dc5201e3aab3030c7dad5</Commit> 
+  <SourceDirectories>
+    <Directory>CameraZoom</Directory>
+  </SourceDirectories>
 </PluginData>
