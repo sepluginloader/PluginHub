@@ -7,6 +7,8 @@
   <Description>Removes the check for obstructions when using the 3rd person view while seated in a ship. 
     This allows you to rotate the camera around freely without it being forced to zoom in or out. 
     Great for tunnel-boring mining ships!
+    **New** Now you can offset the position that the camera rotates around to anywhere inside of your ships bounding box!
+    ** Hold Ctrl+Shift and use the block rotation keys to move the rotation point.
   </Description>
-  <Commit>5066a13823a08ab1923b5b840b3f9494c0b505b4</Commit> 
+  <Commit>3eb3f53056f835aa037dc5201e3aab3030c7dad5</Commit> 
 </PluginData>
