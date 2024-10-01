@@ -8,9 +8,11 @@
     This allows you to rotate the camera around freely without it being forced to zoom in or out. 
     Great for tunnel-boring mining ships!
     **New** Now you can offset the position that the camera rotates around to anywhere inside of your ships bounding box!
-    ** Hold Ctrl+Shift and use the block rotation keys to move the rotation point.
+    ** Hold Ctrl+Shift and use the block rotation keys to move the rotation point. (Or press Numpad Zero to reset to default)
+    ** Bug Fix ** Should now only affect ships that you have changed the offset on, sorry about that!
+    ** Coming soon  ->  Configuration menu :)
   </Description>
-  <Commit>3eb3f53056f835aa037dc5201e3aab3030c7dad5</Commit> 
+  <Commit>22c42625229678f2a05d9833e93a85dae4496725</Commit> 
   <SourceDirectories>
     <Directory>CameraZoom</Directory>
   </SourceDirectories>
