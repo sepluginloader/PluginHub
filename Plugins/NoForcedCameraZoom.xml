@@ -7,12 +7,11 @@
   <Description>Removes the check for obstructions when using the 3rd person view while seated in a ship. 
     This allows you to rotate the camera around freely without it being forced to zoom in or out. 
     Great for tunnel-boring mining ships!
-    **New** Now you can offset the position that the camera rotates around to anywhere inside of your ships bounding box!
-    ** Hold Ctrl+Shift and use the block rotation keys to move the rotation point. (Or press Numpad Zero to reset to default)
-    ** Bug Fix ** Should now only affect ships that you have changed the offset on, sorry about that!
-    ** Coming soon  ->  Configuration menu :)
+    You can also offset the position that the camera rotates around to anywhere inside of your ships bounding box!
+    Hold Ctrl+Shift and use the block rotation keys to move the rotation point.
+    Hold Ctrl+Shift and press backspace to reset the cameras rotation point to default.
   </Description>
-  <Commit>22c42625229678f2a05d9833e93a85dae4496725</Commit> 
+  <Commit>5694e90b43bf31f10588fdd9940cda3d187ba871</Commit> 
   <SourceDirectories>
     <Directory>CameraZoom</Directory>
   </SourceDirectories>
