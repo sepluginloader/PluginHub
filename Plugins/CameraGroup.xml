@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/se-camera-group</GroupId>
   <FriendlyName>Camera Group</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>e073281e472b2a5d8cffaf9101c1186e652d9a8d</Commit>
+  <Commit>4494f4a8209fe788738f01298dc4e9b3ddfc9c1d</Commit>
   <SourceDirectories>
     <Directory>ClientPlugin</Directory>
   </SourceDirectories>
