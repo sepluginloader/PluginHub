@@ -4,7 +4,7 @@
   <GroupId>BDCarrillo/RespawnNoPreviewPlugin</GroupId>
   <FriendlyName>Respawn Screen Performance</FriendlyName>
   <Author>BDCarrillo</Author>
-  <Commit>8cb378537492e07abed0504b7a8dd446100d9628</Commit>
+  <Commit>cc67c4a9088247a5ab43e67c92680e90b5d813a6</Commit>
   <SourceDirectories>
     <Directory>RespPerf</Directory>
   </SourceDirectories>
