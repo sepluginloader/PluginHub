@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/se-ore-pickup</GroupId>
   <FriendlyName>Ore Pickup</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>6aa1fce9a6fe5cadf0a12bf2e209f8f91e469ea6</Commit>
+  <Commit>220abb5c850eb5cdd07c25b11add59329ca68745</Commit>
   <SourceDirectories>
     <Directory>ClientPlugin</Directory>
   </SourceDirectories>
