@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>viktor-ferenczi/se-ore-pickup</Id>
+  <GroupId>viktor-ferenczi/se-ore-pickup</GroupId>
+  <FriendlyName>Ore Pickup</FriendlyName>
+  <Author>Viktor</Author>
+  <Commit>c6b3b9698ae72def63361e34c73c783221088802</Commit>
+  <SourceDirectories>
+    <Directory>OrePickup</Directory>
+  </SourceDirectories>
+  <Tooltip>Picks up ore extracted by the hand drill.</Tooltip>
+  <Description>Picks up ore extracted by the hand drill.
+
+Works both in creative and survival.
+Works both in offline and online multiplayer worlds.
+
+The plugin is configurable via chat commands:
+/pickup help    Prints this help on usage
+/pickup info    Prints the current settings
+/pickup on      Enables the plugin
+/pickup off     Disables the plugin
+/pickup ice     Toggles picking up ice
+/pickup stone   Toggles picking up stone
+
+The plugin disables itself if a conflicting mod is detected.
+
+For support join the SE Mods Discord:
+https://discord.gg/PYPFPGf3Ca
+
+Please consider supporting my work on Patreon:
+https://www.patreon.com/semods
+
+One time support via PayPal:
+https://www.paypal.com/paypalme/vferenczi/
+
+Thank you!
+  </Description>
+</PluginData>
