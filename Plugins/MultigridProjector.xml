@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/multigrid-projector</GroupId>
   <FriendlyName>Multigrid Projector</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>ad504adf0472132ec31d938ab9dc4320283ebcde</Commit>
+  <Commit>3de365f8651cff3c03bcc92aec8867f178caec59</Commit>
   <SourceDirectories>
     <Directory>MultigridProjector</Directory>
     <Directory>MultigridProjectorApi</Directory>
@@ -25,11 +25,13 @@ https://www.paypal.com/paypalme/vferenczi/
 Thank you!
   </Description>
 
+  <!--
   <AlternateVersions>
     <Version>
-      <Name>Linux-Wine-Proton</Name>
-      <Commit>b6d10b1f7046956299490b1d0f2b18488811ada5</Commit>
+      <Name>!!!</Name>
+      <Commit>!!!</Commit>
     </Version>
   </AlternateVersions>
+  -->
 
 </PluginData>
