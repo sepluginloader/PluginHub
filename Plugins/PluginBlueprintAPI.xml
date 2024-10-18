@@ -8,7 +8,7 @@
 
 Workshop Mod:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3016793407</Description>
-  <Commit>d73819bed9812f1edca96697125572846872deff</Commit>
+  <Commit>635da7d3689b5aa4f36cafd79d883256b0c8d364</Commit>
   <SourceDirectories>
     <Directory>PluginBlueprintAPI</Directory>
   </SourceDirectories>
