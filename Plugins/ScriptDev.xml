@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/se-script-dev</GroupId>
   <FriendlyName>ScriptDev</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>547cdcf2a134ebc3a395d1157218ecaf777dddd1</Commit>
+  <Commit>e17a13bbab37b2502c2f256f29c4674c65e27863</Commit>
   <SourceDirectories>
     <Directory>Shared</Directory>
     <Directory>ClientPlugin</Directory>
