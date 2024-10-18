@@ -25,13 +25,11 @@ https://www.paypal.com/paypalme/vferenczi/
 Thank you!
   </Description>
 
-  <!--
   <AlternateVersions>
     <Version>
-      <Name>?</Name>
-      <Commit>?</Commit>
+      <Name>Linux-Wine-Proton</Name>
+      <Commit>b6d10b1f7046956299490b1d0f2b18488811ada5</Commit>
     </Version>
   </AlternateVersions>
-  -->
 
 </PluginData>
