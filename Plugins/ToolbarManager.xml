@@ -23,4 +23,12 @@ https://www.paypal.com/paypalme/vferenczi/
 
 Thank you!
   </Description>
+
+  <AlternateVersions>
+    <Version>
+      <Name>For SE 1.204.018</Name>
+      <Commit>aa031d189eea35107aa9ac237b8b838819421575</Commit>
+    </Version>
+  </AlternateVersions>
+
 </PluginData>
