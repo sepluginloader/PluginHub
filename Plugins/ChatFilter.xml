@@ -5,8 +5,9 @@
   <Author>dude</Author>
   <Tooltip>Mute individual players chat messages, or all of them!</Tooltip>
   <Description>Block chat messsages from specific players or hide chat messages by type (global/faction/whisper). 
+  ** Gui improved so you dont need to use chat commands anymore **
   /mute [player name] - blocks chat messages from a player.
   /unmute [player name] - unblocks players messages.
   /cfconfig - open configuration window to set visibility for a specific chat channel.</Description>
-  <Commit>9ee353f923058546f7ddb7431540988cff921dca</Commit> 
+  <Commit>06cf791d10e1b836e26cb0981f4ae492ed229281</Commit> 
 </PluginData>
