@@ -11,10 +11,14 @@
   <Tooltip>Picks up ore extracted by the hand drill.</Tooltip>
   <Description>Picks up ore extracted by the hand drill.
 
-    Works both in creative and survival.
-    Works both in offline and online multiplayer worlds.
+    - Works both in creative and survival
+    - Works both in offline and online multiplayer worlds
+    - Picks up ore only while collecting it (left mouse button)
+    - Separately configurable ice and stone collection
 
-    The plugin is configurable via chat commands:
+    Configure the ice and stone pickup via the plugin's settings.
+
+    You may also use chat commands:
     /pickup help    Prints this help on usage
     /pickup info    Prints the current settings
     /pickup on      Enables the plugin
@@ -22,7 +26,7 @@
     /pickup ice     Toggles picking up ice
     /pickup stone   Toggles picking up stone
 
-    The plugin disables itself if a conflicting mod is detected.
+    The plugin disables itself if a conflicting mod is detected in the current world.
 
     For support join the SE Mods Discord:
     https://discord.gg/PYPFPGf3Ca
