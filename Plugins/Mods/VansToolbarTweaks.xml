@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <!-- Place the steam id of your workshop item here. -->
+  <Id>3357036851</Id>
+  
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>Vans Toolbar Tweaks</FriendlyName>
+
+  <!-- The author name that you want to appear in the list. -->
+  <Author>VanLabyrinth</Author>
+  
+  <Tooltip>This mod improves the G-menu Block groups</Description>
+
+  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+  <Description>This is a simple mod that just changes some of the block groups to be more inline with what i believe they should be.</Description>
+  
+</PluginData>
