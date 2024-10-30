@@ -9,7 +9,9 @@
   <!-- The author name that you want to appear in the list. -->
   <Author>VanLabyrinth</Author>
   
+  <Tooltip>This mod improves the G-menu Block groups</Description>
+
   <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
-  <Description>This mod simply improves the G-menu Block groups.</Description>
+  <Description>This is a simple mod that just changes some of the block groups to be more inline with what i believe they should be.</Description>
   
 </PluginData>
