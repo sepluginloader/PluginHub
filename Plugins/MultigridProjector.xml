@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/multigrid-projector</GroupId>
   <FriendlyName>Multigrid Projector</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>3de365f8651cff3c03bcc92aec8867f178caec59</Commit>
+  <Commit>a0b61497441dd7a9f0621ccbc2d577a45d45beb9</Commit>
   <SourceDirectories>
     <Directory>MultigridProjector</Directory>
     <Directory>MultigridProjectorApi</Directory>
@@ -29,10 +29,6 @@ Thank you!
     <Version>
       <Name>For SE 1.204.018</Name>
       <Commit>7dcdb4c0aacfb9506e68f99bc9fece2999359682</Commit>
-    </Version>
-    <Version>
-      <Name>For SE on .NET 8.0</Name>
-      <Commit>a0b61497441dd7a9f0621ccbc2d577a45d45beb9</Commit>
     </Version>
   </AlternateVersions>
 
