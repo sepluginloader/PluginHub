@@ -29,6 +29,10 @@ Thank you!
       <Name>For SE 1.204.018</Name>
       <Commit>b0873e052c012bd20bfd36661deb700e18f1c3d4</Commit>
     </Version>
+    <Version>
+      <Name>For SE on .NET 8.0</Name>
+      <Commit>71ecdf62a0ecab7a0fead9c3a6128e489c7ba6a9</Commit>
+    </Version>
   </AlternateVersions>
 
 </PluginData>

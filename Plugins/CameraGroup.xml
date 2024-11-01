@@ -38,6 +38,10 @@ https://www.paypal.com/paypalme/vferenczi/
       <Name>For SE 1.204.018</Name>
       <Commit>05fd221c7ce37e9d16d2188a8fc3d5e5c74e66d7</Commit>
     </Version>
+    <Version>
+      <Name>For SE on .NET 8.0</Name>
+      <Commit>14573a1a784cd9a693bf9faee51cedc176aace8c</Commit>
+    </Version>
   </AlternateVersions>
 
 </PluginData>
