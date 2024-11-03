@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2277303535</Id>
+  <FriendlyName>L.U.C.1.A.N. Suit A.I. - Ghost Industries Ltd.</FriendlyName>
+  <Author>Lucian V. Ghost</Author>
+  <Tooltip>Warning, the L.U.C.1.A.N. Suit A.I. can be volatile, pessimistic and extremely sarcastic...</Tooltip>
+  <Description>Light Universal Computer, 1st Artificial Navigator
+
+Are you tired of that outdated boring Suit A.I. voice, always giving you the same warnings over and over?
+In tandem with Lucas Inc., Ghost Industries Ltd. has put together a suit A.I. you won't get bored of.
+Charming and debonair, this Suit A.I. is a perfect gentleman at all times, and will inspire you to keep those hydrogen tanks filled.
+
+This Suit A.I. Replacement has One Hundred And Seventy Individual Voice lines, with the potential for more to be added.
+
+Warning - The Suit A.I. can also be volatile, pessimistic and extremely sarcastic. Ghost Industries Ltd. is not held accountable for injury due to misunderstanding the warnings.
+
+The Suit A.I. Mod utilises various audio portions that mods like No Breathing Sounds cancels out, so be careful when using those mods in combination, as some audio may not play in those situations.
+It also adds Oxygen warnings with Taedian's Extra HUD Warnings Mod.
+
+Replaces the following Suit and Game Audio notifications:
+
+- Station, Suit and Ship Fuel Warnings
+- Hydrogen Warnings
+- Health Warnings
+- Handbrake and Antenna Alerts
+- Many Inventory Full Notifications
+- Oxygen Warnings (With Additional Mod)
+
+I thank all the people over the years who have inspired me to update this mod every so often.</Description>
+</PluginData>
