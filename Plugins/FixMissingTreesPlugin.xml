@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>klightspeed/FixMissingTreesPlugin</Id>
+  <GroupId>klightspeed/FixMissingTreesPlugin</GroupId>
+  <FriendlyName>Fix invisible trees</FriendlyName>
+  <Author>Ben Peddell</Author>
+  <SourceDirectories>
+    <Directory>FixMissingTreesPlugin</Directory>
+  </SourceDirectories>
+  <Tooltip>Fix an LOD issue causing invisible trees</Tooltip>
+  <Description>
+	  This plugin fixes the client-side issue in https://support.keenswh.com/spaceengineers/pc/topic/44535-client-side-environment-item-e-g-tree-lod-issue
+	  
+	  This was caused by the function populating environment items incorrectly removing the number of items that had already been spawned
+	  from the number of items considered for the target LOD.
+	  
+	  i.e. if there were 39 items spawned and the target LOD should consider 107 items, it was only considering 68 items
+  </Description>
+  <Commit>c6205c326169a7b70583ebda2a04368deecfdff9</Commit>
+</PluginData>
