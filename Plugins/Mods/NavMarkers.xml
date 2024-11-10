@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3363175955</Id>
+  <FriendlyName>Nav Markers (Mod)</FriendlyName>
+  <Author>VengantMjolnir</Author>
+  <Tooltip>Allows creating a 3D sphere around a GPS point.</Tooltip>
+  <Description>Space Engineers mod to add commands for showing GPS markers as large 3D spheres in the world. Client side only and originally designed for the Sigma Draconis Expanse server to aid in navigating through space and avoiding the 'slow zones'. Useful for marking gravity wells, danger exclusion zones or any other point in space with a radius.
+
+GPS markers must have the range in Kilometers in the format of (R-<range>). For example 'Danger! (R-10)' as a GPS name would allow it to be selected.
+
+Will be updated with some chat commands for convenience.</Description>
+  
+  <Hidden>false</Hidden>
+</PluginData>
