@@ -18,4 +18,4 @@ jobs:
       with:
         python-version: '3.11'
     - name: Validate
-      run: 'python PluginHub/test.py PluginHub/Plugins/'
+      run: 'python test.py Plugins/'
