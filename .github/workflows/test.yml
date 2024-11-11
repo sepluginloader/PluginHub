@@ -5,6 +5,7 @@ on:
   push:
     paths: 
     - 'Plugins/**'
+  pull_request:
   
 jobs:
   xml-check:
