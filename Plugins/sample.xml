@@ -7,7 +7,7 @@
   <FriendlyName>Tool Switcher</FriendlyName>
   
   <!-- The author name that you want to appear in the list. -->
-   <!-- <Author>avaness</Author> -->
+	<Author>avaness</Author>
   
   <!-- Optional tag that adds a tooltip to the plugin in-game. -->
   <Tooltip>Allows scrolling between welder, grinder, and drill.</Tooltip>
