@@ -7,16 +7,13 @@ on:
     - 'Plugins/**'
   
 jobs:
-  build:
+  xml-check:
     if: github.repository == 'sepluginloader/PluginHub'
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout Plugin Hub
       uses: actions/checkout@v4
-      with:
-        path: PluginHub
-        fetch-depth: 0
     - uses: actions/setup-python@v4
       with:
         python-version: '3.11'
