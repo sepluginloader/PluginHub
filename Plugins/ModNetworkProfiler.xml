@@ -16,7 +16,7 @@
   <Description>This plugin creates a seperate window upon launching Space Engineers that displays information about mod networking, including packet count and size. It also generates a log file for this information, located in the game's AppData folder.</Description>
   
   <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
-  <Commit>ffdef9bf2949f5e2150e75abf8fd60c52e85fff1</Commit>
+  <Commit>f47fb7249e81f5493f22f025581f1bc77e86da17</Commit>
   
   <!-- Optional list of directories to take the cs files from. Use this if your repository has more than one project in it. (It is not needed for Tool Switcher)
   <SourceDirectories>
