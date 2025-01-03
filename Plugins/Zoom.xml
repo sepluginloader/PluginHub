@@ -4,7 +4,7 @@
   <GroupId>Zoom</GroupId>
   <FriendlyName>Zoom</FriendlyName>
   <Author>Rayla Valdez</Author>
-  <Commit>22861e1cf66f01485e9f12ed4d8beee6de90cbc4</Commit>
+  <Commit>46b65b49128a48f422ef2edb246344d3faf5b24e</Commit>
   <SourceDirectories>
     <Directory>ClientPlugin</Directory>
   </SourceDirectories>
@@ -12,6 +12,6 @@
   <Description>
 Plugin that allows for dynamic zooming for getting a peek at that pesky ship closing in.
     
-Credits go to Github user 'Math0424' for creating ScrollableFOV and then not including a config screen.
+Credits go to Github user 'Math0424' for creating ScrollableFOV.
   </Description>
 </PluginData>
