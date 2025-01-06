@@ -6,9 +6,9 @@
   <Tooltip>Replace paint on your ship or station</Tooltip>
   <Description>Activate the paint replacement mode by holding down the Alt key while aiming at a block.
 
-- **Alt+MMB**: Replace on the aimed subgrid
-- **Ctrl+Alt+MMB**: Replace on all subgrids
-- **Ctrl+Shift+Alt+MMB**: Replace on all connected ships
+Alt+MMB: Replace on the aimed subgrid
+Ctrl+Alt+MMB: Replace on all subgrids
+Ctrl+Shift+Alt+MMB: Replace on all connected ships
     
 Demo video: https://youtu.be/8r47laAgTI8
 
