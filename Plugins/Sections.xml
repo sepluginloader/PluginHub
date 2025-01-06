@@ -28,6 +28,7 @@ Enjoy!
   <SourceDirectories>
     <Directory>ClientPlugin</Directory>
   </SourceDirectories>
-  
-  <Hidden>true</Hidden>
+
+  <Hidden>false</Hidden>
+
 </PluginData>
