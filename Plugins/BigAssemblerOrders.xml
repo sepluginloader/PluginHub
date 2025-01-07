@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StarCpt/SE-BigAssemblerOrders</Id>
+  <FriendlyName>Larger Assembler Orders</FriendlyName>
+  <Author>StarCpt</Author>
+  <Tooltip>Allows larger assembler order amounts</Tooltip>
+  <Description>This plugin adds Ctrl+Shift+Alt keybind to add 10,000 items to the queue.</Description>
+  <Commit>53a1d342f9b1493c2fd72e6b4687ed019a0348d3</Commit>
+</PluginData>
