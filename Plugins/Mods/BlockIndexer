@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3410451798</Id>
+  <GroupId>BlockIndexer</GroupId>
+  <FriendlyName>Block Indexer</FriendlyName>
+  <Author>SnakeInventor</Author>
+  <Tooltip>Adds controls to IMyTerminalBlock implementing blocks that automate adding indexes to block names</Tooltip>
+  <Description>Adds controls to IMyTerminalBlock implementing blocks taht automate adding indexes to block names
+Features:
+- Text field to set starting index manually
+- Button to add incrementing indexes to all selected blocks
+- Automatically adds letter prefixes to indexes with more than 2 digits to preserve sorting order.
+  </Description>
+</PluginData>
