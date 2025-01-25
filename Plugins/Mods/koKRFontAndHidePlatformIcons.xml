@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3413495763</Id>
+  <FriendlyName>Korean Font (Hide Platform Icons Included)</FriendlyName>
+  <Author>Arstraea</Author>
+  <Tooltip>Overwrite font definitions for adding Korean font, and also "Hide Platform Icons" feature included.</Tooltip>
+  <Description>게임의 영문 폰트 정의 파일을 한글 폰트가 포함된 정의로 덮어씁니다.
+  Hide Platform Icons 모드와 같이 쓰는 경우 적용이 안될 수 있으므로, 이 모드만 사용하는 걸 권장합니다.
+  </Description>
+  <Hidden>true</Hidden>
+</PluginData>
