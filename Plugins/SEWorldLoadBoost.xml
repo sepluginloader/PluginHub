@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <!-- Place your github repository name here. One repository can only store one plugin. This one is from https://github.com/austinvaness/ToolSwitcherPlugin -->
+  <Id>ari-steas/SEWorldLoadBoost</Id>
+  
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>SEWorldLoadBoost</FriendlyName>
+  
+  <!-- The author name that you want to appear in the list. -->
+  <Author>Aristeas</Author>
+  
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Improves world load times.</Tooltip>
+
+  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+  <Description>Multithreads modscript compilation; can have a significant (20-50%) improvement in world load times.</Description>
+  
+  <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
+  <Commit>43fabf9755258699ce9b02f824fcfa3d9c9283be</Commit>
+</PluginData>
