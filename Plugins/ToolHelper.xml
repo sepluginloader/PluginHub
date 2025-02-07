@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>Pas2704/ToolHelper</Id>
+  <FriendlyName>Tool Helper</FriendlyName>
+  <Author>Pas2704</Author>
+  <Tooltip>Adds terminal controls to show the radius of ship tools.</Tooltip>
+  <Description>Adds terminal controls to show the radius of ship tools.
+The radius color changes based on whether the tool is idle, active, or incomplete.
+The keybind 'Alt + =' will toggle between showing normal and right-click drill radius.
+You can use '/th clear' to quickly disable the visuals without going through the terminal.
+There is also '/th toggle drills' as an alternative way to switch between showing normal and right-click drill radius.</Description>
+  <Commit>b0f5e461862ec4e03d0457a7680a1a39a992421d</Commit>
+</PluginData>
