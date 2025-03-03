@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <!-- Place the steam id of your workshop item here. -->
+  <Id>3299682578</Id>
+
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>CastSpectatorSC</FriendlyName>
+
+  <!-- The author name that you want to appear in the list. -->
+  <Author>Invalid</Author>
+
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Enhancements to the spectator camera.</Tooltip>
+
+  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+  <Description>Enhancements to the spectator camera based off of CastSpectator by Klime. Rebindable controls through TextHUDAPI</Description>
+
+
+</PluginData>
