@@ -16,5 +16,5 @@
   <Description>Multithreads modscript compilation; can have a significant (20-50%) improvement in world load times.</Description>
   
   <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main -->
-  <Commit>43fabf9755258699ce9b02f824fcfa3d9c9283be</Commit>
+  <Commit>4c8dc31696646e509dfadf3c9a1c26d94d9c2a13</Commit>
 </PluginData>
