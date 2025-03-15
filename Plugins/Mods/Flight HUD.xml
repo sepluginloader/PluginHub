@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+<Id>3445281509</Id>
+
+<FriendlyName>Flight HUD (Mod)</FriendlyName>
+
+<Author>Brillcrafter</Author>
+
+<Tooltip>Displays your Azimuth, Elevation and Roll.</Tooltip>
+
+<Description>This is a Mod that will display your current Azimuth, Elevation and Roll, with an Artificial Horizon and scrolling displays to help you keep oriented. REQUIRES TEXTHUDAPI TO WORK </Description>
+
+<Hidden>false</Hidden>
+
+<DependencyIds>
+    <Id>758597413</Id>
+  </DependencyIds>
+</PluginData>
