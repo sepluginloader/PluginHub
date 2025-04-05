@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3442090596</Id>
+  <FriendlyName>GFA - Jump to Lightspeed</FriendlyName>
+  <Author>enenra</Author>
+  <Tooltip>Changes the Jump-Drive visual</Tooltip>
+  <Description>This mod swaps the Jump Drive effect with the sound and visual effet of the star wars hyperdrive.</Description>
+  <Hidden>true</Hidden>
+</PluginData>
