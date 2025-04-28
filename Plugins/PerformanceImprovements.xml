@@ -26,6 +26,10 @@ Thank you!
 
   <AlternateVersions>
     <Version>
+      <Name>For SE 1.205.026</Name>
+      <Commit>24bd7512e49ea12aa1c3ca05313c534d347864b0</Commit>
+    </Version>
+    <Version>
       <Name>For SE 1.204.018</Name>
       <Commit>b0873e052c012bd20bfd36661deb700e18f1c3d4</Commit>
     </Version>
