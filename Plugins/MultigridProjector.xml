@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/multigrid-projector</GroupId>
   <FriendlyName>Multigrid Projector</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>d86c202c785b88c762acf0862e2263a6f5cb013b</Commit>
+  <Commit>7f3479bb04f6134f440414c2bd3a713b87a906dc</Commit>
   <SourceDirectories>
     <Directory>MultigridProjector</Directory>
     <Directory>MultigridProjectorApi</Directory>
@@ -26,6 +26,10 @@ Thank you!
   </Description>
 
   <AlternateVersions>
+    <Version>
+      <Name>For SE 1.205.026</Name>
+      <Commit>d86c202c785b88c762acf0862e2263a6f5cb013b</Commit>
+    </Version>
     <Version>
       <Name>For SE 1.204.018</Name>
       <Commit>7dcdb4c0aacfb9506e68f99bc9fece2999359682</Commit>
