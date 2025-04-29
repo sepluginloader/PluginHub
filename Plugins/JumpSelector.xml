@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
-  <Id>Allen-Wrench/JumpSelector</Id>
+  <Id>dj8552/JumpSelector</Id>
   <GroupId>JumpSelector</GroupId>
   <FriendlyName>Jump Selector</FriendlyName>
   <Author>dude</Author>
@@ -13,6 +13,6 @@
   Removes the field of view changes from the jump effect animation.
   *NEW* Added support for the custom turret controller.
   </Description>
-  <Commit>1536931baa67a71f9df6824b406ab15b3fd71681</Commit>
+  <Commit>49a3518cb10382df7a20ab6d593690074f055784</Commit>
   <Hidden>false</Hidden>
 </PluginData>

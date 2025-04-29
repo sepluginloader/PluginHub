@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin"> 
-  <Id>Allen-Wrench/AutoRemoveStone</Id>
+  <Id>dj8552/AutoRemoveStone</Id>
   <FriendlyName>Automatic Stone Removal</FriendlyName>
   <Author>dude</Author>
   <Tooltip>Automatically removes stone and/or ice from your ship.</Tooltip>
   <Description>When enabled, stone will automatically be deleted from your ships cargo. Enable by either using the button at the bottom of a ship drills terminal page, or by adding the toggle action to your toolbar. Function will stay on until you toggle it back off, or release control of your ship. *NEW* Added ice as another material to remove.
   </Description>
-  <Commit>ccf9f82b77c32a6f75816120202bab2ebcf6ecc1</Commit> 
+  <Commit>636e4b0c06ffeb10eebfced1a763edd6b9ecbe59</Commit> 
 </PluginData>
