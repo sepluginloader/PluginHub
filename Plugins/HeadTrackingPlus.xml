@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <!-- Place your github repository name here. One repository can only store one plugin. This one is from https://github.com/austinvaness/ToolSwitcherPlugin -->
+  <Id>austinvaness/ToolSwitcherPlugin</Id>
+  
+  <!-- The name of your plugin that will appear in the list. -->
+  <FriendlyName>HeadTrackingPlus</FriendlyName>
+  
+  <!-- The author name that you want to appear in the list. -->
+  <Author>Dogboy</Author>
+  
+  <!-- Optional tag that adds a tooltip to the plugin in-game. -->
+  <Tooltip>Move ur head like u crazy in dat cockpit</Tooltip>
+
+  <!-- Optional tag that adds a plugin description. If omitted, this will be the same as the Tooltip. 1000 characters max. -->
+  <Description>Updated version of Corben's SEHeadTracking Plugin</Description>
+  
+  <!-- The commit id. You can find this in the commits list: https://github.com/austinvaness/ToolSwitcherPlugin/commits/main IM NOT SURE OF THIS -->
+  <Commit>dd84fc351d4ffe9ca7fd85a4c2749ed3eafd6cbf</Commit>
+  
+  <!-- Optional list of directories to take the cs files from. Use this if your repository has more than one project in it. (It is not needed for Tool Switcher)
+  <SourceDirectories>
+    <Directory>Folder/Directory1</Directory>
+    <Directory>Directory 2</Directory>
+  </SourceDirectories> -->
+  
+  <!-- Optional tag that specifies whether the plugin is hidden. Hidden plugins only appear when they are enabled or searched for in the search box.
+  <Hidden>true</Hidden> -->
+
+  <!-- Optional list of alternate versions of the plugin
+  <AlternateVersions>
+    <Version>
+      <Name>Version Name</Name>
+      <Commit>Commit ID</Commit>
+    </Version>
+  </AlternateVersions> -->
+
+  <!-- To specify a required NuGet package, use either a list of PackageReference tags OR a Config tag.
+  <NuGetReferences>
+    <PackageReference Include="OVRSharp" Version="1.2.0" />
+  </NuGetReferences>
+
+  <NuGetReferences>
+    <Config>Project/packages.config</Config>
+  </NuGetReferences> -->
+
+  <!-- To specify asset files to be copied onto disk, use the AssetFolder tag.
+  <AssetFolder>Project/Assets/</AssetFolder> -->
+</PluginData>
