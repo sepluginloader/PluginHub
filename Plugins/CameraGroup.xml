@@ -4,7 +4,7 @@
   <GroupId>viktor-ferenczi/se-camera-group</GroupId>
   <FriendlyName>Camera Group</FriendlyName>
   <Author>Viktor</Author>
-  <Commit>09d8422fef0d7c88c277740fb6dbea5bebb5fb4b</Commit>
+  <Commit>3add971a25eeb05c289e525bb9c49d76900b505b</Commit>
   <SourceDirectories>
     <Directory>ClientPlugin</Directory>
   </SourceDirectories>
@@ -34,6 +34,10 @@ https://www.paypal.com/paypalme/vferenczi/
   </Description>
 
   <AlternateVersions>
+    <Version>
+      <Name>For SE 1.205.026</Name>
+      <Commit>09d8422fef0d7c88c277740fb6dbea5bebb5fb4b</Commit>
+    </Version>
     <Version>
       <Name>For SE 1.204.018</Name>
       <Commit>05fd221c7ce37e9d16d2188a8fc3d5e5c74e66d7</Commit>
