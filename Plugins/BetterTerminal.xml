@@ -9,7 +9,7 @@
 - Block filter
 - Show default block names
   
-For more information please see the plugin's GitHub page:
+Please see the full documentation on GitHub:
 https://github.com/viktor-ferenczi/se-better-terminal
 
 Please consider supporting my work:
@@ -22,11 +22,9 @@ SE Mods Discord https://discord.gg/PYPFPGf3Ca
 Enjoy!
 </Description>
   
-  <Commit>536596a48c9fbdd4439a2ed12e67cb6b8f93fa98</Commit>
+  <Commit>bb4b37fd3b0c1f4510b80ea2a8f0cb5de286a559</Commit>
   
   <SourceDirectories>
     <Directory>ClientPlugin</Directory>
   </SourceDirectories>
-  
-  <Hidden>true</Hidden>
 </PluginData>
