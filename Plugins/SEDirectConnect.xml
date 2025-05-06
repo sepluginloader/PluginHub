@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>civicwar/se-direct-connect</Id>
+  <GroupId>SEDirectConnect</GroupId>
+  <FriendlyName>SE Direct connect</FriendlyName>
+  <Author>Civicwar</Author>
+  <Tooltip>Direct Connect Made Easy</Tooltip>
+  <Description>
+    This plugins enables you to direct connect to SE servers without needing to
+    go through the server list.
+    Check you config file for the server list.
+  </Description>
+</PluginData>
