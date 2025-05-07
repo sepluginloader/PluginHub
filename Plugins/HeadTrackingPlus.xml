@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <!-- Place your github repository name here. One repository can only store one plugin. This one is from https://github.com/austinvaness/ToolSwitcherPlugin -->
-  <Id>austinvaness/ToolSwitcherPlugin</Id>
+  <Id>StrongBroArina2/SEHeadTrackingPlus</Id>
   
   <!-- The name of your plugin that will appear in the list. -->
   <FriendlyName>HeadTrackingPlus</FriendlyName>
