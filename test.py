@@ -1,6 +1,7 @@
 import os
 import sys
 import xml.etree.ElementTree as ET
+import re
 
 def main():
 	plugins = []
@@ -53,6 +54,12 @@ def validate(xmlFile: str):
 	if(element == None or element.text == None):
 		raise Exception(f"{xmlFile} is missing an Author")
 
+	if(pluginType == "GitHubPlugin"):
+		element = root.find("Commit")
+		if(element == None or element.text == None):
+			raise Exception(f"{xmlFile} is missing a Commit")
+		if(not re.search(r"^[0-9a-f]+$", element.text)):
+			raise Exception(f"'{element.text}' in {xmlFile} is not a valid commit id")
 
 if __name__ == "__main__":
     main()
