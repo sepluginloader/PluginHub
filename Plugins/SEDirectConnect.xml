@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>civicwar/se-direct-connect</Id>
-  <GroupId>SEDirectConnect</GroupId>
   <FriendlyName>SE Direct connect</FriendlyName>
   <Author>Civicwar</Author>
   <Tooltip>Direct Connect Made Easy</Tooltip>
@@ -10,4 +9,5 @@
     go through the server list.
     Check you config file for the server list.
   </Description>
+  <Commit>54adfbd5f7ce2e66497df6148f4f666bae34cf31</Commit>
 </PluginData>
