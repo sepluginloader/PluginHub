@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>InfernoSuperNova/SE-TargetCamera</Id>
+  <FriendlyName>Target Camera</FriendlyName>
+  <Author>DeltaWing</Author>
+  <Tooltip>Draws an on screen display of your current target.</Tooltip>
+  <Description> Compatible with both vanilla and WeaponCore. Obeys targeting rules of both systems.
+
+FOV is automatically adjusted to enclose the target. Scale and position can both be configured, as well as an optional minimum distance to cease drawing the camera.
+  
+To use, simply select a target using either targeting methods.</Description>
+  <Commit>308b564d762e841d1e9b67290193cbb7cfa7cf79</Commit>
+</PluginData>
