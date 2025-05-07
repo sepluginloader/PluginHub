@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
   <Id>1289485324</Id>
-  <GroupId>ProjectionsToAssembler</GroupId>
+   
   <FriendlyName>Projections To Assembler</FriendlyName>
   <Author>Meridius_IX / Lucas</Author>
   <Tooltip>This mod adds a button to the projector block that will queue the needed components for the currently projected grid in your assembler.</Tooltip>

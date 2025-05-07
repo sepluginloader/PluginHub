@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>WesternGamer/NoFeedbackOnExit</Id>
-  <GroupId>NoFeedbackOnExit</GroupId>
+   
   <FriendlyName>No Feedback On Game Exit</FriendlyName>
   <Author>WesternGamer</Author>
   <Tooltip>Removes the feedback page that shows up on beta builds of Space Engineers.</Tooltip>

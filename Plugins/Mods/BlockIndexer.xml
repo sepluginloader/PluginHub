@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
   <Id>3410451798</Id>
-  <GroupId>BlockIndexer</GroupId>
+   
   <FriendlyName>Block Indexer</FriendlyName>
   <Author>SnakeInventor</Author>
   <Tooltip>Adds controls to IMyTerminalBlock implementing blocks that automate adding indexes to block names</Tooltip>

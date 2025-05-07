@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>TheCrunchy/AllianceClientPlugin</Id>
-  <GroupId>AlliancePlugin</GroupId>
+   
   <FriendlyName>Alliance Client Plugin</FriendlyName>
   <Author>Crunch</Author>
   <Tooltip>Plugin for alliance chat recolor.</Tooltip>

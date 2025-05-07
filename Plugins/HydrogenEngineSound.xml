@@ -4,7 +4,7 @@
   <Id>Garbius/HydrogenEngineSound</Id>
   
   <!-- Optional tag that specifies the group this plugin belongs to. Only one plugin from a given group can be enabled. -->
-  <GroupId>HydrogenEngineSound</GroupId>
+   
   
   <!-- The name of your plugin that will appear in the list. -->
   <FriendlyName>Dynamic Hydrogen Engine Sound</FriendlyName>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>zznty/SpawnScreenFix</Id>
-  <GroupId>zznty/SpawnScreenFix</GroupId>
+   
   <FriendlyName>Spawn Screen Fix</FriendlyName>
   <Author>zznty</Author>
   <Commit>c665e4bd89430c0eeebec79f72384a2d10c65743</Commit>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>WesternGamer/FasterLoadGameScreen</Id>
-  <GroupId>WesternGamer/FasterLoadGameScreen</GroupId>
+   
   <FriendlyName>Faster Load Game Screen</FriendlyName>
   <Author>WesternGamer</Author>
   <Commit>d5be514dd923d421db280a2c90ae0a49a4e8d17e</Commit>

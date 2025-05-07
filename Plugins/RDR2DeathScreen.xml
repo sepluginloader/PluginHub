@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>WesternGamer/RDR2DeathScreen</Id>
-  <GroupId>RDR2DeathScreen</GroupId>
+   
   <FriendlyName>RDR2 Death Screen</FriendlyName>
   <Author>WesternGamer</Author>
   <Tooltip>Shows the Red Dead Redemption 2 death screen when player dies.</Tooltip>

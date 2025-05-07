@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
   <Id>2830474647</Id>
-  <GroupId>SunRotateSkybox</GroupId>
+   
   <FriendlyName>Rotate skybox with the Sun</FriendlyName>
   <Author>Digi</Author>
   <Tooltip>Rotates your skybox with the sun.</Tooltip>

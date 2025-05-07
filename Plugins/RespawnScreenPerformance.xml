@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>BDCarrillo/RespawnNoPreviewPlugin</Id>
-  <GroupId>BDCarrillo/RespawnNoPreviewPlugin</GroupId>
+   
   <FriendlyName>Respawn Screen Performance</FriendlyName>
   <Author>BDCarrillo</Author>
   <Commit>c767270c5a7e5fb6509b390be9424f7557744a4d</Commit>

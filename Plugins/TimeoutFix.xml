@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>StalkR/Space-Engineers-Timeout-Fix</Id>
-  <GroupId>TimeoutFix</GroupId>
+   
   <FriendlyName>Timeout Fix</FriendlyName>
   <Author>rexxar</Author>
   <Tooltip>Fix the "server is not responding" error.</Tooltip>

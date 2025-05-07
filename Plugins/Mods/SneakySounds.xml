@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
   <Id>1662953858</Id>
-  <GroupId>SneakySounds</GroupId>
+   
   <FriendlyName>Sneaky Sounds - Quieter Tools</FriendlyName>
   <Author>Splitsie</Author>
   <Tooltip>This is for those people who like hearing battle sounds loud while not being deafened by their grinder, welder and most of all drill.</Tooltip>

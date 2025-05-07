@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>raylavaldez/Zoom</Id>
-  <GroupId>Zoom</GroupId>
+   
   <FriendlyName>Zoom</FriendlyName>
   <Author>Rayla Valdez</Author>
   <Commit>46b65b49128a48f422ef2edb246344d3faf5b24e</Commit>

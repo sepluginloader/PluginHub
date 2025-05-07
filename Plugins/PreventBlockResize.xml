@@ -1,6 +1,6 @@
 <PluginData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>bcmpinc/SE-PreventBlockResize</Id>
-  <GroupId>PreventBlockResize</GroupId>
+   
   <FriendlyName>Prevent Block Resize</FriendlyName>
   <Author>bcmpinc</Author>
   <Tooltip>Prevents changing your building block size when looking at a differently sized grid.</Tooltip>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>WesternGamer/CreativeModeEnhancements</Id>
-  <GroupId>CreativeModeEnhancements</GroupId>
+   
   <FriendlyName>Creative Mode Enhancements</FriendlyName>
   <Author>WesternGamer</Author>
   <Tooltip>Tools and changes that make building in creative mode easier.</Tooltip>

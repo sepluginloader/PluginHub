@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>viktor-ferenczi/toolbar-manager</Id>
-  <GroupId>viktor-ferenczi/toolbar-manager</GroupId>
+   
   <FriendlyName>Toolbar Manager</FriendlyName>
   <Author>Viktor</Author>
   <Commit>ece41227e82766ec8d8a437f953aca311dfbf500</Commit>

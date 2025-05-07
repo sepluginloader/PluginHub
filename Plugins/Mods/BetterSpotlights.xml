@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
   <Id>2581520240</Id>
-  <GroupId>BetterSpotlights</GroupId>
+   
   <FriendlyName>Better Spotlights</FriendlyName>
   <Author>Thorn Blackwell</Author>
   <Tooltip>This mod makes a number of improvements on spotlights, based on what exists in reality.</Tooltip>

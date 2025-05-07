@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>WesternGamer/FileCleaner</Id>
-  <GroupId>FileCleaner</GroupId>
+   
   <FriendlyName>File Cleaner</FriendlyName>
   <Author>WesternGamer</Author>
   <Tooltip>This plugin deletes temporary files and log files when you launch the game.</Tooltip>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
   <Id>2077166496</Id>
-  <GroupId>EasyBlockRenaming</GroupId>
+   
   <FriendlyName>Easy Block Renaming</FriendlyName>
   <Author>Meridius_IX / Lucas</Author>
   <Tooltip>Adds controls to nearly all block types that allows you to easily rename multiple blocks at once.</Tooltip>

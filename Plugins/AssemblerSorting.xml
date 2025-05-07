@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>theit8514/AssemblerSortPlugin</Id>
-  <GroupId>theit8514/AssemblerSortPlugin</GroupId>
+   
   <FriendlyName>Assembler Sorting</FriendlyName>
   <Author>theit8514</Author>
   <Commit>c78d31f73b4e70a0189332326ce897c204629e39</Commit>

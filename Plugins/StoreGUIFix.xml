@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>dj8552/Store-GUI-Fix</Id>
-  <GroupId>dj8552/Store-GUI-Fix</GroupId>
+   
   <FriendlyName>Store GUI Fix</FriendlyName>
   <Author>DJ8552</Author>
   <Commit>a5da5297ab84df1ca3aa28b7c53e6ffb50ef9c8e</Commit>

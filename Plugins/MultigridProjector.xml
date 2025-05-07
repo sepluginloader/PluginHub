@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>viktor-ferenczi/multigrid-projector</Id>
-  <GroupId>viktor-ferenczi/multigrid-projector</GroupId>
+   
   <FriendlyName>Multigrid Projector</FriendlyName>
   <Author>Viktor</Author>
   <Commit>7f3479bb04f6134f440414c2bd3a713b87a906dc</Commit>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
   <Id>2766681016</Id>
-  <GroupId>ImperialLockOn</GroupId>
+   
   <FriendlyName>Star Wars Imperial Lock On Sound (Mod)</FriendlyName>
   <Author>Jay und Drang</Author>
   <Tooltip>This mod will make the lock on sound a imperial lock on sound effect.</Tooltip>
