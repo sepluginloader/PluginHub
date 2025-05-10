@@ -11,7 +11,7 @@
     Hold Ctrl+Shift and use the block rotation keys to move the rotation point.
     Hold Ctrl+Shift and press backspace to reset the cameras rotation point to default.
   </Description>
-  <Commit>643ddb42c8ecf028d47479c259131b9de0ccfa64</Commit> 
+  <Commit>ebc29f9d6b7e2403059c453e59bd2ce5ac026598</Commit> 
   <SourceDirectories>
     <Directory>CameraZoom</Directory>
   </SourceDirectories>
