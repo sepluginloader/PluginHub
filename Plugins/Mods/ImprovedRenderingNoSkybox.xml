@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3284184573</Id>
+
+  <FriendlyName>Rendering Improved (no skybox)</FriendlyName>
+
+  <Author>SEModder4</Author>
+
+  <Description>A mod used to improve rendering. This item includes, improved post-processing, cool sun flares and a less-saturated overall image.</Description>
+
+</PluginData>
